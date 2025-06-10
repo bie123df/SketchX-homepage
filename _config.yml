@@ -9,6 +9,7 @@
 title                    : "SketchX"
 description              : "Understand how seeing can be explained by drawing. "
 repository               : "bie123df/SketchX-homepage"
+baseurl                  :"/SketchX-homepage"
 google_scholar_stats_use_cdn : true
 
 # google analytics
