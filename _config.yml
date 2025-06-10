@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "SketchX"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/SketchX.png"
   bio              : 
   location         : "Guildford, United Kingdom"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=irZFP_AAAAAJ"
+  googlescholar    : 
   email            : 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
