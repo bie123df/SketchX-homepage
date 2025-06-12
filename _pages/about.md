@@ -100,7 +100,10 @@ SketchX has established itself as a world-leading research lab on human sketch a
 <span class='anchor' id='team-news'></span>
 ## 🔥 Team News
 
-<a class="twitter-timeline" href="https://twitter.com/SketchXlab?ref_src=twsrc%5Etfw">Tweets by SketchXlab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div>
+  <a class="twitter-timeline" data-height="600" href="https://twitter.com/SketchXlab?ref_src=twsrc%5Etfw">Tweets by SketchXlab</a>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 
 
