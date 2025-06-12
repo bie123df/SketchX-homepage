@@ -3,9 +3,6 @@ main:
   - title: "About the Team"
     url: "/#about-the-team"
 
-  - title: "Team News"
-    url: "/#team-news"
-
   - title: "Team Publications"
     url: "/#team-publications"
 
