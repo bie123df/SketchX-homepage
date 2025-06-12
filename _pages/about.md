@@ -95,7 +95,8 @@ SketchX has established itself as a world-leading research lab on human sketch a
 - 🏆 *Best Science Paper Award* at **BMVC 2015**
 - 🤝 Collaborations with **law enforcement agencies**
 - 🛍️ Partnerships with **online retail platforms**
-*27 x CVPR, 11 x ICCV, 11 x ECCV, 2 x SIGGRAPH Asia, 1 x ICLR, 1 x ICML, 1 x NeurIPS (as of July 2022)*
+- *27 x CVPR, 11 x ICCV, 11 x ECCV, 2 x SIGGRAPH Asia, 1 x ICLR, 1 x ICML, 1 x NeurIPS (as of July 2022)*
+
 
 
 
