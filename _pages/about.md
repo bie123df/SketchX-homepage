@@ -22,12 +22,12 @@ The ultimate vision for **SketchX** is to understand how seeing can be explained
 SketchX has been actively investigating all aspects of sketch research since 2012. The problems we study range from conventional tasks such as sketch recognition and sketch synthesis, to those we have pioneered, such as fine-grained sketch-based image retrieval and memory-aware forensic sketch analysis.
 
 <span class='anchor' id='team-members'></span>
-## Team Members
-<img src="{{ '/images/team_member.png' | relative_url }}" alt="Team Member" style="max-width: 300px; display: block; margin-top: 1em;">
+## 👥Team Members
+<img src="{{ '/images/team_member.png' | relative_url }}" alt="Team Member" style="max-width: 800px; display: block; margin-top: 1em;">
 
 
 <span class='anchor' id='team-publications'></span>
-## Team Publications
+## 📝 Team Publications
 1. [**Deeper, Broader and Artier Domain Generalization**](http://openaccess.thecvf.com/content_iccv_2017/html/Li_Deeper_Broader_and_ICCV_2017_paper.html)  
    *Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M. Hospedales*
 
@@ -57,9 +57,40 @@ SketchX has been actively investigating all aspects of sketch research since 201
 
 10. [**Sketch-a-net that beats humans**](https://arxiv.org/abs/1501.07873)  
    *Qian Yu, Yongxin Yang, Yi-Zhe Song, Tao Xiang, Timothy Hospedales*
+    
+11. [**Sketch-based image retrieval via siamese convolutional neural network**](https://ieeexplore.ieee.org/abstract/document/7532801/)  
+   *Yonggang Qi, Yi-Zhe Song, Honggang Zhang, Jun Liu* 
+
+12. [**Simpler is better: Few-shot semantic segmentation with classifier weight transformer**](http://openaccess.thecvf.com/content/ICCV2021/html/Lu_Simpler_Is_Better_Few-Shot_Semantic_Segmentation_With_Classifier_Weight_Transformer_ICCV_2021_paper.html)  
+   *Zhihe Lu, Sen He, Xiatian Zhu, Li Zhang, Yi-Zhe Song, Tao Xiang*
+
+13. [**Sketchmate: Deep hashing for million-scale human sketch retrieval**](http://openaccess.thecvf.com/content_cvpr_2018/html/Xu_SketchMate_Deep_Hashing_CVPR_2018_paper.html)  
+   *Peng Xu, Yongye Huang, Tongtong Yuan, Kaiyue Pang, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Zhanyu Ma, Jun Guo*
+
+14. [**Doodle to search: Practical zero-shot sketch-based image retrieval**](http://openaccess.thecvf.com/content_CVPR_2019/html/Dey_Doodle_to_Search_Practical_Zero-Shot_Sketch-Based_Image_Retrieval_CVPR_2019_paper.html)  
+   *Sounak Dey, Pau Riba, Anjan Dutta, Josep Llados, Yi-Zhe Song* 
+
+15. [**Text extraction from natural scene image: A survey**](https://www.sciencedirect.com/science/article/pii/S0925231213006309)  
+   *Honggang Zhang, Kaili Zhao, Yi-Zhe Song, Jun Guo*
+
+16. [**Stochastic classifiers for unsupervised domain adaptation**](http://openaccess.thecvf.com/content_CVPR_2020/html/Lu_Stochastic_Classifiers_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.html)  
+   *Zhihe Lu, Yongxin Yang, Xiatian Zhu, Cong Liu, Yi-Zhe Song, Tao Xiang*
+
+17. [**Deep learning for free-hand sketch: A survey**](https://ieeexplore.ieee.org/abstract/document/9706366/)  
+   *Peng Xu, Timothy M Hospedales, Qiyue Yin, Yi-Zhe Song, Tao Xiang, Liang Wang*
+
+18. [**Your "Flamingo" is My "Bird": Fine-Grained, or Not**](http://openaccess.thecvf.com/content/CVPR2021/html/Chang_Your_Flamingo_is_My_Bird_Fine-Grained_or_Not_CVPR_2021_paper.html)  
+   *Dongliang Chang, Kaiyue Pang, Yixiao Zheng, Zhanyu Ma, Yi-Zhe Song, Jun Guo* 
+
+19. [**Style-based global appearance flow for virtual try-on**](http://openaccess.thecvf.com/content/CVPR2022/html/He_Style-Based_Global_Appearance_Flow_for_Virtual_Try-On_CVPR_2022_paper.html)  
+   *Sen He, Yi-Zhe Song, Tao Xiang* 
+
+20. [**One loss for all: Deep hashing with a single cosine similarity based learning objective**](https://proceedings.neurips.cc/paper/2021/hash/cbcb58ac2e496207586df2854b17995f-Abstract.html)  
+   *Jiun Tian Hoe, Kam Woh Ng, Tianyu Zhang, Chee Seng Chan, Yi-Zhe Song, Tao Xiang*
+
 
 <span class='anchor' id='honors-and-awards'></span>
-## Honors and Awards
+## 🎖 Honors and Awards
 SketchX has established itself as a world-leading research lab on human sketch analytics. We continue to publish sketch-specific papers in top venues and have enjoyed many academic and commercial achievements, including:
 - 🏆 *Best Science Paper Award* at **BMVC 2015**
 - 🤝 Collaborations with **law enforcement agencies**
