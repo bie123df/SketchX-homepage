@@ -101,7 +101,7 @@ SketchX has established itself as a world-leading research lab on human sketch a
 ## 🔥 Team News
 
 <iframe border=0 frameborder=0 height=600 width=500
-src="https://twitframe.com/show?url=https://twitter.com/SketchXlab">
+src="https://twitframe.com/show?url=https://x.com/SketchXlab">
 </iframe>
 
 
