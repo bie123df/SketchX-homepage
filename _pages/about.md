@@ -58,8 +58,8 @@ SketchX has been actively investigating all aspects of sketch research since 201
 10. [**Sketch-a-net that beats humans**](https://arxiv.org/abs/1501.07873)  
    *Qian Yu, Yongxin Yang, Yi-Zhe Song, Tao Xiang, Timothy Hospedales*
 
-<span class='anchor' id='projects'></span>
-## honors-and-awards
+<span class='anchor' id='honors-and-awards'></span>
+## Honors and Awards
 SketchX has established itself as a world-leading research lab on human sketch analytics. We continue to publish sketch-specific papers in top venues and have enjoyed many academic and commercial achievements, including:
 - 🏆 *Best Science Paper Award* at **BMVC 2015**
 - 🤝 Collaborations with **law enforcement agencies**
