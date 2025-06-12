@@ -100,7 +100,9 @@ SketchX has established itself as a world-leading research lab on human sketch a
 <span class='anchor' id='team-news'></span>
 ## 🔥 Team News
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are at the stand B3 and B4. See you there! <a href="https://twitter.com/hashtag/AIUK2023?src=hash&amp;ref_src=twsrc%5Etfw">#AIUK2023</a> <a href="https://twitter.com/turinginst?ref_src=twsrc%5Etfw">@turinginst</a> <a href="https://t.co/ElnQumx7xm">https://t.co/ElnQumx7xm</a> <a href="https://t.co/D1MdGWlB1q">pic.twitter.com/D1MdGWlB1q</a></p>&mdash; Surrey Institute for People-Centred AI (@PeopleCentredAI) <a href="https://twitter.com/PeopleCentredAI/status/1638130139027349505?ref_src=twsrc%5Etfw">March 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<iframe border=0 frameborder=0 height=600 width=500
+src="https://twitframe.com/show?url=https://twitter.com/SketchXlab">
+</iframe>
 
 
 
