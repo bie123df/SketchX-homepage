@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div id="section-wrapper">
 <!-- Section: About -->
 <div class="section" id="about-section">
   <h2>Welcome to SketchX</h2>
@@ -61,7 +60,6 @@ redirect_from:
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-</div>
 
 <!-- 页面切换脚本 -->
 <script>
