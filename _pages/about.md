@@ -48,6 +48,12 @@ redirect_from:
   </ul>
 </div>
 
+<!-- Section: Projects -->
+<div class="section" id="projects-section" style="display: none;">
+  <h2>Projects</h2>
+  projects list
+</div>
+
 <!-- Section: News -->
 <div class="section" id="news-section" style="display: none;">
   <h2>🔥 Team News</h2>
