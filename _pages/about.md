@@ -8,33 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- 页面控制脚本：控制 section 显隐 -->
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const sections = document.querySelectorAll(".section");
-    const links = document.querySelectorAll(".masthead__menu-item a");
-
-    function showSection(id) {
-      sections.forEach(section => {
-        section.style.display = section.id === id + "-section" ? "block" : "none";
-      });
-    }
-
-    links.forEach(link => {
-      const url = new URL(link.href, window.location.origin);
-      const sectionId = url.pathname.replace("/", "");
-      link.addEventListener("click", function (e) {
-        e.preventDefault();
-        history.pushState(null, "", link.href);
-        showSection(sectionId || "about");
-      });
-    });
-
-    const currentPath = window.location.pathname.replace("/", "") || "about";
-    showSection(currentPath);
-  });
-</script>
-
 <!-- Section: About -->
 <div class="section" id="about-section">
   <h2>Welcome to SketchX</h2>
@@ -81,3 +54,51 @@ redirect_from:
   <a class="twitter-timeline" data-height="600" href="https://twitter.com/SketchXlab?ref_src=twsrc%5Etfw">Tweets by SketchXlab</a>
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
+
+<!-- 页面控制脚本：控制 section 显隐 -->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const sections = document.querySelectorAll(".section");
+    const links = document.querySelectorAll(".masthead__menu-item a");
+
+    function showSection(id) {
+      sections.forEach(section => {
+        section.style.display = section.id === id + "-section" ? "block" : "none";
+      });
+    }
+
+    links.forEach(link => {
+      const sectionId = link.getAttribute("data-section");
+      link.addEventListener("click", function (e) {
+        e.preventDefault();  // 阻止默认跳转
+        showSection(sectionId);
+        history.replaceState(null, "", "#" + sectionId);  // 用 hash 更新 URL
+      });
+    });
+
+    // 初始：根据 hash 显示
+    const initial = window.location.hash ? window.location.hash.substring(1) : "about";
+    showSection(initial);
+  });
+</script>
+
+<script>
+  function showSection(id) {
+    const sections = document.querySelectorAll(".section");
+    sections.forEach(section => {
+      section.style.display = (section.id === id) ? "block" : "none";
+    });
+    // 更新地址栏的 hash（比如 #publications）
+    if (id.endsWith("-section")) {
+      const hash = id.replace("-section", "");
+      history.replaceState(null, "", "#" + hash);
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    const hash = window.location.hash.replace("#", "") || "about";
+    const sectionId = hash + "-section";
+    showSection(sectionId);
+  });
+</script>
+
