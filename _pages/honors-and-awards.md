@@ -1,6 +1,7 @@
 ---
 title: Honors and Awards
 permalink: /honors-and-awards/
+layout: default
 ---
 
 
