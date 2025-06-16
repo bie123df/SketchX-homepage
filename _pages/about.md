@@ -50,7 +50,7 @@ redirect_from:
 <!-- Section: Projects -->
 <div class="section" id="projects-section" >
   <h2>Projects</h2>
-  projects list
+  projects-list
 </div>
 
 <!-- Section: News -->
