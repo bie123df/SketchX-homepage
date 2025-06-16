@@ -21,7 +21,7 @@ redirect_from:
 <!-- Section: Team Members -->
 <div class="section" id="team-members-section" >
   <h2>👥 Team Members</h2>
-  <img src="{{ '/images/team_member.png' | relative_url }}" alt="Team Member" style="max-width: 800px; display: block; margin-top: 1em;">
+  <img src="{{ '/images/team_member.png' | relative_url }}" alt="Team Member" style="max-width: 100%; height: auto; display: block; margin-top: 1em;">
 </div>
 
 <!-- Section: Publications -->
