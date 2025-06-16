@@ -67,12 +67,15 @@ redirect_from:
     const sections = document.querySelectorAll(".section");
     sections.forEach(section => {
       if (section.id === id) {
+        // 激活新 section
         section.classList.add("active");
-      } else {
+      } else if (section.classList.contains("active")) {
+        // 淡出旧 section 后再移除 active
         section.classList.remove("active");
       }
     });
 
+    // 更新地址栏的 hash
     if (id.endsWith("-section")) {
       const hash = id.replace("-section", "");
       history.replaceState(null, "", "#" + hash);
@@ -85,5 +88,6 @@ redirect_from:
     showSection(sectionId);
   });
 </script>
+
 
 
