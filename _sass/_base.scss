@@ -5,8 +5,6 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
-  overflow-x: hidden;  
-  width: 100vw;        
 }
 
 body {
@@ -16,8 +14,6 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
-  overflow-x: hidden; 
-  width: 100vw;       
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -32,9 +28,13 @@ body {
   position: absolute; 
   width: 100%;
   pointer-events: none;
-  word-wrap: break-word;
+  word-break: break-word;  
   overflow-wrap: break-word;
 }
+* {
+  box-sizing: border-box;
+}
+
 
 .section.active {
   opacity: 1;
@@ -42,7 +42,7 @@ body {
   pointer-events: auto;
 }
 p {
-  word-wrap: break-word;
+  word-break: break-word;  
   overflow-wrap: break-word;
   white-space: normal;
   max-width: 100%;
