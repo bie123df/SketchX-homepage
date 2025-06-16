@@ -6,13 +6,13 @@
         <ul class="visible-links">
           <!-- 固定的首页按钮 -->
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            <a href="#" onclick="showSection('about-section')">Homepage</a>
+            <a href="#" onclick="showSection('about-section'); return false;">Homepage</a>
           </li>
           <!-- 动态导航项 -->
           {% for link in site.data.navigation.main %}
             {% assign section_id = link.url | remove: '/' | append: '-section' %}
             <li class="masthead__menu-item">
-              <a href="#" onclick="showSection('{{ section_id }}')">{{ link.title }}</a>
+              <a href="#" onclick="showSection('{{ section_id }}'); return false;">{{ link.title }}</a>
             </li>
           {% endfor %}
         </ul>
