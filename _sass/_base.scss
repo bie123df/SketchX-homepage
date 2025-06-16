@@ -28,6 +28,9 @@ body {
   position: absolute; 
   width: 100%;
   pointer-events: none;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
 }
 
 .section.active {
