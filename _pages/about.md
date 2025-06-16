@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div id="section-wrapper">
 <!-- Section: About -->
 <div class="section" id="about-section">
   <h2>Welcome to SketchX</h2>
@@ -61,6 +61,8 @@ redirect_from:
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
+</div>
+
 <!-- 页面切换脚本 -->
 <script>
   function showSection(id) {
@@ -69,7 +71,7 @@ redirect_from:
       if (section.id === id) {
         // 激活新 section
         section.classList.add("active");
-      } else if (section.classList.contains("active")) {
+      } else {
         // 淡出旧 section 后再移除 active
         section.classList.remove("active");
       }
