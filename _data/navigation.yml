@@ -4,14 +4,17 @@ main:
     url: "/#about-the-team"
 
   - title: "Team Members"
-    url: "/#team-members"
+    url: "/team-members/"
     
   - title: "Team Publications"
-    url: "/#team-publications"
+    url: "/team-publications/"
 
   - title: "Honors and Awards"
-    url: "/#honors-and-awards"
+    url: "/honors-and-awards/"
 
   - title: "Team News"
-    url: "/#team-news"
+    url: "/team-news/"
+
+  - title: "Projects"
+    url: "/projects/"
 
