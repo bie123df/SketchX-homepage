@@ -20,13 +20,13 @@ redirect_from:
 </div>
 
 <!-- Section: Team Members -->
-<div class="section" id="team-members-section" style="display: none;">
+<div class="section" id="team-members-section" >
   <h2>👥 Team Members</h2>
   <img src="{{ '/images/team_member.png' | relative_url }}" alt="Team Member" style="max-width: 800px; display: block; margin-top: 1em;">
 </div>
 
 <!-- Section: Publications -->
-<div class="section" id="publications-section" style="display: none;">
+<div class="section" id="publications-section" >
   <h2>📝 Team Publications</h2>
   <ol>
     <li><a href="http://openaccess.thecvf.com/content_iccv_2017/html/Li_Deeper_Broader_and_ICCV_2017_paper.html">Deeper, Broader and Artier Domain Generalization</a><br><em>Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M. Hospedales</em></li>
@@ -38,7 +38,7 @@ redirect_from:
 </div>
 
 <!-- Section: Awards -->
-<div class="section" id="awards-section" style="display: none;">
+<div class="section" id="awards-section">
   <h2>🎖 Honors and Awards</h2>
   <ul>
     <li>🏆 <strong>Best Science Paper Award</strong> at <strong>BMVC 2015</strong></li>
@@ -49,13 +49,13 @@ redirect_from:
 </div>
 
 <!-- Section: Projects -->
-<div class="section" id="projects-section" style="display: none;">
+<div class="section" id="projects-section" >
   <h2>Projects</h2>
   projects list
 </div>
 
 <!-- Section: News -->
-<div class="section" id="news-section" style="display: none;">
+<div class="section" id="news-section" >
   <h2>🔥 Team News</h2>
   <a class="twitter-timeline" data-height="600" href="https://twitter.com/SketchXlab?ref_src=twsrc%5Etfw">Tweets by SketchXlab</a>
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
