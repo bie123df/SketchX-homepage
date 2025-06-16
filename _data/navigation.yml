@@ -4,7 +4,7 @@ main:
     url: "/#about-the-team"
 
   - title: "Team Members"
-    url: "/#team-members""
+    url: "/#team-members"
     
   - title: "Team Publications"
     url: "/team-publications/"
