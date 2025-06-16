@@ -66,9 +66,13 @@ redirect_from:
   function showSection(id) {
     const sections = document.querySelectorAll(".section");
     sections.forEach(section => {
-      section.style.display = (section.id === id) ? "block" : "none";
+      if (section.id === id) {
+        section.classList.add("active");
+      } else {
+        section.classList.remove("active");
+      }
     });
-    // 更新地址栏的 hash（比如 #publications）
+
     if (id.endsWith("-section")) {
       const hash = id.replace("-section", "");
       history.replaceState(null, "", "#" + hash);
@@ -81,4 +85,5 @@ redirect_from:
     showSection(sectionId);
   });
 </script>
+
 
