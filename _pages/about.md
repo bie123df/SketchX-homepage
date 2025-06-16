@@ -11,9 +11,9 @@ redirect_from:
 <div class="section" id="about-section">
   <h2>Welcome to SketchX</h2>
   <p>
-    The ultimate vision for <strong>SketchX</strong> is to understand how seeing can be <br>
+    The ultimate vision for <strong>SketchX</strong> is to understand how seeing can be
     explained by drawing. In other words, how a better understanding of human sketch data <br>
-    can be translated into insights on how human visual systems operate — and in turn, how <br>
+    can be translated into insights on how human visual systems operate — and in turn, how
     such insights can benefit computer vision and cognitive science at large.
   </p>
   <p>
