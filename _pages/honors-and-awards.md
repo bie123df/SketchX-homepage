@@ -1,3 +1,9 @@
+---
+title: Honors and Awards
+permalink: /honors-and-awards/
+---
+
+
 ## 🎖 Honors and Awards
 SketchX has established itself as a world-leading research lab on human sketch analytics. We continue to publish sketch-specific papers in top venues and have enjoyed many academic and commercial achievements, including:
 - 🏆 *Best Science Paper Award* at **BMVC 2015**
