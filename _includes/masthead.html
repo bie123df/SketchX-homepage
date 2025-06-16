@@ -4,9 +4,16 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-the-team">Homepage</a></li>
+          <!-- 固定的首页按钮 -->
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+            <a href="#" onclick="showSection('about-section')">Homepage</a>
+          </li>
+          <!-- 动态导航项 -->
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
+            {% assign section_id = link.url | remove: '/' | append: '-section' %}
+            <li class="masthead__menu-item">
+              <a href="#" onclick="showSection('{{ section_id }}')">{{ link.title }}</a>
+            </li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
