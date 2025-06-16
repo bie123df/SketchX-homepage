@@ -1,3 +1,10 @@
+---
+title: Team Publications
+permalink: /team-publications/
+---
+
+
+
 ## 📝 Team Publications
 1. [**Deeper, Broader and Artier Domain Generalization**](http://openaccess.thecvf.com/content_iccv_2017/html/Li_Deeper_Broader_and_ICCV_2017_paper.html)  
    *Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M. Hospedales*
