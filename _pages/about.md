@@ -15,17 +15,22 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-the-team'></span>
 
+<div class="section" id="about-section">
+<span class='anchor' id='about-the-team'></span>
 The ultimate vision for **SketchX** is to understand how seeing can be explained by drawing. In other words, how a better understanding of human sketch data can be translated into insights on how human visual systems operate — and in turn, how such insights can benefit computer vision and cognitive science at large.
 
 SketchX has been actively investigating all aspects of sketch research since 2012. The problems we study range from conventional tasks such as sketch recognition and sketch synthesis, to those we have pioneered, such as fine-grained sketch-based image retrieval and memory-aware forensic sketch analysis.
+</div>
 
+<div class="section" id="team-members-section">
 <span class='anchor' id='team-members'></span>
 ## 👥Team Members
 <img src="{{ '/images/team_member.png' | relative_url }}" alt="Team Member" style="max-width: 800px; display: block; margin-top: 1em;">
+</div>
 
 
+<div class="section" id="publications-section">
 <span class='anchor' id='team-publications'></span>
 ## 📝 Team Publications
 1. [**Deeper, Broader and Artier Domain Generalization**](http://openaccess.thecvf.com/content_iccv_2017/html/Li_Deeper_Broader_and_ICCV_2017_paper.html)  
@@ -89,6 +94,9 @@ SketchX has been actively investigating all aspects of sketch research since 201
    *Jiun Tian Hoe, Kam Woh Ng, Tianyu Zhang, Chee Seng Chan, Yi-Zhe Song, Tao Xiang*
 
 
+</div>
+
+<div class="section" id="awards-section">
 <span class='anchor' id='honors-and-awards'></span>
 ## 🎖 Honors and Awards
 SketchX has established itself as a world-leading research lab on human sketch analytics. We continue to publish sketch-specific papers in top venues and have enjoyed many academic and commercial achievements, including:
@@ -97,13 +105,46 @@ SketchX has established itself as a world-leading research lab on human sketch a
 - 🛍️ Partnerships with **online retail platforms**
 - *27 x CVPR, 11 x ICCV, 11 x ECCV, 2 x SIGGRAPH Asia, 1 x ICLR, 1 x ICML, 1 x NeurIPS (as of July 2022)*
 
+
+</div>
+<div class="section" id="projects-section">
+<span class='anchor' id='projects'></span>
+## Projects
+projects list
+
+
+</div>
+
+<div class="section" id="news-section">
 <span class='anchor' id='team-news'></span>
 ## 🔥 Team News
 <a class="twitter-timeline" data-height="600" href="https://twitter.com/SketchXlab?ref_src=twsrc%5Etfw">Tweets by SketchXlab</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+</div>
 
+
+
+<script>
+  function showSection(id) {
+    document.querySelectorAll('.section').forEach(el => el.style.display = 'none');
+    const target = document.getElementById(id);
+    if (target) {
+      target.style.display = 'block';
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  }
+
+  window.onload = () => showSection('about-section');
+</script>
+
+<style>
+  .section {
+    display: none;
+    padding: 1em;
+  }
+</style>
 
 
 
