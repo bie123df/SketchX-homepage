@@ -22,7 +22,7 @@ body {
 }
 .section {
   opacity: 0;
-  transition: opacity 0.3s ease;
+  transition: opacity 0.8s ease;
   position: absolute; /* 或者 relative，配合布局调整 */
   width: 100%;
   pointer-events: none; /* 隐藏时禁用点击 */
