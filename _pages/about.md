@@ -55,33 +55,7 @@ redirect_from:
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-<!-- 页面控制脚本：控制 section 显隐 -->
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const sections = document.querySelectorAll(".section");
-    const links = document.querySelectorAll(".masthead__menu-item a");
-
-    function showSection(id) {
-      sections.forEach(section => {
-        section.style.display = section.id === id + "-section" ? "block" : "none";
-      });
-    }
-
-    links.forEach(link => {
-      const sectionId = link.getAttribute("data-section");
-      link.addEventListener("click", function (e) {
-        e.preventDefault();  // 阻止默认跳转
-        showSection(sectionId);
-        history.replaceState(null, "", "#" + sectionId);  // 用 hash 更新 URL
-      });
-    });
-
-    // 初始：根据 hash 显示
-    const initial = window.location.hash ? window.location.hash.substring(1) : "about";
-    showSection(initial);
-  });
-</script>
-
+<!-- 页面切换脚本 -->
 <script>
   function showSection(id) {
     const sections = document.querySelectorAll(".section");
