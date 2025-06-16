@@ -22,21 +22,20 @@ body {
 }
 .section {
   opacity: 0;
-  transition: opacity 0.8s ease;
-  position: absolute; /* 或者 relative，配合布局调整 */
+  visibility: hidden;
+  transition: opacity 1s ease, visibility 1s ease;
+  position: absolute;
   width: 100%;
-  pointer-events: none; /* 隐藏时禁用点击 */
-  height: auto;
-  max-height: 0;
-  overflow: hidden;
+  pointer-events: none;
 }
 
 .section.active {
   opacity: 1;
-  pointer-events: auto; /* 激活时允许点击 */
-  max-height: 100vh; /* 或你需要的最大高度 */
-  position: relative; /* 激活时恢复正常定位 */
+  visibility: visible;
+  pointer-events: auto;
+  position: relative;
 }
+
 
 
 h1, h2, h3, h4, h5, h6 {
