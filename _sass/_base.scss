@@ -20,31 +20,23 @@ body {
     overflow: hidden;
   }
 }
-#section-wrapper {
-  position: relative;
-  min-height: 500px; /* 可选，根据你的内容设定 */
-  overflow: hidden;
-}
 
 .section {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-
   opacity: 0;
   visibility: hidden;
+  transition: opacity 0.8s ease;
+  position: absolute; 
+  width: 100%;
+  top: 0;
+  left: 0;
   pointer-events: none;
-  transition: opacity 1s ease;
 }
 
 .section.active {
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
-  z-index: 1;
 }
-
 
 h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 0.5em;
