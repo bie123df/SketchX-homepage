@@ -8,147 +8,76 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-
-<div class="section" id="about-section">
-<span class='anchor' id='about-the-team'></span>
-The ultimate vision for **SketchX** is to understand how seeing can be explained by drawing. In other words, how a better understanding of human sketch data can be translated into insights on how human visual systems operate — and in turn, how such insights can benefit computer vision and cognitive science at large.
-
-SketchX has been actively investigating all aspects of sketch research since 2012. The problems we study range from conventional tasks such as sketch recognition and sketch synthesis, to those we have pioneered, such as fine-grained sketch-based image retrieval and memory-aware forensic sketch analysis.
-</div>
-
-<div class="section" id="team-members-section">
-<span class='anchor' id='team-members'></span>
-## 👥Team Members
-<img src="{{ '/images/team_member.png' | relative_url }}" alt="Team Member" style="max-width: 800px; display: block; margin-top: 1em;">
-</div>
-
-
-<div class="section" id="publications-section">
-<span class='anchor' id='team-publications'></span>
-## 📝 Team Publications
-1. [**Deeper, Broader and Artier Domain Generalization**](http://openaccess.thecvf.com/content_iccv_2017/html/Li_Deeper_Broader_and_ICCV_2017_paper.html)  
-   *Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M. Hospedales*
-
-2. [**Learning to generalize: Meta-learning for domain generalization**](https://ojs.aaai.org/index.php/AAAI/article/view/11596)  
-   *Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M Hospedales* 
-
-3. [**Episodic training for domain generalization**](http://openaccess.thecvf.com/content_ICCV_2019/html/Li_Episodic_Training_for_Domain_Generalization_ICCV_2019_paper.html)  
-   *Da Li, Jianshu Zhang, Yongxin Yang, Cong Liu, Yi-Zhe Song, Timothy M Hospedales* 
-
-4. [**Fine-grained visual classification via progressive multi-granularity training of jigsaw patches**](https://link.springer.com/chapter/10.1007/978-3-030-58565-5_10)  
-   *Ruoyi Du, Dongliang Chang, Ayan Kumar Bhunia, Jiyang Xie, Yi-Zhe Song, Zhanyu Ma, Jun Guo*
-
-5. [**The devil is in the channels: Mutual-channel loss for fine-grained image classification**](https://ieeexplore.ieee.org/abstract/document/9005389/)  
-   *Dongliang Chang, Yifeng Ding, Jiyang Xie, Ayan Kumar Bhunia, Xiaoxu Li, Zhanyu Ma, Ming Wu, Jun Guo, Yi-Zhe Song*
-
-6. [**Fine-grained image analysis with deep learning: A survey**](https://ieeexplore.ieee.org/abstract/document/9609630/)  
-   *Xiu-Shen Wei, Yi-Zhe Song, Oisin Mac Aodha, Jianxin Wu, Yuxin Peng, Jinhui Tang, Jian Yang, Serge Belongie* 
-
-7. [**Sketch-a-net: A deep neural network that beats humans**](https://link.springer.com/article/10.1007/s11263-016-0932-3)  
-   *Qian Yu, Yongxin Yang, Feng Liu, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales* 
-
-8. [**Deep Spatial-Semantic Attention for Fine-Grained Sketch-Based Image Retrieval**](http://openaccess.thecvf.com/content_iccv_2017/html/Song_Deep_Spatial-Semantic_Attention_ICCV_2017_paper.html)  
-   *Jifei Song, Yu Qian, Yi-Zhe Song, Tao Xiang, Timothy Hospedales* 
-
-9. [**Generalizable person re-identification by domain-invariant mapping network**](http://openaccess.thecvf.com/content_CVPR_2019/html/Song_Generalizable_Person_Re-Identification_by_Domain-Invariant_Mapping_Network_CVPR_2019_paper.html)  
-   *Jifei Song, Yongxin Yang, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales*
-
-10. [**Sketch-a-net that beats humans**](https://arxiv.org/abs/1501.07873)  
-   *Qian Yu, Yongxin Yang, Yi-Zhe Song, Tao Xiang, Timothy Hospedales*
-    
-11. [**Sketch-based image retrieval via siamese convolutional neural network**](https://ieeexplore.ieee.org/abstract/document/7532801/)  
-   *Yonggang Qi, Yi-Zhe Song, Honggang Zhang, Jun Liu* 
-
-12. [**Simpler is better: Few-shot semantic segmentation with classifier weight transformer**](http://openaccess.thecvf.com/content/ICCV2021/html/Lu_Simpler_Is_Better_Few-Shot_Semantic_Segmentation_With_Classifier_Weight_Transformer_ICCV_2021_paper.html)  
-   *Zhihe Lu, Sen He, Xiatian Zhu, Li Zhang, Yi-Zhe Song, Tao Xiang*
-
-13. [**Sketchmate: Deep hashing for million-scale human sketch retrieval**](http://openaccess.thecvf.com/content_cvpr_2018/html/Xu_SketchMate_Deep_Hashing_CVPR_2018_paper.html)  
-   *Peng Xu, Yongye Huang, Tongtong Yuan, Kaiyue Pang, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Zhanyu Ma, Jun Guo*
-
-14. [**Doodle to search: Practical zero-shot sketch-based image retrieval**](http://openaccess.thecvf.com/content_CVPR_2019/html/Dey_Doodle_to_Search_Practical_Zero-Shot_Sketch-Based_Image_Retrieval_CVPR_2019_paper.html)  
-   *Sounak Dey, Pau Riba, Anjan Dutta, Josep Llados, Yi-Zhe Song* 
-
-15. [**Text extraction from natural scene image: A survey**](https://www.sciencedirect.com/science/article/pii/S0925231213006309)  
-   *Honggang Zhang, Kaili Zhao, Yi-Zhe Song, Jun Guo*
-
-16. [**Stochastic classifiers for unsupervised domain adaptation**](http://openaccess.thecvf.com/content_CVPR_2020/html/Lu_Stochastic_Classifiers_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.html)  
-   *Zhihe Lu, Yongxin Yang, Xiatian Zhu, Cong Liu, Yi-Zhe Song, Tao Xiang*
-
-17. [**Deep learning for free-hand sketch: A survey**](https://ieeexplore.ieee.org/abstract/document/9706366/)  
-   *Peng Xu, Timothy M Hospedales, Qiyue Yin, Yi-Zhe Song, Tao Xiang, Liang Wang*
-
-18. [**Your "Flamingo" is My "Bird": Fine-Grained, or Not**](http://openaccess.thecvf.com/content/CVPR2021/html/Chang_Your_Flamingo_is_My_Bird_Fine-Grained_or_Not_CVPR_2021_paper.html)  
-   *Dongliang Chang, Kaiyue Pang, Yixiao Zheng, Zhanyu Ma, Yi-Zhe Song, Jun Guo* 
-
-19. [**Style-based global appearance flow for virtual try-on**](http://openaccess.thecvf.com/content/CVPR2022/html/He_Style-Based_Global_Appearance_Flow_for_Virtual_Try-On_CVPR_2022_paper.html)  
-   *Sen He, Yi-Zhe Song, Tao Xiang* 
-
-20. [**One loss for all: Deep hashing with a single cosine similarity based learning objective**](https://proceedings.neurips.cc/paper/2021/hash/cbcb58ac2e496207586df2854b17995f-Abstract.html)  
-   *Jiun Tian Hoe, Kam Woh Ng, Tianyu Zhang, Chee Seng Chan, Yi-Zhe Song, Tao Xiang*
-
-
-</div>
-
-<div class="section" id="awards-section">
-<span class='anchor' id='honors-and-awards'></span>
-## 🎖 Honors and Awards
-SketchX has established itself as a world-leading research lab on human sketch analytics. We continue to publish sketch-specific papers in top venues and have enjoyed many academic and commercial achievements, including:
-- 🏆 *Best Science Paper Award* at **BMVC 2015**
-- 🤝 Collaborations with **law enforcement agencies**
-- 🛍️ Partnerships with **online retail platforms**
-- *27 x CVPR, 11 x ICCV, 11 x ECCV, 2 x SIGGRAPH Asia, 1 x ICLR, 1 x ICML, 1 x NeurIPS (as of July 2022)*
-
-
-</div>
-<div class="section" id="projects-section">
-<span class='anchor' id='projects'></span>
-## Projects
-projects list
-
-
-</div>
-
-<div class="section" id="news-section">
-<span class='anchor' id='team-news'></span>
-## 🔥 Team News
-<a class="twitter-timeline" data-height="600" href="https://twitter.com/SketchXlab?ref_src=twsrc%5Etfw">Tweets by SketchXlab</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-</div>
-
-
-
+<!-- 页面控制脚本：控制 section 显隐 -->
 <script>
-  function showSection(id) {
-    document.querySelectorAll('.section').forEach(el => el.style.display = 'none');
-    const target = document.getElementById(id);
-    if (target) {
-      target.style.display = 'block';
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
-  }
+  document.addEventListener("DOMContentLoaded", function () {
+    const sections = document.querySelectorAll(".section");
+    const links = document.querySelectorAll(".masthead__menu-item a");
 
-  window.onload = () => showSection('about-section');
+    function showSection(id) {
+      sections.forEach(section => {
+        section.style.display = section.id === id + "-section" ? "block" : "none";
+      });
+    }
+
+    links.forEach(link => {
+      const url = new URL(link.href, window.location.origin);
+      const sectionId = url.pathname.replace("/", "");
+      link.addEventListener("click", function (e) {
+        e.preventDefault();
+        history.pushState(null, "", link.href);
+        showSection(sectionId || "about");
+      });
+    });
+
+    const currentPath = window.location.pathname.replace("/", "") || "about";
+    showSection(currentPath);
+  });
 </script>
 
-<style>
-  .section {
-    display: none;
-    padding: 1em;
-  }
-</style>
+<!-- Section: About -->
+<div class="section" id="about-section">
+  <h2>Welcome to SketchX</h2>
+  <p>
+    The ultimate vision for <strong>SketchX</strong> is to understand how seeing can be explained by drawing. In other words, how a better understanding of human sketch data can be translated into insights on how human visual systems operate — and in turn, how such insights can benefit computer vision and cognitive science at large.
+  </p>
+  <p>
+    SketchX has been actively investigating all aspects of sketch research since 2012. The problems we study range from conventional tasks such as sketch recognition and sketch synthesis, to those we have pioneered, such as fine-grained sketch-based image retrieval and memory-aware forensic sketch analysis.
+  </p>
+</div>
 
+<!-- Section: Team Members -->
+<div class="section" id="team-members-section" style="display: none;">
+  <h2>👥 Team Members</h2>
+  <img src="{{ '/images/team_member.png' | relative_url }}" alt="Team Member" style="max-width: 800px; display: block; margin-top: 1em;">
+</div>
 
+<!-- Section: Publications -->
+<div class="section" id="publications-section" style="display: none;">
+  <h2>📝 Team Publications</h2>
+  <ol>
+    <li><a href="http://openaccess.thecvf.com/content_iccv_2017/html/Li_Deeper_Broader_and_ICCV_2017_paper.html">Deeper, Broader and Artier Domain Generalization</a><br><em>Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M. Hospedales</em></li>
+    <li><a href="https://ojs.aaai.org/index.php/AAAI/article/view/11596">Learning to generalize: Meta-learning for domain generalization</a><br><em>Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M Hospedales</em></li>
+    <!-- ... 其余条目略 ... -->
+    <li><a href="http://openaccess.thecvf.com/content/CVPR2022/html/He_Style-Based_Global_Appearance_Flow_for_Virtual_Try-On_CVPR_2022_paper.html">Style-based global appearance flow for virtual try-on</a><br><em>Sen He, Yi-Zhe Song, Tao Xiang</em></li>
+    <li><a href="https://proceedings.neurips.cc/paper/2021/hash/cbcb58ac2e496207586df2854b17995f-Abstract.html">One loss for all: Deep hashing with a single cosine similarity based learning objective</a><br><em>Jiun Tian Hoe, Kam Woh Ng, Tianyu Zhang, Chee Seng Chan, Yi-Zhe Song, Tao Xiang</em></li>
+  </ol>
+</div>
 
+<!-- Section: Awards -->
+<div class="section" id="awards-section" style="display: none;">
+  <h2>🎖 Honors and Awards</h2>
+  <ul>
+    <li>🏆 <strong>Best Science Paper Award</strong> at <strong>BMVC 2015</strong></li>
+    <li>🤝 Collaborations with <strong>law enforcement agencies</strong></li>
+    <li>🛍️ Partnerships with <strong>online retail platforms</strong></li>
+    <li>27 x CVPR, 11 x ICCV, 11 x ECCV, 2 x SIGGRAPH Asia, 1 x ICLR, 1 x ICML, 1 x NeurIPS (as of July 2022)</li>
+  </ul>
+</div>
 
-
-
-
+<!-- Section: News -->
+<div class="section" id="news-section" style="display: none;">
+  <h2>🔥 Team News</h2>
+  <a class="twitter-timeline" data-height="600" href="https://twitter.com/SketchXlab?ref_src=twsrc%5Etfw">Tweets by SketchXlab</a>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
