@@ -20,6 +20,24 @@ body {
     overflow: hidden;
   }
 }
+.section {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  position: absolute; /* 或者 relative，配合布局调整 */
+  width: 100%;
+  pointer-events: none; /* 隐藏时禁用点击 */
+  height: auto;
+  max-height: 0;
+  overflow: hidden;
+}
+
+.section.active {
+  opacity: 1;
+  pointer-events: auto; /* 激活时允许点击 */
+  max-height: 100vh; /* 或你需要的最大高度 */
+  position: relative; /* 激活时恢复正常定位 */
+}
+
 
 h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 0.5em;
