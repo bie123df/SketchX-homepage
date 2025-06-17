@@ -199,6 +199,12 @@ redirect_from:
 <li><a href="https://ieeexplore.ieee.org/abstract/document/8016664/">Synergistic instance-level subspace alignment for fine-grained sketch-based image retrieval</a><br><em>Ke Li, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Tao Xiang, Honggang Zhang</em></li>
 
 <li><a href="http://openaccess.thecvf.com/content/CVPR2022/html/Bhunia_Doodle_It_Yourself_Class_Incremental_Learning_by_Drawing_a_Few_CVPR_2022_paper.html">Doodle it yourself: Class incremental learning by drawing a few sketches</a><br><em>Ayan Kumar Bhunia, Viswanatha Reddy Gajjala, Subhadeep Koley, Rohit Kundu, Aneeshan Sain, Tao Xiang, Yi-Zhe Song</em></li>
+<li>
+  <a href="http://openaccess.thecvf.com/content/ICCV2021/html/Chen_Variational_Attention_Propagating_Domain-Specific_Knowledge_for_Multi-Domain_Learning_in_Crowd_ICCV_2021_paper.html">
+    Variational attention: Propagating domain-specific knowledge for multi-domain learning in crowd counting
+  </a><br>
+  <em>Binghui Chen, Zhaoyi Yan, Ke Li, Pengyu Li, Biao Wang, Wangmeng Zuo, Lei Zhang</em>
+</li>
 
 <li><a href="http://openaccess.thecvf.com/content/ICCV2021/html/Bhunia_Text_Is_Text_No_Matter_What_Unifying_Text_Recognition_Using_ICCV_2021_paper.html">Text is text, no matter what: Unifying text recognition using knowledge distillation</a><br><em>Ayan Kumar Bhunia, Aneeshan Sain, Pinaki Nath Chowdhury, Yi-Zhe Song</em></li>
 
@@ -355,6 +361,40 @@ redirect_from:
 <li><a href="https://arxiv.org/abs/2211.10715">Single stage multi-pose virtual try-on</a><br><em>Sen He, Yi-Zhe Song, Tao Xiang</em></li>
 <li><a href="http://openaccess.thecvf.com/content/CVPR2024W/FGVC11/html/Ng_ConceptHash_Interpretable_Fine-Grained_Hashing_via_Concept_Discovery_CVPRW_2024_paper.html">ConceptHash: Interpretable Fine-Grained Hashing via Concept Discovery</a><br><em>Kam Woh Ng, Xiatian Zhu, Yi-Zhe Song, Tao Xiang</em></li>
 <li><a href="https://arxiv.org/abs/2311.07261">Sketch-based video object segmentation: benchmark and analysis</a><br><em>Ruolin Yang, Da Li, Conghui Hu, Timothy Hospedales, Honggang Zhang, Yi-Zhe Song</em></li>
+<li>
+  <a href="https://ieeexplore.ieee.org/abstract/document/7805451/">
+    Cross-modal face matching: Tackling visual abstraction using fine-grained attributes
+  </a><br>
+  <em>Yichuan Hu, Ke Li, Honggang Zhang</em>
+</li>
+
+<li>
+  <a href="https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/html/Xiang_CDAD_A_Common_Daily_Action_Dataset_With_Collected_Hard_Negative_CVPRW_2022_paper.html">
+    CDAD: A Common Daily Action Dataset with Collected Hard Negative Samples
+  </a><br>
+  <em>Wangmeng Xiang, Chao Li, Ke Li, Biao Wang, Xian-sheng Hua, Lei Zhang</em>
+</li>
+
+<li>
+  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32894">
+    VA-AR: Learning Velocity-Aware Action Representations with Mixture of Window Attention
+  </a><br>
+  <em>Jiangning Wei, Lixiong Qin, Bo Yu, Tianjian Zou, Chuhan Yan, Dandan Xiao, Yang Yu, Lan Yang, Ke Li, Jun Liu</em>
+</li>
+
+<li>
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-72353-7_14">
+    Advancing Free-Breathing Cardiac Cine MRI: Retrospective Respiratory Motion Correction Via Kspace-and-Image Guided Diffusion Model
+  </a><br>
+  <em>Hongming Guo, Ziqing Huang, Qian Yuan, Hanbo Song, Zhiyan Liu, Xianzhao Feng, Anqi Liu, Min Liu, Ke Li, Ruixi Zhou</em>
+</li>
+
+<li>
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-78347-0_3">
+    Sketch2Seg: Sketch-Based Image Segmentation with Pre-trained Diffusion Model
+  </a><br>
+  <em>Xin Dai, Haoge Deng, Ke Li, Yonggang Qi</em>
+</li>
 <li><a href="https://openreview.net/forum?id=nQsimt9atc">Ipr-nerf: Ownership verification meets neural radiance field</a><br><em>Win Kent Ong, Kam Woh Ng, Chee Seng Chan, Yi-Zhe Song, Tao Xiang</em></li>
 <li><a href="https://ieeexplore.ieee.org/abstract/document/10273439/">Semi-supervised learning for FGVC with out-of-category data</a><br><em>Ruoyi Du, Dongliang Chang, Zhanyu Ma, Kongming Liang, Yi-Zhe Song, Jun Guo</em></li>
 
