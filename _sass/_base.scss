@@ -47,8 +47,7 @@ body {
 }
 .section.active#publications-section {
   overflow-y: auto;
-  padding-right: 10px; /* 预留滚动条宽度，避免跳动 */
-  box-sizing: content-box; /* 确保padding不会影响宽度 */
+  scrollbar-gutter: stable; 
 }
 
 p {
