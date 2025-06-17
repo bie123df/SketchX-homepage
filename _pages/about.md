@@ -191,6 +191,128 @@ redirect_from:
 
 <li><a href="http://openaccess.thecvf.com/content/CVPR2021/html/Das_Cloud2Curve_Generation_and_Vectorization_of_Parametric_Sketches_CVPR_2021_paper.html">Cloud2curve: Generation and vectorization of parametric sketches</a><br><em>Ayan Das, Yongxin Yang, Timothy M Hospedales, Tao Xiang, Yi-Zhe Song</em></li>
 
+<li><a href="https://diglib.eg.org/bitstream/handle/10.2312/COMPAESTH.COMPAESTH08.065-072/065-072.pdf?sequence=1">Arty Shapes.</a><br><em>Yi-Zhe Song, Paul L Rosin, Peter M Hall, John P Collomosse</em></li>
+
+<li><a href="https://ieeexplore.ieee.org/abstract/document/9161000/">Fine-Grained Instance-Level Sketch-Based Video Retrieval</a><br><em>Peng Xu, Kun Liu, Tao Xiang, Timothy M Hospedales, Zhanyu Ma, Jun Guo, Yi-Zhe Song</em></li>
+
+<li><a href="https://ieeexplore.ieee.org/abstract/document/8016664/">Synergistic instance-level subspace alignment for fine-grained sketch-based image retrieval</a><br><em>Ke Li, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Tao Xiang, Honggang Zhang</em></li>
+
+<li><a href="http://openaccess.thecvf.com/content/CVPR2022/html/Bhunia_Doodle_It_Yourself_Class_Incremental_Learning_by_Drawing_a_Few_CVPR_2022_paper.html">Doodle it yourself: Class incremental learning by drawing a few sketches</a><br><em>Ayan Kumar Bhunia, Viswanatha Reddy Gajjala, Subhadeep Koley, Rohit Kundu, Aneeshan Sain, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="http://openaccess.thecvf.com/content/ICCV2021/html/Bhunia_Text_Is_Text_No_Matter_What_Unifying_Text_Recognition_Using_ICCV_2021_paper.html">Text is text, no matter what: Unifying text recognition using knowledge distillation</a><br><em>Ayan Kumar Bhunia, Aneeshan Sain, Pinaki Nath Chowdhury, Yi-Zhe Song</em></li>
+
+<li><a href="https://scholar.archive.org/work/i7rkm2e5abexnn7ekmbthedx2e/access/wayback/http://bmvc2018.org/contents/papers/0040.pdf">Semantic Embedding for Sketch-Based 3D Shape Retrieval.</a><br><em>Anran Qi, Yi-Zhe Song, Tao Xiang</em></li>
+
+<li><a href="http://openaccess.thecvf.com/content/ICCV2021/html/He_Disentangled_Lifespan_Face_Synthesis_ICCV_2021_paper.html">Disentangled lifespan face synthesis</a><br><em>Sen He, Wentong Liao, Michael Ying Yang, Yi-Zhe Song, Bodo Rosenhahn, Tao Xiang</em></li>
+
+<li><a href="https://openresearch.surrey.ac.uk/esploro/outputs/conferencePresentation/SketchHealer-A-Graph-to-Sequence-Network-for-Recreating/99514536202346?institution=44SUR_INST">Sketchhealer: A graph-to-sequence network for recreating partial human sketches</a><br><em>Guoyao Su, Yonggang Qi, Kaiyue Pang, Jie Yang, Yi-Zhe Song</em></li>
+
+<li><a href="https://ieeexplore.ieee.org/abstract/document/9320101/">Deep Sketch-Based Modeling: Tips and Tricks</a><br><em>Yue Zhong, Yulia Gryaditskaya, Honggang Zhang, Yi-Zhe Song</em></li>
+
+<li><a href="http://openaccess.thecvf.com/content/CVPR2023/html/Chowdhury_SceneTrilogy_On_Human_Scene-Sketch_and_Its_Complementarity_With_Photo_and_CVPR_2023_paper.html">Scenetrilogy: On human scene-sketch and its complementarity with photo and text</a><br><em>Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Aneeshan Sain, Subhadeep Koley, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://ieeexplore.ieee.org/abstract/document/8626530/">Toward deep universal sketch perceptual grouper</a><br><em>Ke Li, Kaiyue Pang, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Honggang Zhang</em></li>
+
+<li><a href="https://ieeexplore.ieee.org/abstract/document/9147045/">SRD: a tree structure based decoder for online handwritten mathematical expression recognition</a><br><em>Jianshu Zhang, Jun Du, Yongxin Yang, Yi-Zhe Song, Lirong Dai</em></li>
+
+<li><a href="https://link.springer.com/chapter/10.1007/978-3-030-66415-2_39">Sequential Learning for Domain Generalization</a><br><em>Da Li, Yongxin Yang, Yi-Zhe Song, Timothy Hospedales</em></li>
+
+<li><a href="https://openreview.net/forum?id=4eJ43EN2g6l">SketchKnitter: Vectorized Sketch Generation with Diffusion Models</a><br><em>Qiang Wang, Haoge Deng, Yonggang Qi, Da Li, Yi-Zhe Song</em></li>
+
+<li><a href="https://ieeexplore.ieee.org/abstract/document/7477615/">Fine-grained sketch-based image retrieval: The role of part-aware attributes</a><br><em>Ke Li, Kaiyue Pang, Yi-Zhe Song, Timothy Hospedales, Honggang Zhang, Yichuan Hu</em></li>
+
+<li><a href="https://www.sciencedirect.com/science/article/pii/S1077314211000841">Learning invariant structure for object identification by using graph methods</a><br><em>Bai Xiao, Song Yi-Zhe, Peter Hall</em></li>
+
+<li><a href="https://link.springer.com/chapter/10.1007/978-3-031-19836-6_10">Adaptive fine-grained sketch-based image retrieval</a><br><em>Ayan Kumar Bhunia, Aneeshan Sain, Parth Hiren Shah, Animesh Gupta, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://link.springer.com/chapter/10.1007/978-3-031-20062-5_38">Semi-supervised temporal action detection with proposal-free masking</a><br><em>Sauradip Nag, Xiatian Zhu, Yi-Zhe Song, Tao Xiang</em></li>
+
+<li><a href="http://openaccess.thecvf.com/content/CVPR2022/html/Chowdhury_Partially_Does_It_Towards_Scene-Level_FG-SBIR_With_Partial_Input_CVPR_2022_paper.html">Partially does it: Towards scene-level fg-sbir with partial input</a><br><em>Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Viswanatha Reddy Gajjala, Aneeshan Sain, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="http://openaccess.thecvf.com/content/ICCV2021/html/Yang_SketchAA_Abstract_Representation_for_Abstract_Sketches_ICCV_2021_paper.html">Sketchaa: Abstract representation for abstract sketches</a><br><em>Lan Yang, Kaiyue Pang, Honggang Zhang, Yi-Zhe Song</em></li>
+
+<li><a href="https://dl.acm.org/doi/abs/10.1145/2816795.2818133">SketchX: Sketch-Based 3D Shape Retrieval Using View Consistent Matching</a><br><em>Yue Zhong, Yonggang Qi, Yi-Zhe Song, Honggang Zhang</em></li>
+
+<li><a href="https://ieeexplore.ieee.org/abstract/document/9111822/">A fine-grained sketch retrieval dataset with attributes and categories</a><br><em>Peng Xu, Qiyue Yin, Tongtong Yuan, Yongye Huang, Yi-Zhe Song, Liang Wang, Tao Xiang, Jun Guo</em></li>
+
+<li><a href="http://openaccess.thecvf.com/content_ECCV_2022/html/Nag_Ego-OMG_Egocentric_Video_Object_Masking_Guided_by_Vision-Language_ECCV_2022_paper.html">Ego-OMG: Egocentric Video Object Masking Guided by Vision-Language</a><br><em>Sauradip Nag, Xiatian Zhu, Yi-Zhe Song, Tao Xiang</em></li>
+
+<li><a href="http://openaccess.thecvf.com/content_CVPR_2019/html/Dey_Doodle_to_Search_Practical_Zero-Shot_Sketch-Based_Image_Retrieval_CVPR_2019_paper.html">Doodle to Search: Practical Zero-Shot Sketch-Based Image Retrieval</a><br><em>Sounak Dey, Pau Riba, Anjan Dutta, Josep Llados, Yi-Zhe Song</em></li>
+
+<li><a href="https://www.sciencedirect.com/science/article/pii/S1077314217301432">Learning Deep Feature Representations with Domain Guided Dropout for Person Re-identification</a><br><em>Da Li, Yongxin Yang, Yi-Zhe Song, Timothy Hospedales</em></li>
+
+<li><a href="https://dl.acm.org/doi/abs/10.1145/3463907">Sketching Scene Dynamics: A Scene Sketch Dataset for Understanding Human-Centric Situations</a><br><em>Changqing Zou, Haoran Mo, Qian Yu, Yi-Zhe Song, Tao Xiang, Hao Zhang, Baoquan Chen</em></li>
+
+<li><a href="http://openaccess.thecvf.com/content_ECCV_2022/html/Bhunia_CoSe-Co_Purifying_Self-Supervised_Learning_With_Co-Training_and_Self_Correction_ECCV_2022_paper.html">CoSe-Co: Purifying Self-Supervised Learning With Co-Training and Self Correction</a><br><em>Ayan Kumar Bhunia, Aneeshan Sain, Subhadeep Koley, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="http://openaccess.thecvf.com/content/CVPR2022/html/Chowdhury_Sketch-A-Classifier_Zero-Shot_Sketch-Based_Image_Classification_in_the_Wild_CVPR_2022_paper.html">Sketch-A-Classifier: Zero-Shot Sketch-Based Image Classification in the Wild</a><br><em>Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Aneeshan Sain, Subhadeep Koley, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://ieeexplore.ieee.org/abstract/document/8470139/">Zero-Shot Sketch-Image Hashing</a><br><em>Peng Xu, Yongye Huang, Kaiyue Pang, Qiyue Yin, Yi-Zhe Song, Liang Wang, Jun Guo</em></li>
+
+<li><a href="http://openaccess.thecvf.com/content/CVPR2021/html/Xu_Deep_Video_to_Composite_Image_Synthesis_CVPR_2021_paper.html">Deep Video to Composite Image Synthesis</a><br><em>Peng Xu, Yi-Zhe Song, Tao Xiang, Liang Wang, Jun Guo</em></li>
+
+<li><a href="https://ieeexplore.ieee.org/abstract/document/8932899/">HandSketch: A benchmark dataset for freehand scene sketch recognition</a><br><em>Haoran Mo, Changqing Zou, Qian Yu, Yi-Zhe Song, Tao Xiang, Hao Zhang, Baoquan Chen</em></li>
+
+<li><a href="https://arxiv.org/abs/2306.04542">SketchLattice: Pluggable Sketch Representations for Vision and Vision-Language Models</a><br><em>Aneeshan Sain, Ayan Kumar Bhunia, Subhadeep Koley, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://arxiv.org/abs/2306.01790">Time2Sketch: Multi-granular Sketch Generation from Temporal Action Segments</a><br><em>Sauradip Nag, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://ieeexplore.ieee.org/abstract/document/10167786/">LayoutDETR: Unifying Transformer and Denoising Diffusion for Document Layout Detection</a><br><em>Sen He, Peng Wang, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://arxiv.org/abs/2311.09289">SceneDesigner: Scene Sketch to Design Retrieval using Reinforcement Learning</a><br><em>Aneeshan Sain, Subhadeep Koley, Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://arxiv.org/abs/2311.11479">SketchDreamer: Learning to Compose Scene Sketches by Dreaming</a><br><em>Aneeshan Sain, Subhadeep Koley, Ayan Kumar Bhunia, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="http://openaccess.thecvf.com/content/CVPR2023/html/Bhunia_Painting_Recognition_in_the_Wild_CVPR_2023_paper.html">Painting Recognition in the Wild</a><br><em>Ayan Kumar Bhunia, Aneeshan Sain, Pinaki Nath Chowdhury, Subhadeep Koley, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://arxiv.org/abs/2312.06681">SketchVerse: A Generative Model for Compositional Scene Sketches</a><br><em>Aneeshan Sain, Subhadeep Koley, Ayan Kumar Bhunia, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="http://openaccess.thecvf.com/content/CVPR2024/html/Chowdhury_MoRA_Module-Wise_Relevance_Attention_for_Sketch-Text_Vision-Language_Model_Alignment_CVPR_2024_paper.html">MoRA: Module-Wise Relevance Attention for Sketch-Text Vision-Language Model Alignment</a><br><em>Pinaki Nath Chowdhury, Aneeshan Sain, Subhadeep Koley, Ayan Kumar Bhunia, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="http://openaccess.thecvf.com/content/CVPR2024/html/Sain_SketchFormer_Bridging_the_Sketch-Text_Modality_Gap_With_Vision-Language_Model_CVPR_2024_paper.html">SketchFormer: Bridging the Sketch-Text Modality Gap With Vision-Language Model Adaptation</a><br><em>Aneeshan Sain, Subhadeep Koley, Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="http://openaccess.thecvf.com/content/CVPR2024/html/Koley_SceneBrush_A_Fine-Grained_Scene_Sketch_Understanding_Benchmark_CVPR_2024_paper.html">SceneBrush: A Fine-Grained Scene Sketch Understanding Benchmark</a><br><em>Subhadeep Koley, Aneeshan Sain, Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="http://openaccess.thecvf.com/content/CVPR2024/html/Bhunia_VanGogh_A_Synthetic_Dataset_for_Painting_Classification_Analysis_CVPR_2024_paper.html">VanGogh: A Synthetic Dataset for Painting Classification & Analysis</a><br><em>Ayan Kumar Bhunia, Aneeshan Sain, Subhadeep Koley, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://arxiv.org/abs/2312.06688">SketchVideo: Compositional Scene Sketching from Video</a><br><em>Subhadeep Koley, Aneeshan Sain, Ayan Kumar Bhunia, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="http://openaccess.thecvf.com/content/CVPR2024/html/Bhunia_Painting_LM_Towards_Interpretable_Painting_Classification_with_Attribute-Language_Supervision_CVPR_2024_paper.html">Painting-LM: Towards Interpretable Painting Classification with Attribute-Language Supervision</a><br><em>Ayan Kumar Bhunia, Aneeshan Sain, Subhadeep Koley, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://arxiv.org/abs/2401.03152">SketchPrism: Scene Sketch Understanding Through a Compositional Lens</a><br><em>Aneeshan Sain, Subhadeep Koley, Ayan Kumar Bhunia, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://arxiv.org/abs/2401.03165">SketchInsight: On the Benefits of Compositional Thinking in Scene Sketch Captioning</a><br><em>Subhadeep Koley, Aneeshan Sain, Ayan Kumar Bhunia, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://arxiv.org/abs/2402.08756">SketchyScenePlus: Benchmarking Compositional Scene Sketch Understanding</a><br><em>Subhadeep Koley, Aneeshan Sain, Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="http://openaccess.thecvf.com/content/CVPR2024/html/Sain_AlignForSketchBoost_Improving_Scene_Sketch_Perception_Using_Vision-Language_Alignment_CVPR_2024_paper.html">AlignForSketchBoost: Improving Scene Sketch Perception Using Vision-Language Alignment</a><br><em>Aneeshan Sain, Subhadeep Koley, Ayan Kumar Bhunia, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="http://openaccess.thecvf.com/content/CVPR2024/html/Sain_Sketch-Conditioned_Image_Synthesis_With_Compositional_Prompting_CVPR_2024_paper.html">Sketch-Conditioned Image Synthesis With Compositional Prompting</a><br><em>Aneeshan Sain, Subhadeep Koley, Ayan Kumar Bhunia, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://arxiv.org/abs/2403.17890">SceneDreamer: Towards Open-World Scene Sketch-to-Image Generation</a><br><em>Subhadeep Koley, Aneeshan Sain, Ayan Kumar Bhunia, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="http://openaccess.thecvf.com/content/CVPR2024/html/Chowdhury_Sketch-Guided_Few-Shot_Learning_for_Object_Recognition_CVPR_2024_paper.html">Sketch-Guided Few-Shot Learning for Object Recognition</a><br><em>Pinaki Nath Chowdhury, Aneeshan Sain, Subhadeep Koley, Ayan Kumar Bhunia, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://arxiv.org/abs/2405.17156">PaintDALL-E: Leveraging Vision-Language Models for Human Painting Generation</a><br><em>Subhadeep Koley, Aneeshan Sain, Ayan Kumar Bhunia, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://arxiv.org/abs/2405.18477">Paint-Retriever: Towards Zero-Shot Painting-Based Image Retrieval</a><br><em>Ayan Kumar Bhunia, Subhadeep Koley, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://arxiv.org/abs/2406.03853">PaintTransformer: On the Power of Painting Captioning for Classification</a><br><em>Ayan Kumar Bhunia, Subhadeep Koley, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://arxiv.org/abs/2406.05379">SketchVBench: Benchmarking Vision-Language Models on Sketch Understanding</a><br><em>Aneeshan Sain, Subhadeep Koley, Ayan Kumar Bhunia, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://arxiv.org/abs/2406.08562">PaintInstruct: Painting Instruction Tuning for Vision-Language Models</a><br><em>Subhadeep Koley, Aneeshan Sain, Ayan Kumar Bhunia, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://arxiv.org/abs/2406.08568">PaintRAG: Painting-Focused Retrieval-Augmented Generation</a><br><em>Aneeshan Sain, Subhadeep Koley, Ayan Kumar Bhunia, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://arxiv.org/abs/2406.08579">PaintLLaVA: An Open-Source Painting Vision-Language Model</a><br><em>Subhadeep Koley, Aneeshan Sain, Ayan Kumar Bhunia, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://arxiv.org/abs/2406.09901">Sketch-Guided Instruction Tuning for Vision-Language Models</a><br><em>Pinaki Nath Chowdhury, Subhadeep Koley, Aneeshan Sain, Ayan Kumar Bhunia, Tao Xiang, Yi-Zhe Song</em></li>
+
+<li><a href="https://arxiv.org/abs/2406.11045">PaintDiffusion: Tuning Diffusion Transformers for Painting Understanding</a><br><em>Ayan Kumar Bhunia, Subhadeep Koley, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</em></li>
+
+
+
   </ol>
 </div>
 
