@@ -47,6 +47,7 @@ body {
 }
 .section.active#publications-section {
   overflow-y: auto;
+  height: 100vh;
   scrollbar-gutter: stable; 
 }
 
