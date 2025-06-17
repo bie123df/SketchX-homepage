@@ -12,12 +12,12 @@ redirect_from:
   <h2>Welcome to SketchX</h2>
   <p>
     The ultimate vision for <strong>SketchX</strong> is to understand how seeing can be
-    explained by drawing. In other words, how a better understanding of human sketch data <br>
+    explained by drawing. In other words, how a better understanding of human sketch data
     can be translated into insights on how human visual systems operate — and in turn, how
     such insights can benefit computer vision and cognitive science at large.
   </p>
   <p>
-    SketchX has been actively investigating all aspects of sketch research since 2012. The problems we study range from conventional tasks such as sketch recognition <br> and sketch synthesis, to those we have pioneered, such as fine-grained sketch-based image retrieval and memory-aware forensic sketch analysis.
+    SketchX has been actively investigating all aspects of sketch research since 2012. The problems we study range from conventional tasks such as sketch recognition and sketch synthesis, to those we have pioneered, such as fine-grained sketch-based image retrieval and memory-aware forensic sketch analysis.
   </p>
 </div>
 
