@@ -30,7 +30,7 @@ body {
   pointer-events: none;
   word-break: break-word;  
   overflow-wrap: break-word;
-  overflow-x: hidden; 
+  overflow: hidden; 
 }
 * {
   box-sizing: border-box;
@@ -41,9 +41,15 @@ body {
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
-  overflow-x: hidden;       
+  overflow: hidden;       
   max-width: 100vw;
 }
+.section.active#publications-section {
+  overflow-y: auto;
+  padding-right: 10px; /* 预留滚动条宽度，避免跳动 */
+  box-sizing: content-box; /* 确保padding不会影响宽度 */
+}
+
 p {
   word-break: break-word;  
   overflow-wrap: break-word;
