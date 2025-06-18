@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 <!-- Section: About -->
-<div class="section" id="about-section">
-  <h2>Welcome to SketchX</h2>
+<div class="section" id="about-section" style="font-family: sans-serif;">
+  <h2 style="border-left: 6px solid #4CAF50; padding-left: 10px;">🌟 Welcome to SketchX</h2>
+
   <p>
     The ultimate vision for <strong>SketchX</strong> is to understand how seeing can be
     explained by drawing. In other words, how a better understanding of human sketch data
@@ -19,32 +20,43 @@ redirect_from:
   <p>
     SketchX has been actively investigating all aspects of sketch research since 2012. The problems we study range from conventional tasks such as sketch recognition and sketch synthesis, to those we have pioneered, such as fine-grained sketch-based image retrieval and memory-aware forensic sketch analysis.
   </p>
-  <h3>About Professor Yi-Zhe Song</h3>
-    <img src="{{ '/images/song.jpg' | relative_url }}"
-       alt="Song"
-       style="max-width: 200px; display: block; margin-top: 1em;">
-  <p>
-    Yi-Zhe Song is a Professor of Computer Vision and Machine Learning at the Centre for Vision Speech and Signal Processing (CVSSP), one of the UK's oldest and largest research centres on Artificial Intelligence.
-  </p>
-  <p>
-    He leads the SketchX Lab within CVSSP — a large research group of 3 academics, 2 postdocs, and 14 full-time PhD students. His vision for SketchX is understanding how seeing can be explained by drawing. In other words, how better understanding of human sketch data can be translated to insights of how human visual systems operate, and in turn how such insights can benefit computer vision and cognitive science at large.
-  </p>
-  <p>
-    He is an Associate Editor of the IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), the world's top-ranked journal in computer vision and machine learning in terms of impact factor (16.389), and a Programme Chair for British Machine Vision Conference (BMVC) 2021. He is also an Associate Editor of Frontiers in Computer Science – Computer Vision, and regularly serves as Area Chair (AC) for flagship computer vision and machine learning conferences, most recently as AC for ECCV'22, CVPR'22, and ICCV'21.
-  </p>
-  <p>
-    SketchX publishes consistently in top-tier conferences (CVPR, ICCV, ECCV, SIGGRAPH Asia, ICML, BMVC) and journals (IJCV, TIP, TVCG, TCSVT), including a Best Paper Award at British Machine Vision Conference 2015.
-  </p>
-  <p>
-    He founded, and currently leads the MSc in AI programme at Surrey, having previously established an MSc in AI programme at Queen Mary University of London.
-  </p>
-  <p>
-    He obtained a PhD in 2008 on Computer Vision and Machine Learning from the University of Bath, an MSc (with Best Dissertation Award) in 2004 from the University of Cambridge, and a Bachelor's Degree (First Class Honours) in 2003 from the University of Bath.
-  </p>
-  <p>
-    He is a Senior Member of IEEE, a Fellow of the Higher Education Academy (HEA), as well as full member of the EPSRC review college. He also reviews for other international funding bodies, such as Czech Science Foundation and São Paulo Research Foundation of Brazil.
-  </p>
+
+  <!-- 人物介绍卡片 -->
+  <div style="display: flex; gap: 20px; margin-top: 2em; align-items: flex-start; background: #f9f9f9; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <div style="flex-shrink: 0;">
+      <img src="{{ '/images/song.jpg' | relative_url }}"
+           alt="Professor Yi-Zhe Song"
+           style="width: 180px; border-radius: 10px; border: 3px solid #4CAF50;">
+      <p style="text-align: center; margin-top: 0.5em; font-weight: bold;">Prof. Yi-Zhe Song</p>
+    </div>
+
+    <div style="flex-grow: 1;">
+      <h3 style="margin-top: 0; color: #333;">👨‍🏫 About Professor Yi-Zhe Song</h3>
+      <p>
+        Yi-Zhe Song is a Professor of Computer Vision and Machine Learning at the Centre for Vision Speech and Signal Processing (CVSSP), one of the UK's oldest and largest research centres on Artificial Intelligence.
+      </p>
+      <p>
+        He leads the SketchX Lab within CVSSP — a large research group of 3 academics, 2 postdocs, and 14 full-time PhD students. His vision for SketchX is understanding how seeing can be explained by drawing.
+      </p>
+      <p>
+        He is an Associate Editor of the IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), and a Programme Chair for BMVC 2021. He also served as Area Chair for ECCV’22, CVPR’22, and ICCV’21.
+      </p>
+      <p>
+        SketchX publishes in top-tier venues such as CVPR, ICCV, ECCV, SIGGRAPH Asia, and ICML, including a Best Paper Award at BMVC 2015.
+      </p>
+      <p>
+        He founded the MSc in AI programme at Surrey, and previously did the same at Queen Mary University of London.
+      </p>
+      <p>
+        He received his PhD from the University of Bath (2008), MSc from Cambridge (2004, Best Dissertation Award), and BSc from Bath (First Class Honours).
+      </p>
+      <p>
+        He is a Senior Member of IEEE, a Fellow of the HEA, and a full EPSRC review college member. He also reviews for international bodies like the Czech Science Foundation and São Paulo Research Foundation.
+      </p>
+    </div>
+  </div>
 </div>
+
 
 
 <!-- Section: Team Members -->
