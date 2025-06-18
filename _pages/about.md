@@ -60,9 +60,15 @@ redirect_from:
 
 
 <!-- Section: Team Members -->
-<div class="section" id="team-members-section" >
-  <h2>👥 Team Members</h2>
-  <img src="{{ '/images/team_member.png' | relative_url }}" alt="Team Member" style="max-width: 700px; display: block; margin-top: 1em;">
+<div class="section" id="team-members-section" style="margin-top: 3em;">
+  <h2 style="border-left: 6px solid #4CAF50; padding-left: 10px;">👥 Team Members</h2>
+
+  <div style="background: #f9f9f9; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); text-align: center;">
+    <img src="{{ '/images/team_member.png' | relative_url }}"
+         alt="Team Member"
+         style="max-width: 90%; border-radius: 10px; border: 2px solid #ddd; margin-top: 1em;">
+    <p style="margin-top: 1em; font-style: italic; color: #555;">Team structure overview</p>
+  </div>
 </div>
 
 <!-- Section: Publications -->
