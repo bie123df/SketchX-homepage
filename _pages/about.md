@@ -19,8 +19,34 @@ redirect_from:
   <p>
     SketchX has been actively investigating all aspects of sketch research since 2012. The problems we study range from conventional tasks such as sketch recognition and sketch synthesis, to those we have pioneered, such as fine-grained sketch-based image retrieval and memory-aware forensic sketch analysis.
   </p>
-  
+  <img src="{{ '/images/song.jpg' | relative_url }}"
+       alt="Song"
+       style="max-width: 200px; display: block; margin-top: 1em;">
+
+  <h3>About Professor Yi-Zhe Song</h3>
+  <p>
+    Yi-Zhe Song is a Professor of Computer Vision and Machine Learning at the Centre for Vision Speech and Signal Processing (CVSSP), one of the UK's oldest and largest research centres on Artificial Intelligence.
+  </p>
+  <p>
+    He leads the SketchX Lab within CVSSP — a large research group of 3 academics, 2 postdocs, and 14 full-time PhD students. His vision for SketchX is understanding how seeing can be explained by drawing. In other words, how better understanding of human sketch data can be translated to insights of how human visual systems operate, and in turn how such insights can benefit computer vision and cognitive science at large.
+  </p>
+  <p>
+    He is an Associate Editor of the IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), the world's top-ranked journal in computer vision and machine learning in terms of impact factor (16.389), and a Programme Chair for British Machine Vision Conference (BMVC) 2021. He is also an Associate Editor of Frontiers in Computer Science – Computer Vision, and regularly serves as Area Chair (AC) for flagship computer vision and machine learning conferences, most recently as AC for ECCV'22, CVPR'22, and ICCV'21.
+  </p>
+  <p>
+    SketchX publishes consistently in top-tier conferences (CVPR, ICCV, ECCV, SIGGRAPH Asia, ICML, BMVC) and journals (IJCV, TIP, TVCG, TCSVT), including a Best Paper Award at British Machine Vision Conference 2015.
+  </p>
+  <p>
+    He founded, and currently leads the MSc in AI programme at Surrey, having previously established an MSc in AI programme at Queen Mary University of London.
+  </p>
+  <p>
+    He obtained a PhD in 2008 on Computer Vision and Machine Learning from the University of Bath, an MSc (with Best Dissertation Award) in 2004 from the University of Cambridge, and a Bachelor's Degree (First Class Honours) in 2003 from the University of Bath.
+  </p>
+  <p>
+    He is a Senior Member of IEEE, a Fellow of the Higher Education Academy (HEA), as well as full member of the EPSRC review college. He also reviews for other international funding bodies, such as Czech Science Foundation and São Paulo Research Foundation of Brazil.
+  </p>
 </div>
+
 
 <!-- Section: Team Members -->
 <div class="section" id="team-members-section" >
