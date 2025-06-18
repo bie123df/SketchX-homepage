@@ -121,7 +121,7 @@ redirect_from:
       <small>Subhadeep Koley, Ayan Kumar Bhunia, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2024</span><br>
+      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TPAMI 2024</span><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/10472065/" target="_blank" rel="noopener noreferrer">Bi-directional ensemble feature reconstruction network for few-shot fine-grained classification</a><br>
       <small>Jijie Wu, Dongliang Chang, Aneeshan Sain, Xiaoxu Li, Zhanyu Ma, Jie Cao, Jun Guo, Yi-Zhe Song</small>
     </li>
@@ -141,7 +141,7 @@ redirect_from:
       <small>Kam Woh Ng, Xiatian Zhu, Yi-Zhe Song, Tao Xiang</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2024</span><br>
+      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TIP 2024</span><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/10471272/" target="_blank" rel="noopener noreferrer">Creativeseg: Semantic segmentation of creative sketches</a><br>
       <small>Yixiao Zheng, Kaiyue Pang, Ayan Das, Dongliang Chang, Yi-Zhe Song, Zhanyu Ma</small>
     </li>
@@ -161,7 +161,7 @@ redirect_from:
       <small>Alexander Ashcroft, Ayan Das, Yulia Gryaditskaya, Zhiyu Qu, Yi-Zhe Song</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPRW 2024</span><br>
+      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2024</span><br>
       <a href="https://openaccess.thecvf.com/content/CVPR2024W/FGVC11/html/Ng_ConceptHash_Interpretable_Fine-Grained_Hashing_via_Concept_Discovery_CVPRW_2024_paper.html" target="_blank" rel="noopener noreferrer">ConceptHash: Interpretable Fine-Grained Hashing via Concept Discovery</a><br>
       <small>Kam Woh Ng, Xiatian Zhu, Yi-Zhe Song, Tao Xiang</small>
     </li>
@@ -191,7 +191,7 @@ redirect_from:
       <small>Aneeshan Sain, Pinaki Nath Chowdhury, Subhadeep Koley, Ayan Kumar Bhunia, Yi-Zhe Song</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2024</span><br>
+      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TPAMI 2024</span><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/10707331/" target="_blank" rel="noopener noreferrer">Understanding Episode Hardness in Few-Shot Learning</a><br>
       <small>Yurong Guo, Ruoyi Du, Aneeshan Sain, Kongming Liang, Yuan Dong, Yi-Zhe Song, Zhanyu Ma</small>
     </li>
@@ -201,7 +201,7 @@ redirect_from:
       <small>Lan Yang, Kaiyue Pang, Honggang Zhang, Yi-Zhe Song</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2024</span><br>
+      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TPAMI 2024</span><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/10589301/" target="_blank" rel="noopener noreferrer">3D Reconstruction From a Single Sketch via View-Dependent Depth Sampling</a><br>
       <small>Chenjian Gao, Xilin Wang, Qian Yu, Lu Sheng, Jing Zhang, Xiaoguang Han, Yi-Zhe Song, Dong Xu</small>
     </li>
@@ -266,7 +266,7 @@ redirect_from:
       <small>Xiao Han, Xiatian Zhu, Jiankang Deng, Yi-Zhe Song, Tao Xiang</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TMM 2023</span><br>
+      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TIP 2023</span><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/10145054/" target="_blank" rel="noopener noreferrer">Prediction calibration for generalized few-shot semantic segmentation</a><br>
       <small>Zhihe Lu, Sen He, Da Li, Yi-Zhe Song, Tao Xiang</small>
     </li>
@@ -286,7 +286,7 @@ redirect_from:
       <small>Abhra Chaudhuri, Ayan Kumar Bhunia, Yi-Zhe Song, Anjan Dutta</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TMM 2023</span><br>
+      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TIP 2023</span><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/10189399/" target="_blank" rel="noopener noreferrer">Uncertainty-aware source-free domain adaptive semantic segmentation</a><br>
       <small>Zhihe Lu, Da Li, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales</small>
     </li>
@@ -316,7 +316,7 @@ redirect_from:
       <small>Ling Luo, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song, Yulia Gryaditskaya</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TMM 2023</span><br>
+      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TIP 2023</span><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/10214525/" target="_blank" rel="noopener noreferrer">Sketch-segformer: Transformer-based segmentation for figurative and creative sketches</a><br>
       <small>Yixiao Zheng, Jiyang Xie, Aneeshan Sain, Yi-Zhe Song, Zhanyu Ma</small>
     </li>
@@ -326,7 +326,7 @@ redirect_from:
       <small>Sauradip Nag, Xiatian Zhu, Yi-Zhe Song, Tao Xiang</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TMM 2023</span><br>
+      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TPAMI 2023</span><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/10122150/" target="_blank" rel="noopener noreferrer">Making a bird ai expert work for you and me</a><br>
       <small>Dongliang Chang, Kaiyue Pang, Ruoyi Du, Yujun Tong, Yi-Zhe Song, Zhanyu Ma, Jun Guo</small>
     </li>
@@ -346,7 +346,7 @@ redirect_from:
       <small>Zhiyu Qu, Yulia Gryaditskaya, Ke Li, Kaiyue Pang, Tao Xiang, Yi-Zhe Song</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TMM 2023</span><br>
+      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TCSVT 2023</span><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/10292696/" target="_blank" rel="noopener noreferrer">Mind the Gap: Open Set Domain Adaptation via Mutual-to-Separate Framework</a><br>
       <small>Dongliang Chang, Aneeshan Sain, Zhanyu Ma, Yi-Zhe Song, Ruiping Wang, Jun Guo</small>
     </li>
@@ -361,7 +361,7 @@ redirect_from:
       <small>Kam Woh Ng, Xiatian Zhu, Jiun Tian Hoe, Chee Seng Chan, Tianyu Zhang, Yi-Zhe Song, Tao Xiang</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TMM 2023</span><br>
+      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TPAMI 2023</span><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/10273439/" target="_blank" rel="noopener noreferrer">Semi-supervised learning for FGVC with out-of-category data</a><br>
       <small>Ruoyi Du, Dongliang Chang, Zhanyu Ma, Kongming Liang, Yi-Zhe Song, Jun Guo</small>
     </li>
