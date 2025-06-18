@@ -19,11 +19,10 @@ redirect_from:
   <p>
     SketchX has been actively investigating all aspects of sketch research since 2012. The problems we study range from conventional tasks such as sketch recognition and sketch synthesis, to those we have pioneered, such as fine-grained sketch-based image retrieval and memory-aware forensic sketch analysis.
   </p>
-  <img src="{{ '/images/song.jpg' | relative_url }}"
+  <h3>About Professor Yi-Zhe Song</h3>
+    <img src="{{ '/images/song.jpg' | relative_url }}"
        alt="Song"
        style="max-width: 200px; display: block; margin-top: 1em;">
-
-  <h3>About Professor Yi-Zhe Song</h3>
   <p>
     Yi-Zhe Song is a Professor of Computer Vision and Machine Learning at the Centre for Vision Speech and Signal Processing (CVSSP), one of the UK's oldest and largest research centres on Artificial Intelligence.
   </p>
