@@ -586,7 +586,7 @@ redirect_from:
       <small>Aneeshan Sain, Ayan Kumar Bhunia, Yongxin Yang, Tao Xiang, Yi-Zhe Song</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICCV 2021</span><br>
+      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TPAMI 2021</span><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/9609669/" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Progressive learning of category-consistent multi-granularity features for fine-grained visual classification</a><br>
       <small>Ruoyi Du, Jiyang Xie, Zhanyu Ma, Dongliang Chang, Yi-Zhe Song, Jun Guo</small>
     </li>
@@ -611,7 +611,7 @@ redirect_from:
       <small>Sen He, Wentong Liao, Michael Ying Yang, Yongxin Yang, Yi-Zhe Song, Bodo Rosenhahn, Tao Xiang</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICCV 2021</span><br>
+      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TIP 2021</span><br>
       <a href="http://openaccess.thecvf.com/content/ICCV2021/html/Chen_Variational_Attention_Propagating_Domain-Specific_Knowledge_for_Multi-Domain_Learning_in_Crowd_ICCV_2021_paper.html" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Variational attention: Propagating domain-specific knowledge for multi-domain learning in crowd counting</a><br>
       <small>Binghui Chen, Zhaoyi Yan, Ke Li, Pengyu Li, Biao Wang, Wangmeng Zuo, Lei Zhang</small>
     </li>
@@ -761,7 +761,7 @@ redirect_from:
       <small>, Guoyao Su, Yonggang Qi, Kaiyue Pang, Jie Yang, Yi‑Zhe Song</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICCV 2020</span><br>
+      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TMM 2020</span><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/9147045/" target="_blank" target="_blank" rel="noopener noreferrer">SRD: a tree structure based decoder for online handwritten mathematical expression recognition</a><br>
       <small>, Jianshu Zhang, Jun Du, Yongxin Yang, Yi‑Zhe Song, Lirong Dai</small>
     </li>
@@ -776,12 +776,12 @@ redirect_from:
       <small>, Lan Yang, Aneeshan Sain, Linpeng Li, Yonggang Qi, Honggang Zhang, Yi‑Zhe Song</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICCV 2020</span><br>
+      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TIP 2020</span><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/9216574/" target="_blank" rel="noopener noreferrer">Sketch-a-Segmenter: Sketch-based Photo Segmenter Generation</a><br>
       <small>Conghui Hu, Da Li, Yongxin Yang, Timothy M Hospedales, Yi‑Zhe Song</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICCV 2020</span><br>
+      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TCSVT 2020</span><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/9163150/" target="_blank" rel="noopener noreferrer">SketchDesc: Learning Local Sketch Descriptors for Multi-view Correspondence</a><br>
       <small>Deng Yu, Lei Li, Youyi Zheng, Manfred Lau, Yi‑Zhe Song, Chew‑Lan Tai, Hongbo Fu</small>
     </li>
@@ -791,7 +791,7 @@ redirect_from:
       <small>Ling Luo, Yulia Gryaditskaya, Yongxin Yang, Tao Xiang, Yi‑Zhe Song</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICCV 2020</span><br>
+      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TCSVT 2020</span><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/9274399/" target="_blank" rel="noopener noreferrer">On learning semantic representations for large-scale abstract sketches</a><br>
       <small>Peng Xu, Yongye Huang, Tongtong Yuan, Tao Xiang, Timothy Hospedales, Yi‑Zhe Song, Liang Wang</small>
     </li>
@@ -1041,7 +1041,7 @@ redirect_from:
       <small>Ke Li, Kaiyue Pang, Yi-Zhe Song, Timothy Hospedales, Honggang Zhang, Yichuan Hu</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICCV 2016</span><br>
+      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2016</span><br>
       <a href="https://scholar.google.com/scholar?cluster=13550880441023903228&hl=en&oi=scholarr" target="_blank" target="_blank" rel="noopener noreferrer">Sketch me that shoe</a><br>
       <small>Yyu Qian, Liu Feng, Yi-Zhe Song, Xiang Tao, Change Loy Chen</small>
     </li>
@@ -1246,7 +1246,7 @@ redirect_from:
     <li>🏆 <strong>Best Science Paper Award</strong> at <strong>BMVC 2015</strong></li>
     <li>🤝 Collaborations with <strong>law enforcement agencies</strong></li>
     <li>🛍️ Partnerships with <strong>online retail platforms</strong></li>
-    <li>58 x CVPR, 22 x ICCV, 23 x ECCV, 5 x ICLR, 1 x ICML, 3 x NeurIPS </li>
+    <li>📄58 x CVPR, 22 x ICCV, 23 x ECCV, 5 x ICLR, 1 x ICML, 3 x NeurIPS </li>
   </ul>
 </div>
 
