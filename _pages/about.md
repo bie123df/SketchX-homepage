@@ -486,7 +486,7 @@ redirect_from:
       <small>Ce Ge, Haifeng Sun, Yi‑Zhe Song, Zhanyu Ma, Jianxin Liao</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CHI 2022</span><br>
+      <span style="display: inline-block; background: #e91e63; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TOG 2022</span><br>
       <a href="https://dl.acm.org/doi/abs/10.1145/3550454.3555493" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Differsketching: How differently do people sketch 3d objects?</a><br>
       <small>Chufeng Xiao, Wanchao Su, Jing Liao, Zhouhui Lian, Yi‑Zhe Song, Hongbo Fu</small>
     </li>
@@ -731,7 +731,7 @@ redirect_from:
       <small>, Ayan Das, Yongxin Yang, Timothy Hospedales, Tao Xiang, Yi‑Zhe Song</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">UIST 2020</span><br>
+      <span style="display: inline-block; background: #e91e63; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TOG 2020</span><br>
       <a href="https://dl.acm.org/doi/abs/10.1145/3414685.3417840" target="_blank" target="_blank" rel="noopener noreferrer">Pixelor: A Competitive Sketching AI Agent. So you think you can sketch?</a><br>
       <small>, Ayan Kumar Bhunia, Ayan Das, Umar Riaz Muhammad, Yongxin Yang, Timothy M Hospedales, Tao Xiang, Yulia Gryaditskaya, Yi‑Zhe Song</small>
     </li>
@@ -1246,7 +1246,7 @@ redirect_from:
     <li>🏆 <strong>Best Science Paper Award</strong> at <strong>BMVC 2015</strong></li>
     <li>🤝 Collaborations with <strong>law enforcement agencies</strong></li>
     <li>🛍️ Partnerships with <strong>online retail platforms</strong></li>
-    <li>27 x CVPR, 11 x ICCV, 11 x ECCV, 2 x SIGGRAPH Asia, 1 x ICLR, 1 x ICML, 1 x NeurIPS (as of July 2022)</li>
+    <li>58 x CVPR, 22 x ICCV, 23 x ECCV, 5 x ICLR, 1 x ICML, 3 x NeurIPS </li>
   </ul>
 </div>
 
