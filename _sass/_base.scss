@@ -49,6 +49,10 @@ body {
   scrollbar-gutter: stable; 
 }
 
+#team-members-section {
+     height: calc(100vh - 100px);
+}
+
 
 p {
   word-break: break-word;  
