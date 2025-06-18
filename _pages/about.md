@@ -681,7 +681,7 @@ redirect_from:
       <small>, Sauradip Nag, Xiatian Zhu, Yi‑Zhe Song, Tao Xiang</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2021</span><br>
+      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">arXiv 2021</span><br>
       <a href="https://arxiv.org/abs/2112.02825" target="_blank" target="_blank" rel="noopener noreferrer">Clue me in: Semi-supervised FGVC with Out-of-Distribution Data</a><br>
       <small>, Ruoyi Du, Dongliang Chang, Zhanyu Ma, Yi‑Zhe Song, Jun Guo</small>
     </li>
@@ -736,17 +736,17 @@ redirect_from:
       <small>, Ayan Kumar Bhunia, Ayan Das, Umar Riaz Muhammad, Yongxin Yang, Timothy M Hospedales, Tao Xiang, Yulia Gryaditskaya, Yi‑Zhe Song</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2020</span><br>
+      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TCSVT 2020</span><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/9119480/" target="_blank" target="_blank" rel="noopener noreferrer">Deep Self-Supervised Representation Learning for Free-Hand Sketch</a><br>
       <small>, Peng Xu, Zeyu Song, Qiyue Yin, Yi‑Zhe Song, Liang Wang</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2020</span><br>
+      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TCSVT 2020</span><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/9272370/" target="_blank" target="_blank" rel="noopener noreferrer">Towards practical sketch-based 3d shape generation: The role of professional sketches</a><br>
       <small>, Yue Zhong, Yonggang Qi, Yulia Gryaditskaya, Honggang Zhang, Yi‑Zhe Song</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2020</span><br>
+      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TCSVT 2020</span><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/9161000/" target="_blank" target="_blank" rel="noopener noreferrer">Fine-Grained Instance-Level Sketch-Based Video Retrieval</a><br>
       <small>, Peng Xu, Kun Liu, Tao Xiang, Timothy M Hospedales, Zhanyu Ma, Jun Guo, Yi‑Zhe Song</small>
     </li>
@@ -1091,7 +1091,7 @@ redirect_from:
       <small>Wenzhao Li, Yi-Zhe Song, Andrea Cavallaro</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2014</span><br>
+      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVG 2014</span><br>
       <a href="https://qmro.qmul.ac.uk/jspui/handle/123456789/6440" target="_blank" rel="noopener noreferrer">Fine-Grained Sketch-Based Image Retrieval by Matching Deformable Part Models</a><br>
       <small>Yi Li, Timothy M Hospedales, Yi-Zhe Song, Shaogang Gong</small>
     </li>
@@ -1211,7 +1211,7 @@ redirect_from:
       <small>Bai Xiao, Yi-Zhe Song, Anupriya Balika, Peter M Hall</small>
     </li>
 <li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2008</span><br>
+      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">SSPR 2008</span><br>
       <a href="https://link.springer.com/chapter/10.1007/978-3-540-89639-5_31" target="_blank" rel="noopener noreferrer">Stable image descriptions using Gestalt principles</a><br>
       <small>Yi-Zhe Song, Peter M Hall</small>
     </li>
@@ -1246,7 +1246,7 @@ redirect_from:
     <li>🏆 <strong>Best Science Paper Award</strong> at <strong>BMVC 2015</strong></li>
     <li>🤝 Collaborations with <strong>law enforcement agencies</strong></li>
     <li>🛍️ Partnerships with <strong>online retail platforms</strong></li>
-    <li>📄58 x CVPR, 22 x ICCV, 23 x ECCV, 5 x ICLR, 1 x ICML, 3 x NeurIPS </li>
+    <li>📄59 x CVPR, 15 x ICCV, 23 x ECCV, 5 x ICLR, 1 x ICML, 3 x NeurIPS </li>
   </ul>
 </div>
 
