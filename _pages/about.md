@@ -172,7 +172,7 @@ redirect_from:
     <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32240" target="_blank" rel="noopener noreferrer">
       <strong>VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis</strong>
     </a>
-    Zhipeng Chen, Lan Yang, Yonggang Qi, Honggang Zhang, Kaiyue Pang, Ke Li, Yi-Zhe Song, <em>AAAI</em>
+    , Zhipeng Chen, Lan Yang, Yonggang Qi, Honggang Zhang, Kaiyue Pang, Ke Li, Yi-Zhe Song, <em>AAAI</em>
   </li>
 </ol>
 <h3>📚 2024</h3>
