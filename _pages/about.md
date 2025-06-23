@@ -167,12 +167,6 @@ redirect_from:
   <!-- 2025 年论文列表 -->
 <h3>📚 2025</h3>
 <ol style="padding-left: 1.2em;">
-  <li style="margin-bottom: 1em; line-height: 1.6;">
-    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32894" target="_blank" rel="noopener noreferrer">
-      <strong>VA-AR: Learning Velocity-Aware Action Representations with Mixture of Window Attention</strong>
-    </a>
-    Jiangning Wei, Lixiong Qin, Bo Yu, Tianjian Zou, Chuhan Yan, Dandan Xiao, Yang Yu, Lan Yang, Ke Li, Jun Liu — <em>AAAI 2025</em>
-  </li>
   
   <li style="margin-bottom: 1em; line-height: 1.6;">
     <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32240" target="_blank" rel="noopener noreferrer">
