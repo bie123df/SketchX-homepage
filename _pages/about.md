@@ -465,198 +465,437 @@ redirect_from:
  </li>
 </ol>
 
+<h3>📚 2023</h3>
+<ol style="padding-left: 1.2em;">
+   <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Sain_CLIP_for_All_Things_Zero-Shot_Sketch-Based_Image_Retrieval_Fine-Grained_or_CVPR_2023_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Clip for all things zero-shot sketch-based image retrieval, fine-grained or not
+   </strong>
+  </a>
+  , Aneeshan Sain, Ayan Kumar Bhunia, Pinaki Nath Chowdhury, Subhadeep Koley, Tao Xiang, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25383" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Bi-directional feature reconstruction network for fine-grained few-shot image classification
+   </strong>
+  </a>
+  , Jijie Wu, Dongliang Chang, Aneeshan Sain, Xiaoxu Li, Zhanyu Ma, Jie Cao, Jun Guo, Yi-Zhe Song,
+  <em>
+   AAAI
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/0fb98d483fa580e0354bcdd3a003a3f3-Abstract-Conference.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Headsculpt: Crafting 3d head avatars with text
+   </strong>
+  </a>
+  , Xiao Han, Yukang Cao, Kai Han, Xiatian Zhu, Jiankang Deng, Yi-Zhe Song, Tao Xiang, Kwan-Yee K Wong,
+  <em>
+   NeurIPS
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Koley_Picture_That_Sketch_Photorealistic_Image_Generation_From_Abstract_Sketches_CVPR_2023_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Picture that sketch: Photorealistic image generation from abstract sketches
+   </strong>
+  </a>
+  , Subhadeep Koley, Ayan Kumar Bhunia, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Lin_Zero-Shot_Everything_Sketch-Based_Image_Retrieval_and_in_Explainable_Style_CVPR_2023_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Zero-shot everything sketch-based image retrieval, and in explainable style
+   </strong>
+  </a>
+  , Fengyin Lin, Mingkang Li, Da Li, Timothy Hospedales, Yi-Zhe Song, Yonggang Qi,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/ICCV2023/html/Nag_DiffTAD_Temporal_Action_Detection_with_Proposal_Denoising_Diffusion_ICCV_2023_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Difftad: Temporal action detection with proposal denoising diffusion
+   </strong>
+  </a>
+  , Sauradip Nag, Xiatian Zhu, Jiankang Deng, Yi-Zhe Song, Tao Xiang,
+  <em>
+   ICCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Han_FAME-ViL_Multi-Tasking_Vision-Language_Model_for_Heterogeneous_Fashion_Tasks_CVPR_2023_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Fame-vil: Multi-tasking vision-language model for heterogeneous fashion tasks
+   </strong>
+  </a>
+  , Xiao Han, Xiatian Zhu, Licheng Yu, Li Zhang, Yi-Zhe Song, Tao Xiang,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Chowdhury_SceneTrilogy_On_Human_Scene-Sketch_and_Its_Complementarity_With_Photo_and_CVPR_2023_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Scenetrilogy: On human scene-sketch and its complementarity with photo and text
+   </strong>
+  </a>
+  , Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Aneeshan Sain, Subhadeep Koley, Tao Xiang, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://openreview.net/forum?id=4eJ43EN2g6l" rel="noopener noreferrer" target="_blank">
+   <strong>
+    SketchKnitter: Vectorized Sketch Generation with Diffusion Models
+   </strong>
+  </a>
+  , Qiang Wang, Haoge Deng, Yonggang Qi, Da Li, Yi-Zhe Song,
+  <em>
+   ICLR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/ICCV2023/html/Han_Controllable_Person_Image_Synthesis_with_Pose-Constrained_Latent_Diffusion_ICCV_2023_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Controllable person image synthesis with pose-constrained latent diffusion
+   </strong>
+  </a>
+  , Xiao Han, Xiatian Zhu, Jiankang Deng, Yi-Zhe Song, Tao Xiang,
+  <em>
+   ICCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10145054/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Prediction calibration for generalized few-shot semantic segmentation
+   </strong>
+  </a>
+  , Zhihe Lu, Sen He, Da Li, Yi-Zhe Song, Tao Xiang,
+  <em>
+   TIP
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Sain_Exploiting_Unlabelled_Photos_for_Stronger_Fine-Grained_SBIR_CVPR_2023_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Exploiting unlabelled photos for stronger fine-grained SBIR
+   </strong>
+  </a>
+  , Aneeshan Sain, Ayan Kumar Bhunia, Subhadeep Koley, Pinaki Nath Chowdhury, Soumitri Chattopadhyay, Tao Xiang, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Bhunia_Sketch2Saliency_Learning_To_Detect_Salient_Objects_From_Human_Drawings_CVPR_2023_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketch2saliency: Learning to detect salient objects from human drawings
+   </strong>
+  </a>
+  , Ayan Kumar Bhunia, Subhadeep Koley, Amandeep Kumar, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Chaudhuri_Data-Free_Sketch-Based_Image_Retrieval_CVPR_2023_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Data-free sketch-based image retrieval
+   </strong>
+  </a>
+  , Abhra Chaudhuri, Ayan Kumar Bhunia, Yi-Zhe Song, Anjan Dutta,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10189399/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Uncertainty-aware source-free domain adaptive semantic segmentation
+   </strong>
+  </a>
+  , Zhihe Lu, Da Li, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales,
+  <em>
+   TIP
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Chang_An_Erudite_Fine-Grained_Visual_Classification_Model_CVPR_2023_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    An erudite fine-grained visual classification model
+   </strong>
+  </a>
+  , Dongliang Chang, Yujun Tong, Ruoyi Du, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/ICCV2023/html/Guo_Task-aware_Adaptive_Learning_for_Cross-domain_Few-shot_Learning_ICCV_2023_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Task-aware adaptive learning for cross-domain few-shot learning
+   </strong>
+  </a>
+  , Yurong Guo, Ruoyi Du, Yuan Dong, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma,
+  <em>
+   ICCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Du_On-the-Fly_Category_Discovery_CVPR_2023_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    On-the-fly category discovery
+   </strong>
+  </a>
+  , Ruoyi Du, Dongliang Chang, Kongming Liang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://arxiv.org/abs/2304.03785" rel="noopener noreferrer" target="_blank">
+   <strong>
+    ChiroDiff: Modelling chirographic data with Diffusion Models
+   </strong>
+  </a>
+  , Ayan Das, Yongxin Yang, Timothy Hospedales, Tao Xiang, Yi-Zhe Song,
+  <em>
+   arXiv
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/ICCV2023/html/Luo_3D_VR_Sketch_Guided_3D_Shape_Prototyping_and_Exploration_ICCV_2023_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    3d vr sketch guided 3d shape prototyping and exploration
+   </strong>
+  </a>
+  , Ling Luo, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song, Yulia Gryaditskaya,
+  <em>
+   ICCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10214525/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketch-segformer: Transformer-based segmentation for figurative and creative sketches
+   </strong>
+  </a>
+  , Yixiao Zheng, Jiyang Xie, Aneeshan Sain, Yi-Zhe Song, Zhanyu Ma,
+  <em>
+   TIP
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Nag_Post-Processing_Temporal_Action_Detection_CVPR_2023_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Post-processing temporal action detection
+   </strong>
+  </a>
+  , Sauradip Nag, Xiatian Zhu, Yi-Zhe Song, Tao Xiang,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10122150/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Making a bird ai expert work for you and me
+   </strong>
+  </a>
+  , Dongliang Chang, Kaiyue Pang, Ruoyi Du, Yujun Tong, Yi-Zhe Song, Zhanyu Ma, Jun Guo,
+  <em>
+   TPAMI
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Qu_SketchXAI_A_First_Look_at_Explainability_for_Human_Sketches_CVPR_2023_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketchxai: A first look at explainability for human sketches
+   </strong>
+  </a>
+  , Zhiyu Qu, Yulia Gryaditskaya, Ke Li, Kaiyue Pang, Tao Xiang, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://arxiv.org/abs/2308.14191" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketchdreamer: Interactive text-augmented creative sketch ideation
+   </strong>
+  </a>
+  , Zhiyu Qu, Tao Xiang, Yi-Zhe Song,
+  <em>
+   arXiv
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Qu_SketchXAI_A_First_Look_at_Explainability_for_Human_Sketches_CVPR_2023_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketchxai: A first look at explainability for human sketches
+   </strong>
+  </a>
+  , Zhiyu Qu, Yulia Gryaditskaya, Ke Li, Kaiyue Pang, Tao Xiang, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10292696/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Mind the Gap: Open Set Domain Adaptation via Mutual-to-Separate Framework
+   </strong>
+  </a>
+  , Dongliang Chang, Aneeshan Sain, Zhanyu Ma, Yi-Zhe Song, Ruiping Wang, Jun Guo,
+  <em>
+   TCSVT
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/ICCV2023/html/Chowdhury_Democratising_2D_Sketch_to_3D_Shape_Retrieval_Through_Pivoting_ICCV_2023_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Democratising 2D sketch to 3D shape retrieval through pivoting
+   </strong>
+  </a>
+  , Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Aneeshan Sain, Subhadeep Koley, Tao Xiang, Yi-Zhe Song,
+  <em>
+   ICCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://arxiv.org/abs/2302.07669" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Unsupervised hashing with similarity distribution calibration
+   </strong>
+  </a>
+  , Kam Woh Ng, Xiatian Zhu, Jiun Tian Hoe, Chee Seng Chan, Tianyu Zhang, Yi-Zhe Song, Tao Xiang,
+  <em>
+   arXiv
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10273439/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Semi-supervised learning for FGVC with out-of-category data
+   </strong>
+  </a>
+  , Ruoyi Du, Dongliang Chang, Zhanyu Ma, Kongming Liang, Yi-Zhe Song, Jun Guo,
+  <em>
+   TPAMI
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://arxiv.org/abs/2311.07261" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketch-based video object segmentation: benchmark and analysis
+   </strong>
+  </a>
+  , Ruolin Yang, Da Li, Conghui Hu, Timothy Hospedales, Honggang Zhang, Yi-Zhe Song,
+  <em>
+   arXiv
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://openresearch.surrey.ac.uk/esploro/outputs/doctoral/SceneTrilogy-On-Scene-Sketches-and-its/99958466602346" rel="noopener noreferrer" target="_blank">
+   <strong>
+    SceneTrilogy: on scene sketches and its relationship with text and photo
+   </strong>
+  </a>
+  , Pinaki Nath Chowdhury,
+  <em>
+   PhD
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Li_Photo_Pre-Training_but_for_Sketch_CVPR_2023_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Photo Pre-Training, But for Sketch
+   </strong>
+  </a>
+  , , Ke Li, Kaiyue Pang, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Li_Photo_Pre-Training_but_for_Sketch_CVPR_2023_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Photo Pre-Training, But for Sketch
+   </strong>
+  </a>
+  , Ke Li, Kaiyue Pang, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://arxiv.org/abs/2303.05734" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Generative Model Based Noise Robust Training for Unsupervised Domain Adaptation
+   </strong>
+  </a>
+  , Zhongying Deng, Da Li, Junjun He, Yi-Zhe Song, Tao Xiang,
+  <em>
+   arXiv
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230315149N/abstract" rel="noopener noreferrer" target="_blank">
+   <strong>
+    What Can Human Sketches Do for Object Detection?
+   </strong>
+  </a>
+  , Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Aneeshan Sain, Subhadeep Koley, Tao Xiang, Yi-Zhe Song,
+  <em>
+   arXiv
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv231115477W/abstract" rel="noopener noreferrer" target="_blank">
+   <strong>
+    DreamCreature: Crafting Photorealistic Virtual Creatures from Imagination
+   </strong>
+  </a>
+  , Kam Woh Ng, Xiatian Zhu, Yi-Zhe Song, Tao Xiang,
+  <em>
+   arXiv
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://openaccess.thecvf.com/content/CVPR2023/supplemental/Li_Photo_Pre-Training_but_CVPR_2023_supplemental.pdf" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Supplementary material: Photo Pre-Training, But for Sketch
+   </strong>
+  </a>
+  , Ke Li, Kaiyue Pang, Yi-Zhe Song, CVSSP SketchX,
+  <em>
+   CVPR
+  </em>
+ </li>
+
+</ol>
+
+
+
+
+
+
   <ol>
 
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2023</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Sain_CLIP_for_All_Things_Zero-Shot_Sketch-Based_Image_Retrieval_Fine-Grained_or_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Clip for all things zero-shot sketch-based image retrieval, fine-grained or not</a><br>
-      <small>Aneeshan Sain, Ayan Kumar Bhunia, Pinaki Nath Chowdhury, Subhadeep Koley, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #f44336; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">AAAI 2023</span><br>
-      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25383" target="_blank" rel="noopener noreferrer">Bi-directional feature reconstruction network for fine-grained few-shot image classification</a><br>
-      <small>Jijie Wu, Dongliang Chang, Aneeshan Sain, Xiaoxu Li, Zhanyu Ma, Jie Cao, Jun Guo, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #ff9800; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">NeurIPS 2023</span><br>
-      <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/0fb98d483fa580e0354bcdd3a003a3f3-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Headsculpt: Crafting 3d head avatars with text</a><br>
-      <small>Xiao Han, Yukang Cao, Kai Han, Xiatian Zhu, Jiankang Deng, Yi-Zhe Song, Tao Xiang, Kwan-Yee K Wong</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2023</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Koley_Picture_That_Sketch_Photorealistic_Image_Generation_From_Abstract_Sketches_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Picture that sketch: Photorealistic image generation from abstract sketches</a><br>
-      <small>Subhadeep Koley, Ayan Kumar Bhunia, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2023</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Lin_Zero-Shot_Everything_Sketch-Based_Image_Retrieval_and_in_Explainable_Style_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Zero-shot everything sketch-based image retrieval, and in explainable style</a><br>
-      <small>Fengyin Lin, Mingkang Li, Da Li, Timothy Hospedales, Yi-Zhe Song, Yonggang Qi</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICCV 2023</span><br>
-      <a href="http://openaccess.thecvf.com/content/ICCV2023/html/Nag_DiffTAD_Temporal_Action_Detection_with_Proposal_Denoising_Diffusion_ICCV_2023_paper.html" target="_blank" rel="noopener noreferrer">Difftad: Temporal action detection with proposal denoising diffusion</a><br>
-      <small>Sauradip Nag, Xiatian Zhu, Jiankang Deng, Yi-Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2023</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Han_FAME-ViL_Multi-Tasking_Vision-Language_Model_for_Heterogeneous_Fashion_Tasks_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Fame-vil: Multi-tasking vision-language model for heterogeneous fashion tasks</a><br>
-      <small>Xiao Han, Xiatian Zhu, Licheng Yu, Li Zhang, Yi-Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2023</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Chowdhury_SceneTrilogy_On_Human_Scene-Sketch_and_Its_Complementarity_With_Photo_and_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Scenetrilogy: On human scene-sketch and its complementarity with photo and text</a><br>
-      <small>Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Aneeshan Sain, Subhadeep Koley, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICLR 2023</span><br>
-      <a href="https://openreview.net/forum?id=4eJ43EN2g6l" target="_blank" rel="noopener noreferrer">SketchKnitter: Vectorized Sketch Generation with Diffusion Models</a><br>
-      <small>Qiang Wang, Haoge Deng, Yonggang Qi, Da Li, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICCV 2023</span><br>
-      <a href="http://openaccess.thecvf.com/content/ICCV2023/html/Han_Controllable_Person_Image_Synthesis_with_Pose-Constrained_Latent_Diffusion_ICCV_2023_paper.html" target="_blank" rel="noopener noreferrer">Controllable person image synthesis with pose-constrained latent diffusion</a><br>
-      <small>Xiao Han, Xiatian Zhu, Jiankang Deng, Yi-Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TIP 2023</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10145054/" target="_blank" rel="noopener noreferrer">Prediction calibration for generalized few-shot semantic segmentation</a><br>
-      <small>Zhihe Lu, Sen He, Da Li, Yi-Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2023</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Sain_Exploiting_Unlabelled_Photos_for_Stronger_Fine-Grained_SBIR_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Exploiting unlabelled photos for stronger fine-grained SBIR</a><br>
-      <small>Aneeshan Sain, Ayan Kumar Bhunia, Subhadeep Koley, Pinaki Nath Chowdhury, Soumitri Chattopadhyay, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2023</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Bhunia_Sketch2Saliency_Learning_To_Detect_Salient_Objects_From_Human_Drawings_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Sketch2saliency: Learning to detect salient objects from human drawings</a><br>
-      <small>Ayan Kumar Bhunia, Subhadeep Koley, Amandeep Kumar, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2023</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Chaudhuri_Data-Free_Sketch-Based_Image_Retrieval_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Data-free sketch-based image retrieval</a><br>
-      <small>Abhra Chaudhuri, Ayan Kumar Bhunia, Yi-Zhe Song, Anjan Dutta</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TIP 2023</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10189399/" target="_blank" rel="noopener noreferrer">Uncertainty-aware source-free domain adaptive semantic segmentation</a><br>
-      <small>Zhihe Lu, Da Li, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2023</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Chang_An_Erudite_Fine-Grained_Visual_Classification_Model_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">An erudite fine-grained visual classification model</a><br>
-      <small>Dongliang Chang, Yujun Tong, Ruoyi Du, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICCV 2023</span><br>
-      <a href="http://openaccess.thecvf.com/content/ICCV2023/html/Guo_Task-aware_Adaptive_Learning_for_Cross-domain_Few-shot_Learning_ICCV_2023_paper.html" target="_blank" rel="noopener noreferrer">Task-aware adaptive learning for cross-domain few-shot learning</a><br>
-      <small>Yurong Guo, Ruoyi Du, Yuan Dong, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2023</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Du_On-the-Fly_Category_Discovery_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">On-the-fly category discovery</a><br>
-      <small>Ruoyi Du, Dongliang Chang, Kongming Liang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">arXiv 2023</span><br>
-      <a href="https://arxiv.org/abs/2304.03785" target="_blank" rel="noopener noreferrer">ChiroDiff: Modelling chirographic data with Diffusion Models</a><br>
-      <small>Ayan Das, Yongxin Yang, Timothy Hospedales, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICCV 2023</span><br>
-      <a href="http://openaccess.thecvf.com/content/ICCV2023/html/Luo_3D_VR_Sketch_Guided_3D_Shape_Prototyping_and_Exploration_ICCV_2023_paper.html" target="_blank" rel="noopener noreferrer">3d vr sketch guided 3d shape prototyping and exploration</a><br>
-      <small>Ling Luo, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song, Yulia Gryaditskaya</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TIP 2023</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10214525/" target="_blank" rel="noopener noreferrer">Sketch-segformer: Transformer-based segmentation for figurative and creative sketches</a><br>
-      <small>Yixiao Zheng, Jiyang Xie, Aneeshan Sain, Yi-Zhe Song, Zhanyu Ma</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2023</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Nag_Post-Processing_Temporal_Action_Detection_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Post-processing temporal action detection</a><br>
-      <small>Sauradip Nag, Xiatian Zhu, Yi-Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TPAMI 2023</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10122150/" target="_blank" rel="noopener noreferrer">Making a bird ai expert work for you and me</a><br>
-      <small>Dongliang Chang, Kaiyue Pang, Ruoyi Du, Yujun Tong, Yi-Zhe Song, Zhanyu Ma, Jun Guo</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2023</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Qu_SketchXAI_A_First_Look_at_Explainability_for_Human_Sketches_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Sketchxai: A first look at explainability for human sketches</a><br>
-      <small>Zhiyu Qu, Yulia Gryaditskaya, Ke Li, Kaiyue Pang, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">arXiv 2023</span><br>
-      <a href="https://arxiv.org/abs/2308.14191" target="_blank" rel="noopener noreferrer">Sketchdreamer: Interactive text-augmented creative sketch ideation</a><br>
-      <small>Zhiyu Qu, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2023</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Qu_SketchXAI_A_First_Look_at_Explainability_for_Human_Sketches_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Sketchxai: A first look at explainability for human sketches</a><br>
-      <small>Zhiyu Qu, Yulia Gryaditskaya, Ke Li, Kaiyue Pang, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TCSVT 2023</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10292696/" target="_blank" rel="noopener noreferrer">Mind the Gap: Open Set Domain Adaptation via Mutual-to-Separate Framework</a><br>
-      <small>Dongliang Chang, Aneeshan Sain, Zhanyu Ma, Yi-Zhe Song, Ruiping Wang, Jun Guo</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICCV 2023</span><br>
-      <a href="http://openaccess.thecvf.com/content/ICCV2023/html/Chowdhury_Democratising_2D_Sketch_to_3D_Shape_Retrieval_Through_Pivoting_ICCV_2023_paper.html" target="_blank" rel="noopener noreferrer">Democratising 2D sketch to 3D shape retrieval through pivoting</a><br>
-      <small>Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Aneeshan Sain, Subhadeep Koley, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">arXiv 2023</span><br>
-      <a href="https://arxiv.org/abs/2302.07669" target="_blank" rel="noopener noreferrer">Unsupervised hashing with similarity distribution calibration</a><br>
-      <small>Kam Woh Ng, Xiatian Zhu, Jiun Tian Hoe, Chee Seng Chan, Tianyu Zhang, Yi-Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TPAMI 2023</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10273439/" target="_blank" rel="noopener noreferrer">Semi-supervised learning for FGVC with out-of-category data</a><br>
-      <small>Ruoyi Du, Dongliang Chang, Zhanyu Ma, Kongming Liang, Yi-Zhe Song, Jun Guo</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">arXiv 2023</span><br>
-      <a href="https://arxiv.org/abs/2311.07261" target="_blank" rel="noopener noreferrer">Sketch-based video object segmentation: benchmark and analysis</a><br>
-      <small>Ruolin Yang, Da Li, Conghui Hu, Timothy Hospedales, Honggang Zhang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">PhD Thesis 2023</span><br>
-      <a href="https://openresearch.surrey.ac.uk/esploro/outputs/doctoral/SceneTrilogy-On-Scene-Sketches-and-its/99958466602346" target="_blank" rel="noopener noreferrer">SceneTrilogy: on scene sketches and its relationship with text and photo</a><br>
-      <small>Pinaki Nath Chowdhury</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2023</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Li_Photo_Pre-Training_but_for_Sketch_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Photo Pre-Training, But for Sketch</a><br>
-      <small>, Ke Li, Kaiyue Pang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2023</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Li_Photo_Pre-Training_but_for_Sketch_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Photo Pre-Training, But for Sketch</a><br>
-      <small>, Ke Li, Kaiyue Pang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">arXiv 2023</span><br>
-      <a href="https://arxiv.org/abs/2303.05734" target="_blank" rel="noopener noreferrer">Generative Model Based Noise Robust Training for Unsupervised Domain Adaptation</a><br>
-      <small>, Zhongying Deng, Da Li, Junjun He, Yi-Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">arXiv 2023</span><br>
-      <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230315149N/abstract" target="_blank" rel="noopener noreferrer">What Can Human Sketches Do for Object Detection?</a><br>
-      <small>, Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Aneeshan Sain, Subhadeep Koley, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">arXiv 2023</span><br>
-      <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv231115477W/abstract" target="_blank" rel="noopener noreferrer">DreamCreature: Crafting Photorealistic Virtual Creatures from Imagination</a><br>
-      <small>, Kam Woh Ng, Xiatian Zhu, Yi-Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2023</span><br>
-      <a href="https://openaccess.thecvf.com/content/CVPR2023/supplemental/Li_Photo_Pre-Training_but_CVPR_2023_supplemental.pdf" target="_blank" rel="noopener noreferrer">Supplementary material: Photo Pre-Training, But for Sketch</a><br>
-      <small>, Ke Li, Kaiyue Pang, Yi-Zhe Song, CVSSP SketchX</small>
-    </li>
+
 <li style="margin-bottom: 1em;">
       <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TNNLS 2022</span><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/9706366/" target="_blank" rel="noopener noreferrer">Deep learning for free-hand sketch: A survey</a><br>
