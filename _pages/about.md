@@ -12,81 +12,95 @@ redirect_from:
 
 <style>
   body {
-    font-family: 'Open Sans', sans-serif;
-    background-color: #fdfaf6;
-    color: #333;
-    line-height: 1.7;
+    font-family: 'Open Sans', serif;
+    background-color: #fdf8f0;
+    color: #3c3c3c;
+    line-height: 1.8;
     margin: 0;
     padding: 0;
   }
 
   .section {
-    max-width: 960px;
+    max-width: 900px;
     margin: 0 auto;
-    padding: 2em 1.5em;
+    padding: 3em 2em;
   }
 
   .section h2 {
     font-family: 'Playfair Display', serif;
-    font-size: 2em;
+    font-size: 2.2em;
+    color: #4d3f2b;
     margin-bottom: 1em;
-    border-left: 6px solid #bfa97a;
-    padding-left: 12px;
-    color: #5a4c3c;
+    position: relative;
+  }
+
+  .section h2::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -8px;
+    width: 60px;
+    height: 3px;
+    background-color: #b89b72;
   }
 
   .section p {
-    margin-bottom: 1em;
+    font-size: 1.05em;
+    text-align: justify;
+    margin-bottom: 1.2em;
   }
 
-  /* 首字母放大效果 */
+  /* 首字母放大 */
   .dropcap::first-letter {
     float: left;
     font-size: 3em;
+    font-family: 'Playfair Display', serif;
+    margin-right: 10px;
     line-height: 1;
-    padding-right: 8px;
-    color: #8b6b3f;
+    color: #947c5e;
+  }
+
+  /* 引文风格人物介绍 */
+  .bio-quote {
+    background: #fffefb;
+    border-left: 6px solid #ccb89c;
+    padding: 1.5em 2em;
+    margin-top: 2em;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(200, 180, 140, 0.1);
+  }
+
+  .bio-quote h3 {
     font-family: 'Playfair Display', serif;
-  }
-
-  /* 欧洲风布局：图左文右 */
-  .bio-layout {
-    display: grid;
-    grid-template-columns: 220px 1fr;
-    gap: 30px;
-    align-items: flex-start;
-    background: #f9f6f1;
-    padding: 24px;
-    border-radius: 12px;
-    border-left: 4px solid #c1ab80;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.04);
-  }
-
-  .bio-layout img {
-    width: 100%;
-    border-radius: 10px;
-    border: 2px solid #d8cfc0;
-  }
-
-  .bio-layout .bio-text h3 {
-    font-family: 'Playfair Display', serif;
+    color: #5c4a3b;
     font-size: 1.4em;
     margin-top: 0;
-    color: #5a4c3c;
   }
 
-  .bio-layout .bio-text p {
-    text-align: justify;
-    margin-bottom: 1em;
+  .bio-quote blockquote {
+    margin: 1em 0;
+    padding-left: 1em;
+    border-left: 3px solid #d4c4a8;
+    color: #555;
+    font-style: italic;
   }
 
-  /* 团队成员卡片 */
+  .bio-quote img {
+    float: right;
+    width: 140px;
+    margin-left: 20px;
+    border-radius: 8px;
+    border: 2px solid #e1d8c3;
+  }
+
+  /* 团队成员区块 */
   #team-members-section .team-box {
     background: #ffffff;
     padding: 24px;
-    border-radius: 16px;
-    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.04);
+    border-radius: 12px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.03);
     text-align: center;
+    margin-top: 2em;
   }
 
   #team-members-section img {
@@ -108,45 +122,37 @@ redirect_from:
   <h2>🌟 Welcome to SketchX</h2>
 
   <p class="dropcap">
-    The ultimate vision for <strong>SketchX</strong> is to understand how seeing can be explained by drawing.
-    In other words, how a better understanding of human sketch data can be translated into insights
-    on how human visual systems operate — and in turn, how such insights can benefit computer vision and cognitive science at large.
+    The ultimate vision for <strong>SketchX</strong> is to understand how seeing can be explained by drawing. In other words, how a better understanding of human sketch data can be translated into insights on how human visual systems operate — and in turn, how such insights can benefit computer vision and cognitive science at large.
   </p>
-
   <p>
-    SketchX has been actively investigating all aspects of sketch research since 2012.
-    The problems we study range from conventional tasks such as sketch recognition and sketch synthesis,
-    to those we have pioneered, such as fine-grained sketch-based image retrieval and memory-aware forensic sketch analysis.
+    SketchX has been actively investigating all aspects of sketch research since 2012. The problems we study range from conventional tasks such as sketch recognition and sketch synthesis, to those we have pioneered, such as fine-grained sketch-based image retrieval and memory-aware forensic sketch analysis.
   </p>
 
-  <!-- 人物介绍：欧洲风格布局 -->
-  <div class="bio-layout" style="margin-top: 3em;">
+  <!-- 人物介绍块：引文风格 -->
+  <div class="bio-quote">
     <img src="{{ '/images/song.jpg' | relative_url }}" alt="Professor Yi-Zhe Song">
-    <div class="bio-text">
-      <h3>👨‍🏫 Professor Yi-Zhe Song</h3>
-      <p class="dropcap">
-        Yi-Zhe Song is a Professor of Computer Vision and Machine Learning at the Centre for Vision Speech and Signal Processing (CVSSP),
-        one of the UK's oldest and largest research centres on Artificial Intelligence.
-      </p>
-      <p>
-        He leads the SketchX Lab within CVSSP — a large research group of 3 academics, 2 postdocs, and 14 full-time PhD students.
-        His vision for SketchX is understanding how seeing can be explained by drawing.
-      </p>
-      <p>
-        He is an Associate Editor of IEEE TPAMI, a Programme Chair for BMVC 2021, and Area Chair for ECCV’22, CVPR’22, and ICCV’21.
-        He received a Best Paper Award at BMVC 2015 and publishes regularly at CVPR, ECCV, ICCV, ICML, and SIGGRAPH Asia.
-      </p>
-      <p>
-        Professor Song holds a PhD from University of Bath (2008), MSc from Cambridge (2004, Best Dissertation Award), and BSc from Bath.
-        He is a Senior Member of IEEE and a Fellow of HEA.
-      </p>
-    </div>
+    <h3>👨‍🏫 Professor Yi-Zhe Song</h3>
+    <blockquote>
+      "Understanding vision through the act of drawing is not just a computational challenge, but a cognitive journey."
+    </blockquote>
+    <p>
+      Yi-Zhe Song is a Professor of Computer Vision and Machine Learning at CVSSP, one of the UK's largest AI research centers.
+      He leads the SketchX Lab — a group of 3 academics, 2 postdocs, and 14 PhD students.
+    </p>
+    <p>
+      He is an Associate Editor for TPAMI, Programme Chair for BMVC 2021, and has served as Area Chair for ECCV, CVPR, ICCV.
+      His work has won the Best Paper Award at BMVC 2015 and appeared in CVPR, ECCV, ICCV, SIGGRAPH Asia, and ICML.
+    </p>
+    <p>
+      Yi-Zhe received his PhD from the University of Bath, MSc from Cambridge (Best Dissertation Award), and BSc from Bath with First Class Honours.
+    </p>
   </div>
 </div>
 
 <!-- Section: Team Members -->
 <div class="section" id="team-members-section">
   <h2>👥 Team Members</h2>
+
   <div class="team-box">
     <img src="{{ '/images/team_member.png' | relative_url }}" alt="Team Member">
     <p>Team structure overview</p>
