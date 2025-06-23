@@ -177,7 +177,7 @@ redirect_from:
 </ol>
 <h3>📚 2024</h3>
 <ol style="padding-left: 1.2em;">
-   <li style="margin-bottom: 0.4em; line-height: 1.4;">
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
   <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Du_DemoFusion_Democratising_High-Resolution_Image_Generation_With_No__CVPR_2024_paper.html" rel="noopener noreferrer" target="_blank">
    <strong>
     Demofusion: Democratising high-resolution image generation with no $$$
@@ -221,139 +221,252 @@ redirect_from:
    CVPR
   </em>
  </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Bandyopadhyay_Doodle_Your_3D_From_Abstract_Freehand_Sketches_to_Precise_3D_CVPR_2024_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Doodle your 3d: From abstract freehand sketches to precise 3d shapes
+   </strong>
+  </a>
+  , Hmrishav Bandyopadhyay, Subhadeep Koley, Ayan Das, Ayan Kumar Bhunia, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Bandyopadhyay_SketchINR_A_First_Look_into_Sketches_as_Implicit_Neural_Representations_CVPR_2024_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketchinr: A first look into sketches as implicit neural representations
+   </strong>
+  </a>
+  , Hmrishav Bandyopadhyay, Ayan Kumar Bhunia, Pinaki Nath Chowdhury, Aneeshan Sain, Tao Xiang, Timothy Hospedales, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Koley_Text-to-Image_Diffusion_Models_are_Great_Sketch-Photo_Matchmakers_CVPR_2024_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Text-to-image diffusion models are great sketch-photo matchmakers
+   </strong>
+  </a>
+  , Subhadeep Koley, Ayan Kumar Bhunia, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10472065/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Bi-directional ensemble feature reconstruction network for few-shot fine-grained classification
+   </strong>
+  </a>
+  , Jijie Wu, Dongliang Chang, Aneeshan Sain, Xiaoxu Li, Zhanyu Ma, Jie Cao, Jun Guo, Yi-Zhe Song,
+  <em>
+   TPAMI
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Qu_Wired_Perspectives_Multi-View_Wire_Art_Embraces_Generative_AI_CVPR_2024_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Wired perspectives: Multi-view wire art embraces generative ai
+   </strong>
+  </a>
+  , Zhiyu Qu, Lan Yang, Honggang Zhang, Tao Xiang, Kaiyue Pang, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Chen_DemoCaricature_Democratising_Caricature_Generation_with_a_Rough_Sketch_CVPR_2024_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Democaricature: Democratising caricature generation with a rough sketch
+   </strong>
+  </a>
+  , Dar-Yen Chen, Ayan Kumar Bhunia, Subhadeep Koley, Aneeshan Sain, Pinaki Nath Chowdhury, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-72673-6_23" rel="noopener noreferrer" target="_blank">
+   <strong>
+    PartCraft: Crafting Creative Objects by Parts
+   </strong>
+  </a>
+  , Kam Woh Ng, Xiatian Zhu, Yi-Zhe Song, Tao Xiang,
+  <em>
+   ECCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10471272/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Creativeseg: Semantic segmentation of creative sketches
+   </strong>
+  </a>
+  , Yixiao Zheng, Kaiyue Pang, Ayan Das, Dongliang Chang, Yi-Zhe Song, Zhanyu Ma,
+  <em>
+   TIP
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://arxiv.org/abs/2405.18716" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketchdeco: Decorating b&amp;w sketches with colour
+   </strong>
+  </a>
+  , Chaitat Utintu, Pinaki Nath Chowdhury, Aneeshan Sain, Subhadeep Koley, Ayan Kumar Bhunia, Yi-Zhe Song,
+  <em>
+   arXiv
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Bandyopadhyay_What_Sketch_Explainability_Really_Means_for_Downstream_Tasks_CVPR_2024_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    What Sketch Explainability Really Means for Downstream Tasks?
+   </strong>
+  </a>
+  , Hmrishav Bandyopadhyay, Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Aneeshan Sain, Tao Xiang, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://openreview.net/forum?id=O2jyuo89CK" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Modelling complex vector drawings with stroke-clouds
+   </strong>
+  </a>
+  , Alexander Ashcroft, Ayan Das, Yulia Gryaditskaya, Zhiyu Qu, Yi-Zhe Song,
+  <em>
+   ICLR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://openaccess.thecvf.com/content/CVPR2024W/FGVC11/html/Ng_ConceptHash_Interpretable_Fine-Grained_Hashing_via_Concept_Discovery_CVPRW_2024_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    ConceptHash: Interpretable Fine-Grained Hashing via Concept Discovery
+   </strong>
+  </a>
+  , Kam Woh Ng, Xiatian Zhu, Yi-Zhe Song, Tao Xiang,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://openreview.net/forum?id=nQsimt9atc" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Ipr-nerf: Ownership verification meets neural radiance field
+   </strong>
+  </a>
+  , Win Kent Ong, Kam Woh Ng, Chee Seng Chan, Yi-Zhe Song, Tao Xiang,
+  <em>
+   ICLR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-72992-8_13" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Do Generalised Classifiers Really Work on Human Drawn Sketches?
+   </strong>
+  </a>
+  , Hmrishav Bandyopadhyay, Pinaki Nath Chowdhury, Aneeshan Sain, Subhadeep Koley, Tao Xiang, Ayan Kumar Bhunia, Yi-Zhe Song,
+  <em>
+   ECCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://openreview.net/forum?id=5xadJmgwix" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Scale-Adaptive Diffusion Model for Complex Sketch Synthesis
+   </strong>
+  </a>
+  , Jijin Hu, Ke Li, Yonggang Qi, Yi-Zhe Song,
+  <em>
+   ICLR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://openreview.net/forum?id=5xadJmgwix" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Scale-Adaptive Diffusion Model for Complex Sketch Synthesis
+   </strong>
+  </a>
+  , Jijin Hu, Ke Li, Yonggang Qi, Yi-Zhe Song,
+  <em>
+   ICLR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-72998-0_9" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Freeview Sketching: View-Aware Fine-Grained Sketch-Based Image Retrieval
+   </strong>
+  </a>
+  , Aneeshan Sain, Pinaki Nath Chowdhury, Subhadeep Koley, Ayan Kumar Bhunia, Yi-Zhe Song,
+  <em>
+   ECCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10707331/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Understanding Episode Hardness in Few-Shot Learning
+   </strong>
+  </a>
+  , Yurong Guo, Ruoyi Du, Aneeshan Sain, Kongming Liang, Yuan Dong, Yi-Zhe Song, Zhanyu Ma,
+  <em>
+   TPAMI
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://link.springer.com/article/10.1007/s11263-024-02001-1" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Annotation-Free Human Sketch Quality Assessment
+   </strong>
+  </a>
+  , Lan Yang, Kaiyue Pang, Honggang Zhang, Yi-Zhe Song,
+  <em>
+   IJCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10589301/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    3D Reconstruction From a Single Sketch via View-Dependent Depth Sampling
+   </strong>
+  </a>
+  , Chenjian Gao, Xilin Wang, Qian Yu, Lu Sheng, Jing Zhang, Xiaoguang Han, Yi-Zhe Song, Dong Xu,
+  <em>
+   TPAMI
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-72353-7_14" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Advancing Free-Breathing Cardiac Cine MRI: Retrospective Respiratory Motion Correction Via Kspace-and-Image Guided Diffusion Model
+   </strong>
+  </a>
+  , Hongming Guo, Ziqing Huang, Qian Yuan, Hanbo Song, Zhiyan Liu, Xianzhao Feng, Anqi Liu, Min Liu, Ke Li, Ruixi Zhou,
+  <em>
+   ICANN
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-78347-0_3" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketch2Seg: Sketch-Based Image Segmentation with Pre-trained Diffusion Model
+   </strong>
+  </a>
+  , Xin Dai, Haoge Deng, Ke Li, Yonggang Qi,
+  <em>
+   ICANN
+  </em>
+ </li>
 </ol>
 
   <ol>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2024</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Du_DemoFusion_Democratising_High-Resolution_Image_Generation_With_No__CVPR_2024_paper.html" target="_blank" rel="noopener noreferrer">Demofusion: Democratising high-resolution image generation with no $$$</a><br>
-      <small>Ruoyi Du, Dongliang Chang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2024</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Koley_Its_All_About_Your_Sketch_Democratising_Sketch_Control_in_Diffusion_CVPR_2024_paper.html" target="_blank" rel="noopener noreferrer">It's All About Your Sketch: Democratising Sketch Control in Diffusion Models</a><br>
-      <small>Subhadeep Koley, Ayan Kumar Bhunia, Deeptanshu Sekhri, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2024</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Koley_How_to_Handle_Sketch-Abstraction_in_Sketch-Based_Image_Retrieval_CVPR_2024_paper.html" target="_blank" rel="noopener noreferrer">How to handle sketch-abstraction in sketch-based image retrieval?</a><br>
-      <small>Subhadeep Koley, Ayan Kumar Bhunia, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2024</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Koley_Youll_Never_Walk_Alone_A_Sketch_and_Text_Duet_for_CVPR_2024_paper.html" target="_blank" rel="noopener noreferrer">You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval</a><br>
-      <small>Subhadeep Koley, Ayan Kumar Bhunia, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2024</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Bandyopadhyay_Doodle_Your_3D_From_Abstract_Freehand_Sketches_to_Precise_3D_CVPR_2024_paper.html" target="_blank" rel="noopener noreferrer">Doodle your 3d: From abstract freehand sketches to precise 3d shapes</a><br>
-      <small>Hmrishav Bandyopadhyay, Subhadeep Koley, Ayan Das, Ayan Kumar Bhunia, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2024</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Bandyopadhyay_SketchINR_A_First_Look_into_Sketches_as_Implicit_Neural_Representations_CVPR_2024_paper.html" target="_blank" rel="noopener noreferrer">Sketchinr: A first look into sketches as implicit neural representations</a><br>
-      <small>Hmrishav Bandyopadhyay, Ayan Kumar Bhunia, Pinaki Nath Chowdhury, Aneeshan Sain, Tao Xiang, Timothy Hospedales, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2024</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Koley_Text-to-Image_Diffusion_Models_are_Great_Sketch-Photo_Matchmakers_CVPR_2024_paper.html" target="_blank" rel="noopener noreferrer">Text-to-image diffusion models are great sketch-photo matchmakers</a><br>
-      <small>Subhadeep Koley, Ayan Kumar Bhunia, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TPAMI 2024</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10472065/" target="_blank" rel="noopener noreferrer">Bi-directional ensemble feature reconstruction network for few-shot fine-grained classification</a><br>
-      <small>Jijie Wu, Dongliang Chang, Aneeshan Sain, Xiaoxu Li, Zhanyu Ma, Jie Cao, Jun Guo, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2024</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Qu_Wired_Perspectives_Multi-View_Wire_Art_Embraces_Generative_AI_CVPR_2024_paper.html" target="_blank" rel="noopener noreferrer">Wired perspectives: Multi-view wire art embraces generative ai</a><br>
-      <small>Zhiyu Qu, Lan Yang, Honggang Zhang, Tao Xiang, Kaiyue Pang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2024</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Chen_DemoCaricature_Democratising_Caricature_Generation_with_a_Rough_Sketch_CVPR_2024_paper.html" target="_blank" rel="noopener noreferrer">Democaricature: Democratising caricature generation with a rough sketch</a><br>
-      <small>Dar-Yen Chen, Ayan Kumar Bhunia, Subhadeep Koley, Aneeshan Sain, Pinaki Nath Chowdhury, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2024</span><br>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-031-72673-6_23" target="_blank" rel="noopener noreferrer">PartCraft: Crafting Creative Objects by Parts</a><br>
-      <small>Kam Woh Ng, Xiatian Zhu, Yi-Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TIP 2024</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10471272/" target="_blank" rel="noopener noreferrer">Creativeseg: Semantic segmentation of creative sketches</a><br>
-      <small>Yixiao Zheng, Kaiyue Pang, Ayan Das, Dongliang Chang, Yi-Zhe Song, Zhanyu Ma</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">arXiv 2024</span><br>
-      <a href="https://arxiv.org/abs/2405.18716" target="_blank" rel="noopener noreferrer">Sketchdeco: Decorating b&amp;w sketches with colour</a><br>
-      <small>Chaitat Utintu, Pinaki Nath Chowdhury, Aneeshan Sain, Subhadeep Koley, Ayan Kumar Bhunia, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2024</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Bandyopadhyay_What_Sketch_Explainability_Really_Means_for_Downstream_Tasks_CVPR_2024_paper.html" target="_blank" rel="noopener noreferrer">What Sketch Explainability Really Means for Downstream Tasks?</a><br>
-      <small>Hmrishav Bandyopadhyay, Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Aneeshan Sain, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICLR 2024</span><br>
-      <a href="https://openreview.net/forum?id=O2jyuo89CK" target="_blank" rel="noopener noreferrer">Modelling complex vector drawings with stroke-clouds</a><br>
-      <small>Alexander Ashcroft, Ayan Das, Yulia Gryaditskaya, Zhiyu Qu, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2024</span><br>
-      <a href="https://openaccess.thecvf.com/content/CVPR2024W/FGVC11/html/Ng_ConceptHash_Interpretable_Fine-Grained_Hashing_via_Concept_Discovery_CVPRW_2024_paper.html" target="_blank" rel="noopener noreferrer">ConceptHash: Interpretable Fine-Grained Hashing via Concept Discovery</a><br>
-      <small>Kam Woh Ng, Xiatian Zhu, Yi-Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICLR 2024</span><br>
-      <a href="https://openreview.net/forum?id=nQsimt9atc" target="_blank" rel="noopener noreferrer">Ipr-nerf: Ownership verification meets neural radiance field</a><br>
-      <small>Win Kent Ong, Kam Woh Ng, Chee Seng Chan, Yi-Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2024</span><br>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-031-72992-8_13" target="_blank" rel="noopener noreferrer">Do Generalised Classifiers Really Work on Human Drawn Sketches?</a><br>
-      <small>Hmrishav Bandyopadhyay, Pinaki Nath Chowdhury, Aneeshan Sain, Subhadeep Koley, Tao Xiang, Ayan Kumar Bhunia, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICLR 2024</span><br>
-      <a href="https://openreview.net/forum?id=5xadJmgwix" target="_blank" rel="noopener noreferrer">Scale-Adaptive Diffusion Model for Complex Sketch Synthesis</a><br>
-      <small>Jijin Hu, Ke Li, Yonggang Qi, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICLR 2024</span><br>
-      <a href="https://openreview.net/forum?id=5xadJmgwix" target="_blank" rel="noopener noreferrer">Scale-Adaptive Diffusion Model for Complex Sketch Synthesis</a><br>
-      <small>Jijin Hu, Ke Li, Yonggang Qi, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2024</span><br>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-031-72998-0_9" target="_blank" rel="noopener noreferrer">Freeview Sketching: View-Aware Fine-Grained Sketch-Based Image Retrieval</a><br>
-      <small>Aneeshan Sain, Pinaki Nath Chowdhury, Subhadeep Koley, Ayan Kumar Bhunia, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TPAMI 2024</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10707331/" target="_blank" rel="noopener noreferrer">Understanding Episode Hardness in Few-Shot Learning</a><br>
-      <small>Yurong Guo, Ruoyi Du, Aneeshan Sain, Kongming Liang, Yuan Dong, Yi-Zhe Song, Zhanyu Ma</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #795548; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">IJCV 2024</span><br>
-      <a href="https://link.springer.com/article/10.1007/s11263-024-02001-1" target="_blank" rel="noopener noreferrer">Annotation-Free Human Sketch Quality Assessment</a><br>
-      <small>Lan Yang, Kaiyue Pang, Honggang Zhang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TPAMI 2024</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10589301/" target="_blank" rel="noopener noreferrer">3D Reconstruction From a Single Sketch via View-Dependent Depth Sampling</a><br>
-      <small>Chenjian Gao, Xilin Wang, Qian Yu, Lu Sheng, Jing Zhang, Xiaoguang Han, Yi-Zhe Song, Dong Xu</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICANN 2024</span><br>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-031-72353-7_14" target="_blank" rel="noopener noreferrer">Advancing Free-Breathing Cardiac Cine MRI: Retrospective Respiratory Motion Correction Via Kspace-and-Image Guided Diffusion Model</a><br>
-      <small>Hongming Guo, Ziqing Huang, Qian Yuan, Hanbo Song, Zhiyan Liu, Xianzhao Feng, Anqi Liu, Min Liu, Ke Li, Ruixi Zhou</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICANN 2024</span><br>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-031-78347-0_3" target="_blank" rel="noopener noreferrer">Sketch2Seg: Sketch-Based Image Segmentation with Pre-trained Diffusion Model</a><br>
-      <small>Xin Dai, Haoge Deng, Ke Li, Yonggang Qi</small>
-    </li>
+
 <li style="margin-bottom: 1em;">
       <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2023</span><br>
       <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Sain_CLIP_for_All_Things_Zero-Shot_Sketch-Based_Image_Retrieval_Fine-Grained_or_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Clip for all things zero-shot sketch-based image retrieval, fine-grained or not</a><br>
