@@ -175,18 +175,55 @@ redirect_from:
     Zhipeng Chen, Lan Yang, Yonggang Qi, Honggang Zhang, Kaiyue Pang, Ke Li, Yi-Zhe Song, <em>AAAI</em>
   </li>
 </ol>
+<h3>📚 2024</h3>
+<ol style="padding-left: 1.2em;">
+   <li style="margin-bottom: 1em; line-height: 1.6;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Du_DemoFusion_Democratising_High-Resolution_Image_Generation_With_No__CVPR_2024_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Demofusion: Democratising high-resolution image generation with no $$$
+   </strong>
+  </a>
+  , Ruoyi Du, Dongliang Chang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 1em; line-height: 1.6;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Koley_Its_All_About_Your_Sketch_Democratising_Sketch_Control_in_Diffusion_CVPR_2024_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    It's All About Your Sketch: Democratising Sketch Control in Diffusion Models
+   </strong>
+  </a>
+  , Subhadeep Koley, Ayan Kumar Bhunia, Deeptanshu Sekhri, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 1em; line-height: 1.6;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Koley_How_to_Handle_Sketch-Abstraction_in_Sketch-Based_Image_Retrieval_CVPR_2024_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    How to handle sketch-abstraction in sketch-based image retrieval?
+   </strong>
+  </a>
+  , Subhadeep Koley, Ayan Kumar Bhunia, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 1em; line-height: 1.6;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Koley_Youll_Never_Walk_Alone_A_Sketch_and_Text_Duet_for_CVPR_2024_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval
+   </strong>
+  </a>
+  , Subhadeep Koley, Ayan Kumar Bhunia, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+</ol>
 
   <ol>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #f44336; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">AAAI 2025</span><br>
-      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32894" target="_blank" rel="noopener noreferrer">VA-AR: Learning Velocity-Aware Action Representations with Mixture of Window Attention</a><br>
-      <small>Jiangning Wei, Lixiong Qin, Bo Yu, Tianjian Zou, Chuhan Yan, Dandan Xiao, Yang Yu, Lan Yang, Ke Li, Jun Liu</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #f44336; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">AAAI 2025</span><br>
-      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32240" target="_blank" rel="noopener noreferrer">VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis</a><br>
-      <small>Zhipeng Chen, Lan Yang, Yonggang Qi, Honggang Zhang, Kaiyue Pang, Ke Li, Yi-Zhe Song</small>
-    </li>
 <li style="margin-bottom: 1em;">
       <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2024</span><br>
       <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Du_DemoFusion_Democratising_High-Resolution_Image_Generation_With_No__CVPR_2024_paper.html" target="_blank" rel="noopener noreferrer">Demofusion: Democratising high-resolution image generation with no $$$</a><br>
