@@ -8,168 +8,156 @@ redirect_from:
   - /about.html
 ---
 <!-- 字体引入 -->
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&family=Open+Sans&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Open+Sans&display=swap" rel="stylesheet">
 
 <style>
   body {
-    font-family: 'Open Sans', sans-serif;
-    background-color: #fdfaf6;
-    color: #2e2e2e;
+    font-family: 'Open Sans', serif;
+    background-color: #fdf8f0;
+    color: #3c3c3c;
+    line-height: 1.8;
     margin: 0;
     padding: 0;
-    font-size: 17px;
-    line-height: 1.8;
   }
 
-  header {
-    text-align: center;
-    padding: 4em 2em 2em;
-    background-color: #f8f3ea;
-  }
-
-  header h1 {
-    font-family: 'Playfair Display', serif;
-    font-size: 2.8em;
-    margin: 0;
-    color: #4a392f;
-  }
-
-  .container {
-    max-width: 1100px;
+  .section {
+    max-width: 900px;
     margin: 0 auto;
     padding: 3em 2em;
   }
 
-  .intro {
-    column-count: 2;
-    column-gap: 3em;
-    margin-bottom: 4em;
+  .section h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.2em;
+    color: #4d3f2b;
+    margin-bottom: 1em;
+    position: relative;
   }
 
-  .intro p {
+  .section h2::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -8px;
+    width: 60px;
+    height: 3px;
+    background-color: #b89b72;
+  }
+
+  .section p {
+    font-size: 1.05em;
     text-align: justify;
-    margin-bottom: 1.5em;
-  }
-
-  .section-title {
-    font-family: 'Playfair Display', serif;
-    font-size: 1.9em;
-    color: #4a392f;
-    border-bottom: 2px solid #c6b49a;
     margin-bottom: 1.2em;
-    padding-bottom: 0.4em;
   }
 
-  .bio-section {
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    gap: 2em;
-    align-items: start;
-    background-color: #fffdfb;
-    padding: 2.5em;
-    border: 1px solid #e0d8cc;
-    border-radius: 16px;
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.03);
-    margin-bottom: 4em;
-  }
-
-  .bio-section img {
-    width: 100%;
-    border-radius: 12px;
-    border: 2px solid #d8cfc0;
-  }
-
-  .bio-text h3 {
+  /* 首字母放大 */
+  .dropcap::first-letter {
+    float: left;
+    font-size: 3em;
     font-family: 'Playfair Display', serif;
-    font-size: 1.5em;
+    margin-right: 10px;
+    line-height: 1;
+    color: #947c5e;
+  }
+
+  /* 引文风格人物介绍 */
+  .bio-quote {
+    background: #fffefb;
+    border-left: 6px solid #ccb89c;
+    padding: 1.5em 2em;
+    margin-top: 2em;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(200, 180, 140, 0.1);
+  }
+
+  .bio-quote h3 {
+    font-family: 'Playfair Display', serif;
+    color: #5c4a3b;
+    font-size: 1.4em;
     margin-top: 0;
-    color: #4d3d2d;
   }
 
-  .bio-text p {
-    margin-bottom: 1.2em;
-    text-align: justify;
+  .bio-quote blockquote {
+    margin: 1em 0;
+    padding-left: 1em;
+    border-left: 3px solid #d4c4a8;
+    color: #555;
+    font-style: italic;
   }
 
-  .team-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    gap: 2em;
+  .bio-quote img {
+    float: right;
+    width: 140px;
+    margin-left: 20px;
+    border-radius: 8px;
+    border: 2px solid #e1d8c3;
+  }
+
+  /* 团队成员区块 */
+  #team-members-section .team-box {
+    background: #ffffff;
+    padding: 24px;
+    border-radius: 12px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.03);
+    text-align: center;
     margin-top: 2em;
   }
 
-  .team-card {
-    background-color: #ffffff;
-    border-radius: 14px;
-    padding: 1.5em;
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.03);
-    text-align: center;
-    border: 1px solid #e6dfd2;
+  #team-members-section img {
+    max-width: 85%;
+    border-radius: 12px;
+    border: 1px solid #d8cfc0;
+    margin-top: 1em;
   }
 
-  .team-card img {
-    width: 100%;
-    border-radius: 10px;
-    border: 1px solid #d6cbb9;
-    margin-bottom: 1em;
-  }
-
-  .team-card p {
+  #team-members-section p {
     font-style: italic;
-    color: #666;
-    margin: 0.8em 0 0;
-    font-size: 0.95em;
+    color: #777;
+    margin-top: 1em;
   }
 </style>
 
-<!-- 网页主体 -->
-<header>
-  <h1>🌟 SketchX Lab</h1>
-</header>
+<!-- Section: About -->
+<div class="section" id="about-section">
+  <h2>🌟 Welcome to SketchX</h2>
 
-<div class="container">
-  <!-- 简介部分 -->
-  <section class="intro">
+  <p class="dropcap">
+    The ultimate vision for <strong>SketchX</strong> is to understand how seeing can be explained by drawing. In other words, how a better understanding of human sketch data can be translated into insights on how human visual systems operate — and in turn, how such insights can benefit computer vision and cognitive science at large.
+  </p>
+  <p>
+    SketchX has been actively investigating all aspects of sketch research since 2012. The problems we study range from conventional tasks such as sketch recognition and sketch synthesis, to those we have pioneered, such as fine-grained sketch-based image retrieval and memory-aware forensic sketch analysis.
+  </p>
+
+  <!-- 人物介绍块：引文风格 -->
+  <div class="bio-quote">
+    <img src="{{ '/images/song.jpg' | relative_url }}" alt="Professor Yi-Zhe Song">
+    <h3>👨‍🏫 Professor Yi-Zhe Song</h3>
+    <blockquote>
+      "Understanding vision through the act of drawing is not just a computational challenge, but a cognitive journey."
+    </blockquote>
     <p>
-      <strong>SketchX</strong> envisions a future where vision can be explained by drawing. Since 2012, we've delved into the cognitive and computational essence of sketches — from sketch recognition and synthesis to fine-grained retrieval and forensic analysis.
+      Yi-Zhe Song is a Professor of Computer Vision and Machine Learning at CVSSP, one of the UK's largest AI research centers.
+      He leads the SketchX Lab — a group of 3 academics, 2 postdocs, and 14 PhD students.
     </p>
     <p>
-      Our work bridges cognitive science and computer vision, seeking to decode the human visual system through the language of sketch. Our team thrives at the intersection of art, machine learning, and perception.
+      He is an Associate Editor for TPAMI, Programme Chair for BMVC 2021, and has served as Area Chair for ECCV, CVPR, ICCV.
+      His work has won the Best Paper Award at BMVC 2015 and appeared in CVPR, ECCV, ICCV, SIGGRAPH Asia, and ICML.
     </p>
-  </section>
-
-  <!-- 教授介绍部分 -->
-  <section class="bio-section">
-    <img src="{{ '/images/song.jpg' | relative_url }}" alt="Prof. Yi-Zhe Song">
-    <div class="bio-text">
-      <h3>👨‍🏫 Prof. Yi-Zhe Song</h3>
-      <p>Yi-Zhe Song is a Professor of Computer Vision and Machine Learning at the Centre for Vision, Speech and Signal Processing (CVSSP), UK. He founded and leads the SketchX Lab — a research group devoted to the art and science of sketch-based understanding.</p>
-      <p>He has published at CVPR, ECCV, ICCV, SIGGRAPH Asia, and ICML. He is Associate Editor of TPAMI, Area Chair for CVPR, ECCV, and ICCV, and recipient of the BMVC 2015 Best Paper Award.</p>
-      <p>Prof. Song holds degrees from the University of Cambridge and the University of Bath, and is a Senior Member of IEEE and Fellow of the Higher Education Academy.</p>
-    </div>
-  </section>
-
-  <!-- 团队成员部分 -->
-  <section>
-    <div class="section-title">👥 Team Members</div>
-    <div class="team-grid">
-      <div class="team-card">
-        <img src="{{ '/images/team_member.png' | relative_url }}" alt="Team Member">
-        <p>Postdoc, Computer Vision</p>
-      </div>
-      <div class="team-card">
-        <img src="{{ '/images/team_member.png' | relative_url }}" alt="Team Member">
-        <p>PhD Student, Generative Models</p>
-      </div>
-      <div class="team-card">
-        <img src="{{ '/images/team_member.png' | relative_url }}" alt="Team Member">
-        <p>PhD Student, Sketch Synthesis</p>
-      </div>
-      <!-- 可继续添加更多 -->
-    </div>
-  </section>
+    <p>
+      Yi-Zhe received his PhD from the University of Bath, MSc from Cambridge (Best Dissertation Award), and BSc from Bath with First Class Honours.
+    </p>
+  </div>
 </div>
 
+<!-- Section: Team Members -->
+<div class="section" id="team-members-section">
+  <h2>👥 Team Members</h2>
+
+  <div class="team-box">
+    <img src="{{ '/images/team_member.png' | relative_url }}" alt="Team Member">
+    <p>Team structure overview</p>
+  </div>
+</div>
 
 
 
