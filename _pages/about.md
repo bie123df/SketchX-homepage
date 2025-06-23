@@ -7,9 +7,95 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- 推荐字体引入 -->
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Open+Sans&display=swap" rel="stylesheet">
+
+<style>
+  body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #fafafa;
+    color: #333;
+    line-height: 1.7;
+  }
+
+  .section {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 2em 1.5em;
+  }
+
+  .section h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.8em;
+    margin-bottom: 1em;
+    border-left: 6px solid #2E7D32; /* 深墨绿 */
+    padding-left: 12px;
+    color: #2E7D32;
+  }
+
+  .section p {
+    margin-bottom: 1em;
+  }
+
+  /* 人物卡片样式 */
+  .profile-card {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+    background: #ffffff;
+    padding: 24px;
+    border-radius: 16px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+    margin-top: 2em;
+  }
+
+  .profile-card img {
+    width: 180px;
+    border-radius: 12px;
+    border: 2px solid #ccc;
+  }
+
+  .profile-card h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.3em;
+    margin-top: 0;
+    color: #2E7D32;
+  }
+
+  .profile-card .name {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1em;
+    margin-top: 0.6em;
+    color: #444;
+  }
+
+  /* 团队成员区块 */
+  #team-members-section .team-box {
+    background: #ffffff;
+    padding: 24px;
+    border-radius: 16px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.04);
+    text-align: center;
+  }
+
+  #team-members-section img {
+    max-width: 85%;
+    border-radius: 12px;
+    border: 1px solid #ccc;
+    margin-top: 1em;
+  }
+
+  #team-members-section p {
+    font-style: italic;
+    color: #777;
+    margin-top: 1em;
+  }
+</style>
+
 <!-- Section: About -->
-<div class="section" id="about-section" style="font-family: sans-serif;">
-  <h2 style="border-left: 6px solid #4CAF50; padding-left: 10px;">🌟 Welcome to SketchX</h2>
+<div class="section" id="about-section">
+  <h2>🌟 Welcome to SketchX</h2>
 
   <p>
     The ultimate vision for <strong>SketchX</strong> is to understand how seeing can be
@@ -22,54 +108,35 @@ redirect_from:
   </p>
 
   <!-- 人物介绍卡片 -->
-  <div style="display: flex; gap: 20px; margin-top: 2em; align-items: flex-start; background: #f9f9f9; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-    <div style="flex-shrink: 0;">
-      <img src="{{ '/images/song.jpg' | relative_url }}"
-           alt="Professor Yi-Zhe Song"
-           style="width: 180px; border-radius: 10px; border: 3px solid #4CAF50;">
-      <p style="text-align: center; margin-top: 0.5em; font-weight: bold;">Prof. Yi-Zhe Song</p>
+  <div class="profile-card">
+    <div>
+      <img src="{{ '/images/song.jpg' | relative_url }}" alt="Professor Yi-Zhe Song">
+      <div class="name">Prof. Yi-Zhe Song</div>
     </div>
 
-    <div style="flex-grow: 1;">
-      <h3 style="margin-top: 0; color: #333;">👨‍🏫 About Professor Yi-Zhe Song</h3>
-      <p>
-        Yi-Zhe Song is a Professor of Computer Vision and Machine Learning at the Centre for Vision Speech and Signal Processing (CVSSP), one of the UK's oldest and largest research centres on Artificial Intelligence.
-      </p>
-      <p>
-        He leads the SketchX Lab within CVSSP — a large research group of 3 academics, 2 postdocs, and 14 full-time PhD students. His vision for SketchX is understanding how seeing can be explained by drawing.
-      </p>
-      <p>
-        He is an Associate Editor of the IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), and a Programme Chair for BMVC 2021. He also served as Area Chair for ECCV’22, CVPR’22, and ICCV’21.
-      </p>
-      <p>
-        SketchX publishes in top-tier venues such as CVPR, ICCV, ECCV, SIGGRAPH Asia, and ICML, including a Best Paper Award at BMVC 2015.
-      </p>
-      <p>
-        He founded the MSc in AI programme at Surrey, and previously did the same at Queen Mary University of London.
-      </p>
-      <p>
-        He received his PhD from the University of Bath (2008), MSc from Cambridge (2004, Best Dissertation Award), and BSc from Bath (First Class Honours).
-      </p>
-      <p>
-        He is a Senior Member of IEEE, a Fellow of the HEA, and a full EPSRC review college member. He also reviews for international bodies like the Czech Science Foundation and São Paulo Research Foundation.
-      </p>
+    <div>
+      <h3>👨‍🏫 About Professor Yi-Zhe Song</h3>
+      <p>Yi-Zhe Song is a Professor of Computer Vision and Machine Learning at the Centre for Vision Speech and Signal Processing (CVSSP), one of the UK's oldest and largest research centres on Artificial Intelligence.</p>
+      <p>He leads the SketchX Lab within CVSSP — a large research group of 3 academics, 2 postdocs, and 14 full-time PhD students. His vision for SketchX is understanding how seeing can be explained by drawing.</p>
+      <p>He is an Associate Editor of the IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), and a Programme Chair for BMVC 2021. He also served as Area Chair for ECCV’22, CVPR’22, and ICCV’21.</p>
+      <p>SketchX publishes in top-tier venues such as CVPR, ICCV, ECCV, SIGGRAPH Asia, and ICML, including a Best Paper Award at BMVC 2015.</p>
+      <p>He founded the MSc in AI programme at Surrey, and previously did the same at Queen Mary University of London.</p>
+      <p>He received his PhD from the University of Bath (2008), MSc from Cambridge (2004, Best Dissertation Award), and BSc from Bath (First Class Honours).</p>
+      <p>He is a Senior Member of IEEE, a Fellow of the HEA, and a full EPSRC review college member. He also reviews for international bodies like the Czech Science Foundation and São Paulo Research Foundation.</p>
     </div>
   </div>
 </div>
-
-
 
 <!-- Section: Team Members -->
-<div class="section" id="team-members-section" style="margin-top: 3em;">
-  <h2 style="border-left: 6px solid #4CAF50; padding-left: 10px;">👥 Team Members</h2>
+<div class="section" id="team-members-section">
+  <h2>👥 Team Members</h2>
 
-  <div style="background: #f9f9f9; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); text-align: center;">
-    <img src="{{ '/images/team_member.png' | relative_url }}"
-         alt="Team Member"
-         style="max-width: 90%; border-radius: 10px; border: 2px solid #ddd; margin-top: 1em;">
-    <p style="margin-top: 1em; font-style: italic; color: #555;">Team structure overview</p>
+  <div class="team-box">
+    <img src="{{ '/images/team_member.png' | relative_url }}" alt="Team Member">
+    <p>Team structure overview</p>
   </div>
 </div>
+
 
 <!-- Section: Publications -->
 <div class="section" id="publications-section" >
