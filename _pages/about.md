@@ -2829,7 +2829,7 @@ redirect_from:
     <li>🏆 <strong>Best Science Paper Award</strong> at <strong>BMVC 2015</strong></li>
     <li>🤝 Collaborations with <strong>law enforcement agencies</strong></li>
     <li>🛍️ Partnerships with <strong>online retail platforms</strong></li>
-    <li>📄59 x CVPR, 15 x ICCV, 17 x ECCV, 5 x ICLR, 1 x ICML, 3 x NeurIPS </li>
+    <li>📄59 x CVPR, 15 x ICCV, 17 x ECCV, 7 x AAAI, 5 x ICLR, 3 x NeurIPS, 1 x ICML </li>
   </ul>
 </div>
 
