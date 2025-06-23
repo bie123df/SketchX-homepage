@@ -888,6 +888,365 @@ redirect_from:
 
 </ol>
 
+<h3>📚 2022</h3>
+<ol style="padding-left: 1.2em;">
+  <ol>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/9706366/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Deep learning for free-hand sketch: A survey
+   </strong>
+  </a>
+  , Peng Xu, Timothy M Hospedales, Qiyue Yin, Yi-Zhe Song, Tao Xiang, Liang Wang,
+  <em>
+   TNNLS
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2022/html/He_Style-Based_Global_Appearance_Flow_for_Virtual_Try-On_CVPR_2022_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Style-based global appearance flow for virtual try-on
+   </strong>
+  </a>
+  , Sen He, Yi-Zhe Song, Tao Xiang,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-20062-5_39" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Zero-shot temporal action detection via vision-language prompting
+   </strong>
+  </a>
+  , Sauradip Nag, Xiatian Zhu, Yi-Zhe Song, Tao Xiang,
+  <em>
+   ECCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20226" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Hybrid graph neural networks for few-shot learning
+   </strong>
+  </a>
+  , Tianyuan Yu, Sen He, Yi-Zhe Song, Tao Xiang,
+  <em>
+   AAAI
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2022/html/Bhunia_Sketching_Without_Worrying_Noise-Tolerant_Sketch-Based_Image_Retrieval_CVPR_2022_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketching without worrying: Noise-tolerant sketch-based image retrieval
+   </strong>
+  </a>
+  , Ayan Kumar Bhunia, Subhadeep Koley, Abdullah Faiz Ur Rahman Khilji, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-20062-5_37" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Proposal-free temporal action detection via global segmentation mask learning
+   </strong>
+  </a>
+  , Sauradip Nag, Xiatian Zhu, Yi-Zhe Song, Tao Xiang,
+  <em>
+   ECCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2022/html/Sain_Sketch3T_Test-Time_Training_for_Zero-Shot_SBIR_CVPR_2022_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketch3t: Test-time training for zero-shot sbir
+   </strong>
+  </a>
+  , Aneeshan Sain, Ayan Kumar Bhunia, Vaishnav Potlapalli, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-19833-5_37" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Fashionvil: Fashion-focused vision-and-language representation learning
+   </strong>
+  </a>
+  , Xiao Han, Licheng Yu, Xiatian Zhu, Li Zhang, Yi-Zhe Song, Tao Xiang,
+  <em>
+   ECCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/9813442/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Dynamic instance domain adaptation
+   </strong>
+  </a>
+  , Zhongying Deng, Kaiyang Zhou, Da Li, Junjun He, Yi-Zhe Song, Tao Xiang,
+  <em>
+   TIP
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2022/html/Bhunia_Doodle_It_Yourself_Class_Incremental_Learning_by_Drawing_a_Few_CVPR_2022_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Doodle it yourself: Class incremental learning by drawing a few sketches
+   </strong>
+  </a>
+  , Ayan Kumar Bhunia, Viswanatha Reddy Gajjala, Subhadeep Koley, Rohit Kundu, Aneeshan Sain, Tao Xiang, Yi-Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-19836-6_10" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Adaptive fine‑grained sketch‑based image retrieval
+   </strong>
+  </a>
+  , Ayan Kumar Bhunia, Aneeshan Sain, Parth Hiren Shah, Animesh Gupta, Pinaki Nath Chowdhury, Tao Xiang, Yi‑Zhe Song,
+  <em>
+   ECCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-20062-5_38" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Semi‑supervised temporal action detection with proposal‑free masking
+   </strong>
+  </a>
+  , Sauradip Nag, Xiatian Zhu, Yi‑Zhe Song, Tao Xiang,
+  <em>
+   ECCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-19769-7_27" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketchsampler: Sketch‑based 3d reconstruction via view‑dependent depth sampling
+   </strong>
+  </a>
+  , Chenjian Gao, Qian Yu, Lu Sheng, Yi‑Zhe Song, Dong Xu,
+  <em>
+   ECCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/9739995/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    One sketch for all: One‑shot personalized sketch segmentation
+   </strong>
+  </a>
+  , Anran Qi, Yulia Gryaditskaya, Tao Xiang, Yi‑Zhe Song,
+  <em>
+   ArXiv
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://www.research.ed.ac.uk/en/publications/sketchode-learning-neural-sketch-representation-in-continuous-tim" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketchode: Learning neural sketch representation in continuous time
+   </strong>
+  </a>
+  , Ayan Das, Yongxin Yang, Timothy M Hospedales, Tao Xiang, Yi‑Zhe Song,
+  <em>
+   ArXiv
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/9686584/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Exploring local detail perception for scene sketch semantic segmentation
+   </strong>
+  </a>
+  , Ce Ge, Haifeng Sun, Yi‑Zhe Song, Zhanyu Ma, Jianxin Liao,
+  <em>
+   ArXiv
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://dl.acm.org/doi/abs/10.1145/3550454.3555493" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Differsketching: How differently do people sketch 3d objects?
+   </strong>
+  </a>
+  , Chufeng Xiao, Wanchao Su, Jing Liao, Zhouhui Lian, Yi‑Zhe Song, Hongbo Fu,
+  <em>
+   TOG
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://link.springer.com/article/10.1007/s11263-022-01623-7" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Generative sketch healing
+   </strong>
+  </a>
+  , Yonggang Qi, Guoyao Su, Qiang Wang, Jie Yang, Kaiyue Pang, Yi‑Zhe Song,
+  <em>
+   IJCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10044450/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Structure‑aware 3d vr sketch to 3d shape retrieval
+   </strong>
+  </a>
+  , Ling Luo, Yulia Gryaditskaya, Tao Xiang, Yi‑Zhe Song,
+  <em>
+   3DV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://www.sciencedirect.com/science/article/pii/S0097849322001078" rel="noopener noreferrer" target="_blank">
+   <strong>
+    A study of deep single sketch‑based modeling: View/style invariance, sparsity and latent space disentanglement
+   </strong>
+  </a>
+  , Yue Zhong, Yulia Gryaditskaya, Honggang Zhang, Yi‑Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://arxiv.org/abs/2210.01676" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Robust target training for multi‑source domain adaptation
+   </strong>
+  </a>
+  , Zhongying Deng, Da Li, Yi‑Zhe Song, Tao Xiang,
+  <em>
+   ArXiv
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Han_UIGR_Unified_Interactive_Garment_Retrieval_CVPRW_2022_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Uigr: Unified interactive garment retrieval
+   </strong>
+  </a>
+  , Xiao Han, Sen He, Li Zhang, Yi‑Zhe Song, Tao Xiang,
+  <em>
+   CVPRW
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content/CVPR2022/html/Yang_Finding_Badly_Drawn_Bunnies_CVPR_2022_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Finding badly drawn bunnies
+   </strong>
+  </a>
+  , Lan Yang, Kaiyue Pang, Honggang Zhang, Yi‑Zhe Song,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://arxiv.org/abs/2211.10715" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Single stage multi‑pose virtual try-on
+   </strong>
+  </a>
+  , Sen He, Yi‑Zhe Song, Tao Xiang,
+  <em>
+   ArXiv
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://arxiv.org/abs/2211.14905" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Multi-Modal Few-Shot Temporal Action Detection
+   </strong>
+  </a>
+  , Sauradip Nag, Mengmeng Xu, Xiao Han, Xiatian Zhu, Bernard Ghanem, Yi-Zhe Song, Tao Xiang,
+  <em>
+   arXiv
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://arxiv.org/abs/2210.14271" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Learning to Augment via Implicit Differentiation for Domain Generalization
+   </strong>
+  </a>
+  , Tingwei Wang, Da Li, Kaiyang Zhou, Tao Xiang, Yi-Zhe Song,
+  <em>
+   arXiv
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/html/Xiang_CDAD_A_Common_Daily_Action_Dataset_With_Collected_Hard_Negative_CVPRW_2022_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    CDAD: A Common Daily Action Dataset with Collected Hard Negative Samples
+   </strong>
+  </a>
+  , Wangmeng Xiang, Chao Li, Ke Li, Biao Wang, Xian-sheng Hua, Lei Zhang,
+  <em>
+   CVPRW
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220411964N/abstract" rel="noopener noreferrer" target="_blank">
+   <strong>
+    SceneTrilogy: On Human Scene-Sketch and its Complementarity with Photo and Text
+   </strong>
+  </a>
+  , Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Aneeshan Sain, Subhadeep Koley, Tao Xiang, Yi-Zhe Song,
+  <em>
+   arXiv
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://arxiv.org/abs/2209.10020" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Towards 3D VR-Sketch to 3D Shape Retrieval
+   </strong>
+  </a>
+  , Ling Luo, Yulia Gryaditskaya, Yongxin Yang, Tao Xiang, Yi-Zhe Song,
+  <em>
+   arXiv
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220314804N/abstract" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Partially Does It: Towards Scene-Level FG-SBIR with Partial Input
+   </strong>
+  </a>
+  , Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Viswanatha Reddy Gajjala, Aneeshan Sain, Tao Xiang, Yi-Zhe Song,
+  <em>
+   arXiv
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220302113N/abstract" rel="noopener noreferrer" target="_blank">
+   <strong>
+    FS-COCO: Towards Understanding of Freehand Sketches of Common Objects in Context
+   </strong>
+  </a>
+  , Pinaki Nath Chowdhury, Aneeshan Sain, Ayan Kumar Bhunia, Tao Xiang, Yulia Gryaditskaya, Yi-Zhe Song,
+  <em>
+   arXiv
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://www.pinakinathc.me/assets/papers/3DV_2022_supp.pdf" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Garment Ideation: Iterative View-Aware Sketch-Based Garment Modeling Supplemental
+   </strong>
+  </a>
+  , Pinaki Nath Chowdhury, Tuanfeng Wang, Duygu Ceylan, Yi-Zhe Song, Yulia Gryaditskaya,
+  <em>
+   3DV
+  </em>
+ </li>
+</ol>
+
+
+</ol>
 
 
 
@@ -896,166 +1255,7 @@ redirect_from:
   <ol>
 
 
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TNNLS 2022</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/9706366/" target="_blank" rel="noopener noreferrer">Deep learning for free-hand sketch: A survey</a><br>
-      <small>, Peng Xu, Timothy M Hospedales, Qiyue Yin, Yi-Zhe Song, Tao Xiang, Liang Wang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2022</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2022/html/He_Style-Based_Global_Appearance_Flow_for_Virtual_Try-On_CVPR_2022_paper.html" target="_blank" rel="noopener noreferrer">Style-based global appearance flow for virtual try-on</a><br>
-      <small>, Sen He, Yi-Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2022</span><br>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-031-20062-5_39" target="_blank" rel="noopener noreferrer">Zero-shot temporal action detection via vision-language prompting</a><br>
-      <small>, Sauradip Nag, Xiatian Zhu, Yi-Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #f44336; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">AAAI 2022</span><br>
-      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20226" target="_blank" rel="noopener noreferrer">Hybrid graph neural networks for few-shot learning</a><br>
-      <small>, Tianyuan Yu, Sen He, Yi-Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2022</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2022/html/Bhunia_Sketching_Without_Worrying_Noise-Tolerant_Sketch-Based_Image_Retrieval_CVPR_2022_paper.html" target="_blank" rel="noopener noreferrer">Sketching without worrying: Noise-tolerant sketch-based image retrieval</a><br>
-      <small>, Ayan Kumar Bhunia, Subhadeep Koley, Abdullah Faiz Ur Rahman Khilji, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2022</span><br>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-031-20062-5_37" target="_blank" rel="noopener noreferrer">Proposal-free temporal action detection via global segmentation mask learning</a><br>
-      <small>, Sauradip Nag, Xiatian Zhu, Yi-Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2022</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2022/html/Sain_Sketch3T_Test-Time_Training_for_Zero-Shot_SBIR_CVPR_2022_paper.html" target="_blank" rel="noopener noreferrer">Sketch3t: Test-time training for zero-shot sbir</a><br>
-      <small>, Aneeshan Sain, Ayan Kumar Bhunia, Vaishnav Potlapalli, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2022</span><br>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-031-19833-5_37" target="_blank" rel="noopener noreferrer">Fashionvil: Fashion-focused vision-and-language representation learning</a><br>
-      <small>, Xiao Han, Licheng Yu, Xiatian Zhu, Li Zhang, Yi-Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TIP 2022</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/9813442/" target="_blank" rel="noopener noreferrer">Dynamic instance domain adaptation</a><br>
-      <small>, Zhongying Deng, Kaiyang Zhou, Da Li, Junjun He, Yi-Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2022</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2022/html/Bhunia_Doodle_It_Yourself_Class_Incremental_Learning_by_Drawing_a_Few_CVPR_2022_paper.html" target="_blank" rel="noopener noreferrer">Doodle it yourself: Class incremental learning by drawing a few sketches</a><br>
-      <small>, Ayan Kumar Bhunia, Viswanatha Reddy Gajjala, Subhadeep Koley, Rohit Kundu, Aneeshan Sain, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2022</span><br>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-031-19836-6_10" target="_blank" rel="noopener noreferrer">Adaptive fine‑grained sketch‑based image retrieval</a><br>
-      <small>, Ayan Kumar Bhunia, Aneeshan Sain, Parth Hiren Shah, Animesh Gupta, Pinaki Nath Chowdhury, Tao Xiang, Yi‑Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2022</span><br>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-031-20062-5_38" target="_blank" rel="noopener noreferrer">Semi‑supervised temporal action detection with proposal‑free masking</a><br>
-      <small>, Sauradip Nag, Xiatian Zhu, Yi‑Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2022</span><br>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-031-19769-7_27" target="_blank" rel="noopener noreferrer">Sketchsampler: Sketch‑based 3d reconstruction via view‑dependent depth sampling</a><br>
-      <small>, Chenjian Gao, Qian Yu, Lu Sheng, Yi‑Zhe Song, Dong Xu</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ArXiv 2022</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/9739995/" target="_blank" rel="noopener noreferrer">One sketch for all: One‑shot personalized sketch segmentation</a><br>
-      <small>, Anran Qi, Yulia Gryaditskaya, Tao Xiang, Yi‑Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ArXiv 2022</span><br>
-      <a href="https://www.research.ed.ac.uk/en/publications/sketchode-learning-neural-sketch-representation-in-continuous-tim" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Sketchode: Learning neural sketch representation in continuous time</a><br>
-      <small>Ayan Das, Yongxin Yang, Timothy M Hospedales, Tao Xiang, Yi‑Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ArXiv 2022</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/9686584/" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Exploring local detail perception for scene sketch semantic segmentation</a><br>
-      <small>Ce Ge, Haifeng Sun, Yi‑Zhe Song, Zhanyu Ma, Jianxin Liao</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #e91e63; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TOG 2022</span><br>
-      <a href="https://dl.acm.org/doi/abs/10.1145/3550454.3555493" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Differsketching: How differently do people sketch 3d objects?</a><br>
-      <small>Chufeng Xiao, Wanchao Su, Jing Liao, Zhouhui Lian, Yi‑Zhe Song, Hongbo Fu</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #795548; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">IJCV 2022</span><br>
-      <a href="https://link.springer.com/article/10.1007/s11263-022-01623-7" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Generative sketch healing</a><br>
-      <small>Yonggang Qi, Guoyao Su, Qiang Wang, Jie Yang, Kaiyue Pang, Yi‑Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">3DV 2022</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10044450/" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Structure‑aware 3d vr sketch to 3d shape retrieval</a><br>
-      <small>Ling Luo, Yulia Gryaditskaya, Tao Xiang, Yi‑Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2022</span><br>
-      <a href="https://www.sciencedirect.com/science/article/pii/S0097849322001078" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">A study of deep single sketch‑based modeling: View/style invariance, sparsity and latent space disentanglement</a><br>
-      <small>Yue Zhong, Yulia Gryaditskaya, Honggang Zhang, Yi‑Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ArXiv 2022</span><br>
-      <a href="https://arxiv.org/abs/2210.01676" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Robust target training for multi‑source domain adaptation</a><br>
-      <small>Zhongying Deng, Da Li, Yi‑Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPRW 2022</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Han_UIGR_Unified_Interactive_Garment_Retrieval_CVPRW_2022_paper.html" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Uigr: Unified interactive garment retrieval</a><br>
-      <small>Xiao Han, Sen He, Li Zhang, Yi‑Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2022</span><br>
-      <a href="http://openaccess.thecvf.com/content/CVPR2022/html/Yang_Finding_Badly_Drawn_Bunnies_CVPR_2022_paper.html" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Finding badly drawn bunnies</a><br>
-      <small>Lan Yang, Kaiyue Pang, Honggang Zhang, Yi‑Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ArXiv 2022</span><br>
-      <a href="https://arxiv.org/abs/2211.10715" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Single stage multi‑pose virtual try-on</a><br>
-      <small>Sen He, Yi‑Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">arXiv 2022</span><br>
-      <a href="https://arxiv.org/abs/2211.14905" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Multi-Modal Few-Shot Temporal Action Detection</a><br>
-      <small>Sauradip Nag, Mengmeng Xu, Xiao Han, Xiatian Zhu, Bernard Ghanem, Yi-Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">arXiv 2022</span><br>
-      <a href="https://arxiv.org/abs/2210.14271" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Learning to Augment via Implicit Differentiation for Domain Generalization</a><br>
-      <small>Tingwei Wang, Da Li, Kaiyang Zhou, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPRW 2022</span><br>
-      <a href="https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/html/Xiang_CDAD_A_Common_Daily_Action_Dataset_With_Collected_Hard_Negative_CVPRW_2022_paper.html" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">CDAD: A Common Daily Action Dataset with Collected Hard Negative Samples</a><br>
-      <small>Wangmeng Xiang, Chao Li, Ke Li, Biao Wang, Xian-sheng Hua, Lei Zhang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">arXiv 2022</span><br>
-      <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220411964N/abstract" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">SceneTrilogy: On Human Scene-Sketch and its Complementarity with Photo and Text</a><br>
-      <small>Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Aneeshan Sain, Subhadeep Koley, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">arXiv 2022</span><br>
-      <a href="https://arxiv.org/abs/2209.10020" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Towards 3D VR-Sketch to 3D Shape Retrieval</a><br>
-      <small>Ling Luo, Yulia Gryaditskaya, Yongxin Yang, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">arXiv 2022</span><br>
-      <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220314804N/abstract" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Partially Does It: Towards Scene-Level FG-SBIR with Partial Input</a><br>
-      <small>Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Viswanatha Reddy Gajjala, Aneeshan Sain, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">arXiv 2022</span><br>
-      <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220302113N/abstract" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">FS-COCO: Towards Understanding of Freehand Sketches of Common Objects in Context</a><br>
-      <small>Pinaki Nath Chowdhury, Aneeshan Sain, Ayan Kumar Bhunia, Tao Xiang, Yulia Gryaditskaya, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">3DV 2022</span><br>
-      <a href="https://www.pinakinathc.me/assets/papers/3DV_2022_supp.pdf" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Garment Ideation: Iterative View-Aware Sketch-Based Garment Modeling Supplemental</a><br>
-      <small>Pinaki Nath Chowdhury, Tuanfeng Wang, Duygu Ceylan, Yi-Zhe Song, Yulia Gryaditskaya</small>
-    </li>
+
 <li style="margin-bottom: 1em;">
       <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TPAMI 2021</span><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/9609630/" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Fine-grained image analysis with deep learning: A survey</a><br>
