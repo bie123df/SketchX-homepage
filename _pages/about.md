@@ -7,15 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- 推荐字体引入 -->
+<!-- 字体引入 -->
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Open+Sans&display=swap" rel="stylesheet">
 
 <style>
   body {
     font-family: 'Open Sans', sans-serif;
-    background-color: #fafafa;
+    background-color: #fdfaf6; /* 米白背景 */
     color: #333;
     line-height: 1.7;
+    margin: 0;
+    padding: 0;
   }
 
   .section {
@@ -28,9 +30,9 @@ redirect_from:
     font-family: 'Playfair Display', serif;
     font-size: 1.8em;
     margin-bottom: 1em;
-    border-left: 6px solid #2E7D32; /* 深墨绿 */
+    border-left: 6px solid #bfa97a; /* 柔和的灰褐色 */
     padding-left: 12px;
-    color: #2E7D32;
+    color: #5a4c3c;
   }
 
   .section p {
@@ -45,21 +47,21 @@ redirect_from:
     background: #ffffff;
     padding: 24px;
     border-radius: 16px;
-    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.05);
     margin-top: 2em;
   }
 
   .profile-card img {
     width: 180px;
     border-radius: 12px;
-    border: 2px solid #ccc;
+    border: 2px solid #d8cfc0;
   }
 
   .profile-card h3 {
     font-family: 'Playfair Display', serif;
     font-size: 1.3em;
     margin-top: 0;
-    color: #2E7D32;
+    color: #5a4c3c;
   }
 
   .profile-card .name {
@@ -67,7 +69,7 @@ redirect_from:
     font-weight: bold;
     font-size: 1em;
     margin-top: 0.6em;
-    color: #444;
+    color: #555;
   }
 
   /* 团队成员区块 */
@@ -82,7 +84,7 @@ redirect_from:
   #team-members-section img {
     max-width: 85%;
     border-radius: 12px;
-    border: 1px solid #ccc;
+    border: 1px solid #d8cfc0;
     margin-top: 1em;
   }
 
@@ -136,6 +138,7 @@ redirect_from:
     <p>Team structure overview</p>
   </div>
 </div>
+
 
 
 <!-- Section: Publications -->
