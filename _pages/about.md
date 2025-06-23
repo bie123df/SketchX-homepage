@@ -177,7 +177,7 @@ redirect_from:
 </ol>
 <h3>📚 2024</h3>
 <ol style="padding-left: 1.2em;">
-   <li style="margin-bottom: 1em; line-height: 1.6;">
+   <li style="margin-bottom: 0.5em; line-height: 1.6;">
   <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Du_DemoFusion_Democratising_High-Resolution_Image_Generation_With_No__CVPR_2024_paper.html" rel="noopener noreferrer" target="_blank">
    <strong>
     Demofusion: Democratising high-resolution image generation with no $$$
@@ -188,7 +188,7 @@ redirect_from:
    CVPR
   </em>
  </li>
- <li style="margin-bottom: 1em; line-height: 1.6;">
+ <li style="margin-bottom: 0.5em; line-height: 1.6;">
   <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Koley_Its_All_About_Your_Sketch_Democratising_Sketch_Control_in_Diffusion_CVPR_2024_paper.html" rel="noopener noreferrer" target="_blank">
    <strong>
     It's All About Your Sketch: Democratising Sketch Control in Diffusion Models
@@ -199,7 +199,7 @@ redirect_from:
    CVPR
   </em>
  </li>
- <li style="margin-bottom: 1em; line-height: 1.6;">
+ <li style="margin-bottom: 0.5em; line-height: 1.6;">
   <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Koley_How_to_Handle_Sketch-Abstraction_in_Sketch-Based_Image_Retrieval_CVPR_2024_paper.html" rel="noopener noreferrer" target="_blank">
    <strong>
     How to handle sketch-abstraction in sketch-based image retrieval?
@@ -210,7 +210,7 @@ redirect_from:
    CVPR
   </em>
  </li>
- <li style="margin-bottom: 1em; line-height: 1.6;">
+ <li style="margin-bottom: 0.5em; line-height: 1.6;">
   <a href="http://openaccess.thecvf.com/content/CVPR2024/html/Koley_Youll_Never_Walk_Alone_A_Sketch_and_Text_Duet_for_CVPR_2024_paper.html" rel="noopener noreferrer" target="_blank">
    <strong>
     You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval
