@@ -156,7 +156,6 @@ redirect_from:
 
   <div class="team-box">
     <img src="{{ '/images/team_member.png' | relative_url }}" alt="Team Member">
-    <p>Team structure overview</p>
   </div>
 </div>
 
@@ -165,6 +164,24 @@ redirect_from:
 <!-- Section: Publications -->
 <div class="section" id="publications-section" >
   <h2>📝 Team Publications</h2>
+  <!-- 2025 年论文列表 -->
+<h3>📚 2025</h3>
+<ol style="padding-left: 1.2em;">
+  <li style="margin-bottom: 1em; line-height: 1.6;">
+    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32894" target="_blank" rel="noopener noreferrer">
+      <strong>VA-AR: Learning Velocity-Aware Action Representations with Mixture of Window Attention</strong>
+    </a><br>
+    Jiangning Wei, Lixiong Qin, Bo Yu, Tianjian Zou, Chuhan Yan, Dandan Xiao, Yang Yu, Lan Yang, Ke Li, Jun Liu — <em>AAAI 2025</em>
+  </li>
+  
+  <li style="margin-bottom: 1em; line-height: 1.6;">
+    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32240" target="_blank" rel="noopener noreferrer">
+      <strong>VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis</strong>
+    </a><br>
+    Zhipeng Chen, Lan Yang, Yonggang Qi, Honggang Zhang, Kaiyue Pang, Ke Li, Yi-Zhe Song — <em>AAAI 2025</em>
+  </li>
+</ol>
+
   <ol>
 <li style="margin-bottom: 1em;">
       <span style="display: inline-block; background: #f44336; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">AAAI 2025</span><br>
