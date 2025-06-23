@@ -1933,65 +1933,871 @@ redirect_from:
 
 <h3>📚 2018</h3>
 <ol style="padding-left: 1.2em;">
-  
+   <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/11596" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Learning to generalize: Meta-learning for domain generalization
+   </strong>
+  </a>
+  , Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M Hospedales,
+  <em>
+   AAAI
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content_cvpr_2018/html/Xu_SketchMate_Deep_Hashing_CVPR_2018_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketchmate: Deep hashing for million-scale human sketch retrieval
+   </strong>
+  </a>
+  , Peng Xu, Yongye Huang, Tongtong Yuan, Kaiyue Pang, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Zhanyu Ma, Jun Guo,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content_cvpr_2018/html/Song_Learning_to_Sketch_CVPR_2018_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Learning to sketch with shortcut cycle consistency
+   </strong>
+  </a>
+  , Jifei Song, Kaiyue Pang, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/8401709/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Variational Bayesian learning for Dirichlet process mixture of inverted Dirichlet distributions in non-Gaussian image feature modeling
+   </strong>
+  </a>
+  , Zhanyu Ma, Yuping Lai, W Bastiaan Kleijn, Yi-Zhe Song, Liang Wang, Jun Guo,
+  <em>
+   TNNLS
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content_cvpr_2018/html/Muhammad_Learning_Deep_Sketch_CVPR_2018_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Learning deep sketch abstraction
+   </strong>
+  </a>
+  , Umar Riaz Muhammad, Yongxin Yang, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content_ECCV_2018/html/Changqing_Zou_SketchyScene_Richly-Annotated_Scene_ECCV_2018_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketchyscene: Richly-annotated scene sketches
+   </strong>
+  </a>
+  , Changqing Zou, Qian Yu, Ruofei Du, Haoran Mo, Yi-Zhe Song, Tao Xiang, Chengying Gao, Baoquan Chen, Hao Zhang,
+  <em>
+   ECCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://dl.acm.org/doi/abs/10.1145/3240508.3240606" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Cross-domain adversarial feature learning for sketch re-identification
+   </strong>
+  </a>
+  , Lu Pang, Yaowei Wang, Yi-Zhe Song, Tiejun Huang, Yonghong Tian,
+  <em>
+   ACM
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content_ECCV_2018/html/Ke_LI_Universal_Sketch_Perceptual_ECCV_2018_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Universal sketch perceptual grouping
+   </strong>
+  </a>
+  , Ke Li, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Honggang Zhang,
+  <em>
+   ECCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content_ECCV_2018/html/Ke_LI_Universal_Sketch_Perceptual_ECCV_2018_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Universal sketch perceptual grouping
+   </strong>
+  </a>
+  , Ke Li, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Honggang Zhang,
+  <em>
+   ECCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://scholar.archive.org/work/i7rkm2e5abexnn7ekmbthedx2e/access/wayback/http://bmvc2018.org/contents/papers/0040.pdf" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Semantic Embedding for Sketch-Based 3D Shape Retrieval
+   </strong>
+  </a>
+  , Anran Qi, Yi-Zhe Song, Tao Xiang,
+  <em>
+   BMVC
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content_cvpr_2018/html/Hu_Sketch-a-Classifier_Sketch-Based_Photo_CVPR_2018_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketch-a-classifier: Sketch-based photo classifier generation
+   </strong>
+  </a>
+  , Conghui Hu, Da Li, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content_ECCV_2018/html/Kaiyue_Pang_Deep_Factorised_Inverse-Sketching_ECCV_2018_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Deep factorised inverse-sketching
+   </strong>
+  </a>
+  , Kaiyue Pang, Da Li, Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales,
+  <em>
+   ECCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://scholar.google.com/scholar?cluster=11748417708108091907&amp;hl=en&amp;oi=scholarr" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Greedy hash: Towards fast optimization for accurate hash coding in CNN
+   </strong>
+  </a>
+  , Jiun Tian Hoe, Kam Woh Ng, Tianyu Zhang, Chee Seng Chan, Yi-Zhe Song, Tao Xiang,
+  <em>
+   NIPS
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/8395088/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    IEEE Access special section editorial: Recent advantages of computer vision
+   </strong>
+  </a>
+  , Zhanyu Ma, Haibin Ling, Yi-Zhe Song, Timothy Hospedales, Wei Jia, Yuxin Peng, Aili Han,
+  <em>
+   IEEE
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/Recent-advances-in-machine-learning-for/99511114602346" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Recent advances in machine learning for non-Gaussian data processing
+   </strong>
+  </a>
+  , Zhanyu Ma, J-T Chien, Z-H Tan, Yi-Zhe Song, Jalil Taghia, Ming Xiao,
+  <em>
+   Neurocomputing
+  </em>
+ </li>
 
 </ol>
 
 
 <h3>📚 2017</h3>
 <ol style="padding-left: 1.2em;">
-  
+   <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content_iccv_2017/html/Li_Deeper_Broader_and_ICCV_2017_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Deeper, Broader and Artier Domain Generalization
+   </strong>
+  </a>
+  , Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M. Hospedales,
+  <em>
+   ICCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://link.springer.com/article/10.1007/s11263-016-0932-3" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketch-a-net: A deep neural network that beats humans
+   </strong>
+  </a>
+  , Qian Yu, Yongxin Yang, Feng Liu, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales,
+  <em>
+   IJCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content_iccv_2017/html/Song_Deep_Spatial-Semantic_Attention_ICCV_2017_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Deep Spatial-Semantic Attention for Fine-Grained Sketch-Based Image Retrieval
+   </strong>
+  </a>
+  , Jifei Song, Yu Qian, Yi-Zhe Song, Tao Xiang, Timothy Hospedales,
+  <em>
+   ICCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://arxiv.org/abs/1711.08106" rel="noopener noreferrer" target="_blank">
+   <strong>
+    The devil is in the middle: Exploiting mid-level representations for cross-domain instance matching
+   </strong>
+  </a>
+  , Qian Yu, Xiaobin Chang, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales,
+  <em>
+   arXiv
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://www.research.ed.ac.uk/en/publications/cross-domain-generative-learning-for-fine-grained-sketch-based-im" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Cross-domain Generative Learning for Fine-Grained Sketch-Based Image Retrieval
+   </strong>
+  </a>
+  , Kaiyue Pang, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales,
+  <em>
+   BMVC
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://www.sciencedirect.com/science/article/pii/S0925231217314364" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Cross-modal Subspace Learning for Fine-grained Sketch-based Image Retrieval
+   </strong>
+  </a>
+  , Peng Xu, Qiyue Yin, Yongye Huang, Yi-Zhe Song, Zhanyu Ma, Liang Wang, Tao Xiang, W Bastiaan Kleijn, Jun Guo,
+  <em>
+   Neurocomputing
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://www.research.ed.ac.uk/en/publications/fine-grained-image-retrieval-the-textsketch-input-dilemma" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Fine-Grained Image Retrieval: the Text/Sketch Input Dilemma
+   </strong>
+  </a>
+  , Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales,
+  <em>
+   BMVC
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/8016664/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Synergistic instance-level subspace alignment for fine-grained sketch-based image retrieval
+   </strong>
+  </a>
+  , Ke Li, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Tao Xiang, Honggang Zhang,
+  <em>
+   ICIP
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/8016664/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Synergistic instance-level subspace alignment for fine-grained sketch-based image retrieval
+   </strong>
+  </a>
+  , Ke Li, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Tao Xiang, Honggang Zhang,
+  <em>
+   ICIP
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://scholar.google.com/scholar?cluster=6337503410293765834&amp;hl=en&amp;oi=scholarr" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketch-a-net that beats humans [OL]
+   </strong>
+  </a>
+  , Q Yu, Y Yang, YZ Song, T Xiang, TM Hospedales,
+  <em>
+   BMVC
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://www.research.ed.ac.uk/en/publications/now-you-see-me-deep-face-hallucination-for-unviewed-sketches" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Now You See Me: Deep Face Hallucination for Unviewed Sketches
+   </strong>
+  </a>
+  , Conghui Hu, Da Li, Yi-Zhe Song, Timothy M. Hospedales,
+  <em>
+   BMVC
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://scholar.google.com/scholar?cluster=197706842303472179&amp;hl=en&amp;oi=scholarr" rel="noopener noreferrer" target="_blank">
+   <strong>
+    „Deeper
+   </strong>
+  </a>
+  , D Li, Y Yang, YZ Song, T Hospedales,
+  <em>
+   CVPR
+  </em>
+ </li>
 
 </ol>
 
 
 <h3>📚 2016</h3>
 <ol style="padding-left: 1.2em;">
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/7532801/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketch-based image retrieval via siamese convolutional neural network
+   </strong>
+  </a>
+  , Yonggang Qi, Yi-Zhe Song, Honggang Zhang, Jun Liu,
+  <em>
+   ICIP
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://www.sciencedirect.com/science/article/pii/S0262885616301524" rel="noopener noreferrer" target="_blank">
+   <strong>
+    A survey on heterogeneous face recognition: Sketch, infra-red, 3D and low-resolution
+   </strong>
+  </a>
+  , Shuxin Ouyang, Timothy Hospedales, Yi-Zhe Song, Xueming Li, Chen Change Loy, Xiaogang Wang,
+  <em>
+   IVC
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="http://openaccess.thecvf.com/content_cvpr_2016/html/Ouyang_ForgetMeNot_Memory-Aware_Forensic_CVPR_2016_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Forgetmenot: Memory-aware forensic facial sketch matching
+   </strong>
+  </a>
+  , Shuxin Ouyang, Timothy M Hospedales, Yi-Zhe Song, Xueming Li,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://link.springer.com/article/10.1007/s11263-016-0963-9" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Free-hand sketch synthesis with deformable stroke models
+   </strong>
+  </a>
+  , Y. Li, Y-Z. Song, T. Hospedales, S. Gong,
+  <em>
+   IJCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://www.research.ed.ac.uk/en/publications/deep-multi-task-attribute-driven-ranking-for-fine-grained-sketch-" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Deep multi-task attribute-driven ranking for fine-grained sketch-based image retrieval
+   </strong>
+  </a>
+  , Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy Hospedales, Xiang Ruan,
+  <em>
+   AAAI
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/7477615/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Fine-grained sketch-based image retrieval: The role of part-aware attributes
+   </strong>
+  </a>
+  , Ke Li, Kaiyue Pang, Yi-Zhe Song, Timothy Hospedales, Honggang Zhang, Yichuan Hu,
+  <em>
+   WACV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/7477615/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Fine-grained sketch-based image retrieval: The role of part-aware attributes
+   </strong>
+  </a>
+  , Ke Li, Kaiyue Pang, Yi-Zhe Song, Timothy Hospedales, Honggang Zhang, Yichuan Hu,
+  <em>
+   WACV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://scholar.google.com/scholar?cluster=13550880441023903228&amp;hl=en&amp;oi=scholarr" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketch me that shoe
+   </strong>
+  </a>
+  , Yyu Qian, Liu Feng, Yi-Zhe Song, Xiang Tao, Change Loy Chen,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/7974625/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Cross-modal subspace learning for sketch-based image retrieval: A comparative study
+   </strong>
+  </a>
+  , Peng Xu, Ke Li, Zhanyu Ma, Yi-Zhe Song, Liang Wang, Jun Guo,
+  <em>
+   IC-NIDC
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/7974625/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Cross-modal subspace learning for sketch-based image retrieval: A comparative study
+   </strong>
+  </a>
+  , Peng Xu, Ke Li, Zhanyu Ma, Yi-Zhe Song, Liang Wang, Jun Guo,
+  <em>
+   IC-NIDC
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/7805451/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Cross-modal face matching: Tackling visual abstraction using fine-grained attributes
+   </strong>
+  </a>
+  , Yichuan Hu, Ke Li, Honggang Zhang,
+  <em>
+   VCIP
+  </em>
+ </li>
+
 
 </ol>
 
 <h3>📚 2015</h3>
 <ol style="padding-left: 1.2em;">
 
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://arxiv.org/abs/1501.07873" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketch-a-net that beats humans
+   </strong>
+  </a>
+  , Qian Yu, Yongxin Yang, Yi-Zhe Song, Tao Xiang, Timothy Hospedales,
+  <em>
+   BMVC
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://www.sciencedirect.com/science/article/pii/S1077314215000375" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Free-hand sketch recognition by multi-kernel feature learning
+   </strong>
+  </a>
+  , Yi Li, Timothy M Hospedales, Yi-Zhe Song, Shaogang Gong,
+  <em>
+   CVIU
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Qi_Making_Better_Use_2015_CVPR_paper.html" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Making better use of edges via perceptual grouping
+   </strong>
+  </a>
+  , Yonggang Qi, Yi-Zhe Song, Tao Xiang, Honggang Zhang, Timothy Hospedales, Yi Li, Jun Guo,
+  <em>
+   CVPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://www.sciencedirect.com/science/article/pii/S0925231215003082" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Im2sketch: Sketch generation by unconflicted perceptual grouping
+   </strong>
+  </a>
+  , Yonggang Qi, Jun Guo, Yi-Zhe Song, Tao Xiang, Honggang Zhang, Zheng-Hua Tan,
+  <em>
+   TIP
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://www.sciencedirect.com/science/article/pii/S0925231215000260" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Multi-label learning with prior knowledge for facial expression analysis
+   </strong>
+  </a>
+  , Kaili Zhao, Honggang Zhang, Zhanyu Ma, Yi-Zhe Song, Jun Guo,
+  <em>
+   TIP
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/7177409/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Refining graph matching using inherent structure information
+   </strong>
+  </a>
+  , Wenzhao Li, Yi-Zhe Song, Andrea Cavallaro,
+  <em>
+   ICME
+  </em>
+ </li>
+
 </ol>
 
 <h3>📚 2014</h3>
 <ol style="padding-left: 1.2em;">
+
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://qmro.qmul.ac.uk/jspui/handle/123456789/6440" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Fine-Grained Sketch-Based Image Retrieval by Matching Deformable Part Models
+   </strong>
+  </a>
+  , Yi Li, Timothy M Hospedales, Yi-Zhe Song, Shaogang Gong,
+  <em>
+   CVG
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://journals.sagepub.com/doi/abs/10.1177/1475921714522841" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Virtual visual sensors and their application in structural health monitoring
+   </strong>
+  </a>
+  , Yi-Zhe Song, Chris R Bowen, Alicia H Kim, Aydin Nassehi, Julian Padget, Nick Gathercole,
+  <em>
+   SHM
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-319-16808-1_15" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Cross-modal face matching: beyond viewed sketches
+   </strong>
+  </a>
+  , Shuxin Ouyang, Timothy Hospedales, Yi-Zhe Song, Xueming Li,
+  <em>
+   ACCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://www.sciencedirect.com/science/article/pii/S0888327013006808" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Non-invasive damage detection in beams using marker extraction and wavelets
+   </strong>
+  </a>
+  , Yi-Zhe Song, Chris R Bowen, H Alicia Kim, Aydin Nassehi, Julian Padget, Nick Gathercole, Andrew Dent,
+  <em>
+   SPIE
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/7000322/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    A Patch-based Sparse Representation for Sketch Recognition
+   </strong>
+  </a>
+  , Yonggong Qi, Honggang Zhang, Yi-Zhe Song, Zheng-Hua Tan,
+  <em>
+   IEEE
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-319-14364-4_8" rel="noopener noreferrer" target="_blank">
+   <strong>
+    One-shot learning of sketch categories with co-regularized sparse coding
+   </strong>
+  </a>
+  , Yonggang Qi, Wei-Shi Zheng, Tao Xiang, Yi-Zhe Song, Honggang Zhang, Jun Guo,
+  <em>
+   ISVC
+  </em>
+ </li>
+
 
 </ol>
 
 <h3>📚 2013</h3>
 <ol style="padding-left: 1.2em;">
 
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://www.sciencedirect.com/science/article/pii/S0925231213006309" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Text extraction from natural scene image: A survey
+   </strong>
+  </a>
+  , Honggang Zhang, Kaili Zhao, Yi-Zhe Song, Jun Guo,
+  <em>
+   Neurocomputing
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://www.eecs.qmul.ac.uk/~sgg/papers/LiEtAl_BMVC2013.pdf" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketch recognition by ensemble matching of structured features.
+   </strong>
+  </a>
+  , Yi Li, Yi-Zhe Song, Shaogang Gong,
+  <em>
+   BMVC
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/6738056/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Sketching by perceptual grouping
+   </strong>
+  </a>
+  , Yonggang Qi, Jun Guo, Yi Li, Honggang Zhang, Tao Xiang, Yi-Zhe Song,
+  <em>
+   ICIP
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/6461879/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Abstract art by shape classification
+   </strong>
+  </a>
+  , Yi-Zhe Song, David Pickup, Chuan Li, Paul Rosin, Peter Hall,
+  <em>
+   ICIP
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://dl.acm.org/doi/abs/10.1145/2487276.2487288" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Simple art as abstractions of photographs
+   </strong>
+  </a>
+  , Peter Hall, Yi-Zhe Song,
+  <em>
+   CAE
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/6706384/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Perceptual grouping via untangling Gestalt principles
+   </strong>
+  </a>
+  , Yonggang Qi, Jun Guo, Yi Li, Honggang Zhang, Tao Xiang, Yi-Zhe Song, Zheng-Hua Tan,
+  <em>
+   VCIP
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/6706330/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    A multi-label classification approach for facial expression recognition
+   </strong>
+  </a>
+  , Kaili Zhao, Honggang Zhang, Mingzhi Dong, Jun Guo, Yonggang Qi, Yi-Zhe Song,
+  <em>
+   VCIP
+  </em>
+ </li>
+
+
 </ol>
 
 <h3>📚 2012</h3>
 <ol style="padding-left: 1.2em;">
+
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://www.sciencedirect.com/science/article/pii/S0925231212001956" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Robust visual tracking using structural region hierarchy and graph matching
+   </strong>
+  </a>
+  , Yi-Zhe Song, Chuan Li, Liang Wang, Peter Hall, Peiyi Shen,
+  <em>
+   Neurocomputing
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/6418792/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    A dataset for scene classification based on camera metadata
+   </strong>
+  </a>
+  , Kaili Zhao, Can Cao, Honggang Zhang, Yizhe Song,
+  <em>
+   ICIP
+  </em>
+ </li>
 
 </ol>
 
 <h3>📚 2011</h3>
 <ol style="padding-left: 1.2em;">
 
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://dl.acm.org/doi/abs/10.1145/2070781.2024161" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Modeling and generating moving trees from video
+   </strong>
+  </a>
+  , Chuan Li, Oliver Deussen, Yi-Zhe Song, Phil Willis, Peter Hall,
+  <em>
+   TOG
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://www.sciencedirect.com/science/article/pii/S1077314211000841" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Learning invariant structure for object identification by using graph methods
+   </strong>
+  </a>
+  , Bai Xiao, Song Yi-Zhe, Peter Hall,
+  <em>
+   CVIU
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7983/79830R/Non-invasive-damage-detection-in-composite-beams-using-marker-extraction/10.1117/12.880055.short" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Non-invasive damage detection in composite beams using marker extraction and wavelets
+   </strong>
+  </a>
+  , Yi-Zhe Song, Chris Bowen, H Alicia Kim, Aydin Nassehi, Julian Padget, Nick Gathercore, Andrew Dent,
+  <em>
+   SPIE
+  </em>
+ </li>
+
+
 </ol>
 
 <h3>📚 2010</h3>
 <ol style="padding-left: 1.2em;">
+
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-642-15561-1_50" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Finding semantic structures in image hierarchies using Laplacian graph energy
+   </strong>
+  </a>
+  , Yi-Zhe Song, Pablo Arbelaez, Peter Hall, Chuan Li, Anupriya Balikai,
+  <em>
+   ECCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/5604693/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    In search of perceptually salient groupings
+   </strong>
+  </a>
+  , Yi-Zhe Song, Bai Xiao, Peter Hall, Liang Wang,
+  <em>
+   ICIP
+  </em>
+ </li>
+
 
 </ol>
 
 <h3>📚 2009</h3>
 <ol style="padding-left: 1.2em;">
 
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/5336462/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Mobile augmented reality based 3D snapshots
+   </strong>
+  </a>
+  , Peter Keitler, Frieder Pankratz, Bjorn Schwerdtfeger, Daniel Pustka, Wolf Rodiger, Gudrun Klinker, Christian Rauch, Anup Chathoth, John Collomosse, Yi-Zhe Song,
+  <em>
+   ISMAR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://scholar.google.com/scholar?cluster=1156167040563393860&amp;hl=en&amp;oi=scholarr" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Hierarchical image descriptions for classification and painting
+   </strong>
+  </a>
+  , Yi-Zhe Song,
+  <em>
+   University
+  </em>
+ </li>
+
 </ol>
 
 <h3>📚 2008</h3>
 <ol style="padding-left: 1.2em;">
 
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://diglib.eg.org/bitstream/handle/10.2312/COMPAESTH.COMPAESTH08.065-072/065-072.pdf?sequence=1" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Arty Shapes.
+   </strong>
+  </a>
+  , Yi-Zhe Song, Paul L Rosin, Peter M Hall, John P Collomosse,
+  <em>
+   EG
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-540-89689-0_37" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Structure is a visual class invariant
+   </strong>
+  </a>
+  , Bai Xiao, Yi-Zhe Song, Anupriya Balika, Peter M Hall,
+  <em>
+   ECCV
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-540-89639-5_31" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Stable image descriptions using Gestalt principles
+   </strong>
+  </a>
+  , Yi-Zhe Song, Peter M Hall,
+  <em>
+   SSPR
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://www.researchgate.net/profile/Paul-Rosin/publication/221259874_Shapes_Fit_For_Purpose/links/0fcfd5107ee7911fef000000/Shapes-Fit-For-Purpose.pdf" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Shapes Fit For Purpose.
+   </strong>
+  </a>
+  , Anupriya Balikai, Paul L Rosin, Yi-Zhe Song, Peter M Hall,
+  <em>
+   BMVC
+  </em>
+ </li>
+
+
 </ol>
 
 <h3>📚 2007</h3>
 <ol style="padding-left: 1.2em;">
+
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/4276077/" rel="noopener noreferrer" target="_blank">
+   <strong>
+    RTcams: A new perspective on nonphotorealistic rendering from photographs
+   </strong>
+  </a>
+  , Peter M Hall, John P Collomosse, Yi-Zhe Song, Peiyi Shen, Chuan Li,
+  <em>
+   ICIP
+  </em>
+ </li>
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://scholar.google.com/scholar?cluster=3987824411733545783&amp;hl=en&amp;oi=scholarr" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Learning Object Classes from Structure.
+   </strong>
+  </a>
+  , Xiao Bai, Yi-Zhe Song, Peter M Hall,
+  <em>
+   BMVC
+  </em>
+ </li>
+
 
 </ol>
 
@@ -1999,384 +2805,21 @@ redirect_from:
 <h3>📚 2005</h3>
 <ol style="padding-left: 1.2em;">
 
+ <li style="margin-bottom: 0.4em; line-height: 1.4;">
+  <a href="https://diglib.eg.org/bitstreams/bd37c179-e25c-4076-ac93-6a9b0ccadfe6/download" rel="noopener noreferrer" target="_blank">
+   <strong>
+    Visual Recognition of Man-made Materials and Structures in an Office Environment.
+   </strong>
+  </a>
+  , Yi-Zhe Song, Christopher P Town,
+  <em>
+   VVG
+  </em>
+ </li>
+
 </ol>
 
 
-
-  <ol>
-
-
-
-
-
-
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #f44336; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">AAAI 2018</span><br>
-      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/11596" target="_blank" rel="noopener noreferrer">Learning to generalize: Meta-learning for domain generalization</a><br>
-      <small>Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M Hospedales</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2018</span><br>
-      <a href="http://openaccess.thecvf.com/content_cvpr_2018/html/Xu_SketchMate_Deep_Hashing_CVPR_2018_paper.html" target="_blank" rel="noopener noreferrer">Sketchmate: Deep hashing for million-scale human sketch retrieval</a><br>
-      <small>, Peng Xu, Yongye Huang, Tongtong Yuan, Kaiyue Pang, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Zhanyu Ma, Jun Guo</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2018</span><br>
-      <a href="http://openaccess.thecvf.com/content_cvpr_2018/html/Song_Learning_to_Sketch_CVPR_2018_paper.html" target="_blank" rel="noopener noreferrer">Learning to sketch with shortcut cycle consistency</a><br>
-      <small>, Jifei Song, Kaiyue Pang, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TNNLS 2018</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/8401709/" target="_blank" rel="noopener noreferrer">Variational Bayesian learning for Dirichlet process mixture of inverted Dirichlet distributions in non-Gaussian image feature modeling</a><br>
-      <small>, Zhanyu Ma, Yuping Lai, W Bastiaan Kleijn, Yi-Zhe Song, Liang Wang, Jun Guo</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2018</span><br>
-      <a href="http://openaccess.thecvf.com/content_cvpr_2018/html/Muhammad_Learning_Deep_Sketch_CVPR_2018_paper.html" target="_blank" rel="noopener noreferrer">Learning deep sketch abstraction</a><br>
-      <small>, Umar Riaz Muhammad, Yongxin Yang, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2018</span><br>
-      <a href="http://openaccess.thecvf.com/content_ECCV_2018/html/Changqing_Zou_SketchyScene_Richly-Annotated_Scene_ECCV_2018_paper.html" target="_blank" rel="noopener noreferrer">Sketchyscene: Richly-annotated scene sketches</a><br>
-      <small>, Changqing Zou, Qian Yu, Ruofei Du, Haoran Mo, Yi-Zhe Song, Tao Xiang, Chengying Gao, Baoquan Chen, Hao Zhang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ACM 2018</span><br>
-      <a href="https://dl.acm.org/doi/abs/10.1145/3240508.3240606" target="_blank" rel="noopener noreferrer">Cross-domain adversarial feature learning for sketch re-identification</a><br>
-      <small>, Lu Pang, Yaowei Wang, Yi-Zhe Song, Tiejun Huang, Yonghong Tian</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2018</span><br>
-      <a href="http://openaccess.thecvf.com/content_ECCV_2018/html/Ke_LI_Universal_Sketch_Perceptual_ECCV_2018_paper.html" target="_blank" rel="noopener noreferrer">Universal sketch perceptual grouping</a><br>
-      <small>, Ke Li, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Honggang Zhang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2018</span><br>
-      <a href="http://openaccess.thecvf.com/content_ECCV_2018/html/Ke_LI_Universal_Sketch_Perceptual_ECCV_2018_paper.html" target="_blank" rel="noopener noreferrer">Universal sketch perceptual grouping</a><br>
-      <small>, Ke Li, Kaiyue Pang, Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales, Honggang Zhang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #009688; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">BMVC 2018</span><br>
-      <a href="https://scholar.archive.org/work/i7rkm2e5abexnn7ekmbthedx2e/access/wayback/http://bmvc2018.org/contents/papers/0040.pdf" target="_blank" rel="noopener noreferrer">Semantic Embedding for Sketch-Based 3D Shape Retrieval</a><br>
-      <small>, Anran Qi, Yi-Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2018</span><br>
-      <a href="http://openaccess.thecvf.com/content_cvpr_2018/html/Hu_Sketch-a-Classifier_Sketch-Based_Photo_CVPR_2018_paper.html" target="_blank" rel="noopener noreferrer">Sketch-a-classifier: Sketch-based photo classifier generation</a><br>
-      <small>, Conghui Hu, Da Li, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2018</span><br>
-      <a href="http://openaccess.thecvf.com/content_ECCV_2018/html/Kaiyue_Pang_Deep_Factorised_Inverse-Sketching_ECCV_2018_paper.html" target="_blank" rel="noopener noreferrer">Deep factorised inverse-sketching</a><br>
-      <small>, Kaiyue Pang, Da Li, Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">NIPS 2018</span><br>
-      <a href="https://scholar.google.com/scholar?cluster=11748417708108091907&hl=en&oi=scholarr" target="_blank" rel="noopener noreferrer">Greedy hash: Towards fast optimization for accurate hash coding in CNN</a><br>
-      <small>, Jiun Tian Hoe, Kam Woh Ng, Tianyu Zhang, Chee Seng Chan, Yi-Zhe Song, Tao Xiang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">IEEE Access 2018</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/8395088/" target="_blank" rel="noopener noreferrer">IEEE Access special section editorial: Recent advantages of computer vision</a><br>
-      <small>, Zhanyu Ma, Haibin Ling, Yi-Zhe Song, Timothy Hospedales, Wei Jia, Yuxin Peng, Aili Han</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #673ab7; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">Neurocomputing 2018</span><br>
-      <a href="https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/Recent-advances-in-machine-learning-for/99511114602346" target="_blank" rel="noopener noreferrer">Recent advances in machine learning for non-Gaussian data processing</a><br>
-      <small>, Zhanyu Ma, J-T Chien, Z-H Tan, Yi-Zhe Song, Jalil Taghia, Ming Xiao</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICCV 2017</span><br>
-      <a href="http://openaccess.thecvf.com/content_iccv_2017/html/Li_Deeper_Broader_and_ICCV_2017_paper.html" target="_blank" rel="noopener noreferrer">Deeper, Broader and Artier Domain Generalization</a><br>
-      <small>, Da Li, Yongxin Yang, Yi-Zhe Song, Timothy M. Hospedales</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #795548; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">IJCV 2017</span><br>
-      <a href="https://link.springer.com/article/10.1007/s11263-016-0932-3" target="_blank" rel="noopener noreferrer">Sketch-a-net: A deep neural network that beats humans</a><br>
-      <small>, Qian Yu, Yongxin Yang, Feng Liu, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICCV 2017</span><br>
-      <a href="http://openaccess.thecvf.com/content_iccv_2017/html/Song_Deep_Spatial-Semantic_Attention_ICCV_2017_paper.html" target="_blank" rel="noopener noreferrer">Deep Spatial-Semantic Attention for Fine-Grained Sketch-Based Image Retrieval</a><br>
-      <small>, Jifei Song, Yu Qian, Yi-Zhe Song, Tao Xiang, Timothy Hospedales</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">arXiv 2017</span><br>
-      <a href="https://arxiv.org/abs/1711.08106" target="_blank" rel="noopener noreferrer">The devil is in the middle: Exploiting mid-level representations for cross-domain instance matching</a><br>
-      <small>, Qian Yu, Xiaobin Chang, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #009688; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">BMVC 2017</span><br>
-      <a href="https://www.research.ed.ac.uk/en/publications/cross-domain-generative-learning-for-fine-grained-sketch-based-im" target="_blank" rel="noopener noreferrer">Cross-domain Generative Learning for Fine-Grained Sketch-Based Image Retrieval</a><br>
-      <small>, Kaiyue Pang, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #673ab7; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">Neurocomputing 2017</span><br>
-      <a href="https://www.sciencedirect.com/science/article/pii/S0925231217314364" target="_blank" rel="noopener noreferrer">Cross-modal Subspace Learning for Fine-grained Sketch-based Image Retrieval</a><br>
-      <small>, Peng Xu, Qiyue Yin, Yongye Huang, Yi-Zhe Song, Zhanyu Ma, Liang Wang, Tao Xiang, W Bastiaan Kleijn, Jun Guo</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #009688; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">BMVC 2017</span><br>
-      <a href="https://www.research.ed.ac.uk/en/publications/fine-grained-image-retrieval-the-textsketch-input-dilemma" target="_blank" target="_blank" rel="noopener noreferrer">Fine-Grained Image Retrieval: the Text/Sketch Input Dilemma</a><br>
-      <small>Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #009688; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICIP 2017</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/8016664/" target="_blank" target="_blank" rel="noopener noreferrer">Synergistic instance-level subspace alignment for fine-grained sketch-based image retrieval</a><br>
-      <small>Ke Li, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Tao Xiang, Honggang Zhang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #009688; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICIP 2017</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/8016664/" target="_blank" target="_blank" rel="noopener noreferrer">Synergistic instance-level subspace alignment for fine-grained sketch-based image retrieval</a><br>
-      <small>Ke Li, Kaiyue Pang, Yi-Zhe Song, Timothy M Hospedales, Tao Xiang, Honggang Zhang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #009688; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">BMVC 2017</span><br>
-      <a href="https://scholar.google.com/scholar?cluster=6337503410293765834&hl=en&oi=scholarr" target="_blank" target="_blank" rel="noopener noreferrer">Sketch-a-net that beats humans [OL]</a><br>
-      <small>Q Yu, Y Yang, YZ Song, T Xiang, TM Hospedales</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #009688; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">BMVC 2017</span><br>
-      <a href="https://www.research.ed.ac.uk/en/publications/now-you-see-me-deep-face-hallucination-for-unviewed-sketches" target="_blank" target="_blank" rel="noopener noreferrer">Now You See Me: Deep Face Hallucination for Unviewed Sketches</a><br>
-      <small>Conghui Hu, Da Li, Yi-Zhe Song, Timothy M. Hospedales</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2017</span><br>
-      <a href="https://scholar.google.com/scholar?cluster=197706842303472179&hl=en&oi=scholarr" target="_blank" target="_blank" rel="noopener noreferrer">„Deeper</a><br>
-      <small>D Li, Y Yang, YZ Song, T Hospedales</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #009688; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICIP 2016</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/7532801/" target="_blank" target="_blank" rel="noopener noreferrer">Sketch-based image retrieval via siamese convolutional neural network</a><br>
-      <small>Yonggang Qi, Yi-Zhe Song, Honggang Zhang, Jun Liu</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">IVC 2016</span><br>
-      <a href="https://www.sciencedirect.com/science/article/pii/S0262885616301524" target="_blank" target="_blank" rel="noopener noreferrer">A survey on heterogeneous face recognition: Sketch, infra-red, 3D and low-resolution</a><br>
-      <small>Shuxin Ouyang, Timothy Hospedales, Yi-Zhe Song, Xueming Li, Chen Change Loy, Xiaogang Wang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2016</span><br>
-      <a href="http://openaccess.thecvf.com/content_cvpr_2016/html/Ouyang_ForgetMeNot_Memory-Aware_Forensic_CVPR_2016_paper.html" target="_blank" target="_blank" rel="noopener noreferrer">Forgetmenot: Memory-aware forensic facial sketch matching</a><br>
-      <small>Shuxin Ouyang, Timothy M Hospedales, Yi-Zhe Song, Xueming Li</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #795548; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">IJCV 2016</span><br>
-      <a href="https://link.springer.com/article/10.1007/s11263-016-0963-9" target="_blank" target="_blank" rel="noopener noreferrer">Free-hand sketch synthesis with deformable stroke models</a><br>
-      <small>Y. Li, Y-Z. Song, T. Hospedales, S. Gong</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #f44336; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">AAAI 2016</span><br>
-      <a href="https://www.research.ed.ac.uk/en/publications/deep-multi-task-attribute-driven-ranking-for-fine-grained-sketch-" target="_blank" target="_blank" rel="noopener noreferrer">Deep multi-task attribute-driven ranking for fine-grained sketch-based image retrieval</a><br>
-      <small>Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy Hospedales, Xiang Ruan</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">WACV 2016</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/7477615/" target="_blank" target="_blank" rel="noopener noreferrer">Fine-grained sketch-based image retrieval: The role of part-aware attributes</a><br>
-      <small>Ke Li, Kaiyue Pang, Yi-Zhe Song, Timothy Hospedales, Honggang Zhang, Yichuan Hu</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">WACV 2016</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/7477615/" target="_blank" target="_blank" rel="noopener noreferrer">Fine-grained sketch-based image retrieval: The role of part-aware attributes</a><br>
-      <small>Ke Li, Kaiyue Pang, Yi-Zhe Song, Timothy Hospedales, Honggang Zhang, Yichuan Hu</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2016</span><br>
-      <a href="https://scholar.google.com/scholar?cluster=13550880441023903228&hl=en&oi=scholarr" target="_blank" target="_blank" rel="noopener noreferrer">Sketch me that shoe</a><br>
-      <small>Yyu Qian, Liu Feng, Yi-Zhe Song, Xiang Tao, Change Loy Chen</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">IC-NIDC 2016</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/7974625/" target="_blank" target="_blank" rel="noopener noreferrer">Cross-modal subspace learning for sketch-based image retrieval: A comparative study</a><br>
-      <small>Peng Xu, Ke Li, Zhanyu Ma, Yi-Zhe Song, Liang Wang, Jun Guo</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">IC-NIDC 2016</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/7974625/" target="_blank" target="_blank" rel="noopener noreferrer">Cross-modal subspace learning for sketch-based image retrieval: A comparative study</a><br>
-      <small>Peng Xu, Ke Li, Zhanyu Ma, Yi-Zhe Song, Liang Wang, Jun Guo</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #795548; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">VCIP 2016</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/7805451/" target="_blank" target="_blank" rel="noopener noreferrer">Cross-modal face matching: Tackling visual abstraction using fine-grained attributes</a><br>
-      <small>Yichuan Hu, Ke Li, Honggang Zhang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #009688; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">BMVC 2015</span><br>
-      <a href="https://arxiv.org/abs/1501.07873" target="_blank" target="_blank" rel="noopener noreferrer">Sketch-a-net that beats humans</a><br>
-      <small>Qian Yu, Yongxin Yang, Yi-Zhe Song, Tao Xiang, Timothy Hospedales</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #2196f3; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVIU 2015</span><br>
-      <a href="https://www.sciencedirect.com/science/article/pii/S1077314215000375" target="_blank" target="_blank" rel="noopener noreferrer">Free-hand sketch recognition by multi-kernel feature learning</a><br>
-      <small>Yi Li, Timothy M Hospedales, Yi-Zhe Song, Shaogang Gong</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVPR 2015</span><br>
-      <a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Qi_Making_Better_Use_2015_CVPR_paper.html" target="_blank" target="_blank" rel="noopener noreferrer">Making better use of edges via perceptual grouping</a><br>
-      <small>Yonggang Qi, Yi-Zhe Song, Tao Xiang, Honggang Zhang, Timothy Hospedales, Yi Li, Jun Guo</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TIP 2015</span><br>
-      <a href="https://www.sciencedirect.com/science/article/pii/S0925231215003082" target="_blank" rel="noopener noreferrer">Im2sketch: Sketch generation by unconflicted perceptual grouping</a><br>
-      <small>Yonggang Qi, Jun Guo, Yi-Zhe Song, Tao Xiang, Honggang Zhang, Zheng-Hua Tan</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TIP 2015</span><br>
-      <a href="https://www.sciencedirect.com/science/article/pii/S0925231215000260" target="_blank" rel="noopener noreferrer">Multi-label learning with prior knowledge for facial expression analysis</a><br>
-      <small>Kaili Zhao, Honggang Zhang, Zhanyu Ma, Yi-Zhe Song, Jun Guo</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICME 2015</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/7177409/" target="_blank" rel="noopener noreferrer">Refining graph matching using inherent structure information</a><br>
-      <small>Wenzhao Li, Yi-Zhe Song, Andrea Cavallaro</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVG 2014</span><br>
-      <a href="https://qmro.qmul.ac.uk/jspui/handle/123456789/6440" target="_blank" rel="noopener noreferrer">Fine-Grained Sketch-Based Image Retrieval by Matching Deformable Part Models</a><br>
-      <small>Yi Li, Timothy M Hospedales, Yi-Zhe Song, Shaogang Gong</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">SHM 2014</span><br>
-      <a href="https://journals.sagepub.com/doi/abs/10.1177/1475921714522841" target="_blank" rel="noopener noreferrer">Virtual visual sensors and their application in structural health monitoring</a><br>
-      <small>Yi-Zhe Song, Chris R Bowen, Alicia H Kim, Aydin Nassehi, Julian Padget, Nick Gathercole</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ACCV 2014</span><br>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-319-16808-1_15" target="_blank" rel="noopener noreferrer">Cross-modal face matching: beyond viewed sketches</a><br>
-      <small>Shuxin Ouyang, Timothy Hospedales, Yi-Zhe Song, Xueming Li</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #9c27b0; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">SPIE 2014</span><br>
-      <a href="https://www.sciencedirect.com/science/article/pii/S0888327013006808" target="_blank" rel="noopener noreferrer">Non-invasive damage detection in beams using marker extraction and wavelets</a><br>
-      <small>Yi-Zhe Song, Chris R Bowen, H Alicia Kim, Aydin Nassehi, Julian Padget, Nick Gathercole, Andrew Dent</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #0078d7; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">IEEE NIDC 2014</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/7000322/" target="_blank" rel="noopener noreferrer">A Patch-based Sparse Representation for Sketch Recognition</a><br>
-      <small>Yonggong Qi, Honggang Zhang, Yi-Zhe Song, Zheng-Hua Tan</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #ff5722; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ISVC 2014</span><br>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-319-14364-4_8" target="_blank" rel="noopener noreferrer">One-shot learning of sketch categories with co-regularized sparse coding</a><br>
-      <small>Yonggang Qi, Wei-Shi Zheng, Tao Xiang, Yi-Zhe Song, Honggang Zhang, Jun Guo</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #673ab7; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">Neurocomputing 2013</span><br>
-      <a href="https://www.sciencedirect.com/science/article/pii/S0925231213006309" target="_blank" rel="noopener noreferrer">Text extraction from natural scene image: A survey</a><br>
-      <small>Honggang Zhang, Kaili Zhao, Yi-Zhe Song, Jun Guo</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #009688; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">BMVC 2013</span><br>
-      <a href="https://www.eecs.qmul.ac.uk/~sgg/papers/LiEtAl_BMVC2013.pdf" target="_blank" rel="noopener noreferrer">Sketch recognition by ensemble matching of structured features.</a><br>
-      <small>Yi Li, Yi-Zhe Song, Shaogang Gong</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #009688; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICIP 2013</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/6738056/" target="_blank" rel="noopener noreferrer">Sketching by perceptual grouping</a><br>
-      <small>Yonggang Qi, Jun Guo, Yi Li, Honggang Zhang, Tao Xiang, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #009688; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICIP 2013</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/6461879/" target="_blank" rel="noopener noreferrer">Abstract art by shape classification</a><br>
-      <small>Yi-Zhe Song, David Pickup, Chuan Li, Paul Rosin, Peter Hall</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CAE 2013</span><br>
-      <a href="https://dl.acm.org/doi/abs/10.1145/2487276.2487288" target="_blank" rel="noopener noreferrer">Simple art as abstractions of photographs</a><br>
-      <small>Peter Hall, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #795548; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">VCIP 2013</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/6706384/" target="_blank" rel="noopener noreferrer">Perceptual grouping via untangling Gestalt principles</a><br>
-      <small>Yonggang Qi, Jun Guo, Yi Li, Honggang Zhang, Tao Xiang, Yi-Zhe Song, Zheng-Hua Tan</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #795548; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">VCIP 2013</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/6706330/" target="_blank" rel="noopener noreferrer">A multi-label classification approach for facial expression recognition</a><br>
-      <small>Kaili Zhao, Honggang Zhang, Mingzhi Dong, Jun Guo, Yonggang Qi, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #673ab7; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">Neurocomputing 2012</span><br>
-      <a href="https://www.sciencedirect.com/science/article/pii/S0925231212001956" target="_blank" rel="noopener noreferrer">Robust visual tracking using structural region hierarchy and graph matching</a><br>
-      <small>Yi-Zhe Song, Chuan Li, Liang Wang, Peter Hall, Peiyi Shen</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #009688; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICIP 2012</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/6418792/" target="_blank" rel="noopener noreferrer">A dataset for scene classification based on camera metadata</a><br>
-      <small>Kaili Zhao, Can Cao, Honggang Zhang, Yizhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #e91e63; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">TOG 2011</span><br>
-      <a href="https://dl.acm.org/doi/abs/10.1145/2070781.2024161" target="_blank" rel="noopener noreferrer">Modeling and generating moving trees from video</a><br>
-      <small>Chuan Li, Oliver Deussen, Yi-Zhe Song, Phil Willis, Peter Hall</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #2196f3; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">CVIU 2011</span><br>
-      <a href="https://www.sciencedirect.com/science/article/pii/S1077314211000841" target="_blank" rel="noopener noreferrer">Learning invariant structure for object identification by using graph methods</a><br>
-      <small>Bai Xiao, Song Yi-Zhe, Peter Hall</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #9c27b0; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">SPIE 2011</span><br>
-      <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7983/79830R/Non-invasive-damage-detection-in-composite-beams-using-marker-extraction/10.1117/12.880055.short" target="_blank" rel="noopener noreferrer">Non-invasive damage detection in composite beams using marker extraction and wavelets</a><br>
-      <small>Yi-Zhe Song, Chris Bowen, H Alicia Kim, Aydin Nassehi, Julian Padget, Nick Gathercore, Andrew Dent</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2010</span><br>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-642-15561-1_50" target="_blank" rel="noopener noreferrer">Finding semantic structures in image hierarchies using Laplacian graph energy</a><br>
-      <small>Yi-Zhe Song, Pablo Arbelaez, Peter Hall, Chuan Li, Anupriya Balikai</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #009688; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICIP 2010</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/5604693/" target="_blank" rel="noopener noreferrer">In search of perceptually salient groupings</a><br>
-      <small>Yi-Zhe Song, Bai Xiao, Peter Hall, Liang Wang</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #009688; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ISMAR 2009</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/5336462/" target="_blank" rel="noopener noreferrer">Mobile augmented reality based 3D snapshots</a><br>
-      <small>Peter Keitler, Frieder Pankratz, Bjorn Schwerdtfeger, Daniel Pustka, Wolf Rodiger, Gudrun Klinker, Christian Rauch, Anup Chathoth, John Collomosse, Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">University of Bath 2009</span><br>
-      <a href="https://scholar.google.com/scholar?cluster=1156167040563393860&hl=en&oi=scholarr" target="_blank" rel="noopener noreferrer">Hierarchical image descriptions for classification and painting</a><br>
-      <small>Yi-Zhe Song</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #673ab7; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">EG 2008</span><br>
-      <a href="https://diglib.eg.org/bitstream/handle/10.2312/COMPAESTH.COMPAESTH08.065-072/065-072.pdf?sequence=1" target="_blank" rel="noopener noreferrer">Arty Shapes.</a><br>
-      <small>Yi-Zhe Song, Paul L Rosin, Peter M Hall, John P Collomosse</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #3f51b5; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ECCV 2008</span><br>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-540-89689-0_37" target="_blank" rel="noopener noreferrer">Structure is a visual class invariant</a><br>
-      <small>Bai Xiao, Yi-Zhe Song, Anupriya Balika, Peter M Hall</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #555555; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">SSPR 2008</span><br>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-540-89639-5_31" target="_blank" rel="noopener noreferrer">Stable image descriptions using Gestalt principles</a><br>
-      <small>Yi-Zhe Song, Peter M Hall</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #009688; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">BMVC 2008</span><br>
-      <a href="https://www.researchgate.net/profile/Paul-Rosin/publication/221259874_Shapes_Fit_For_Purpose/links/0fcfd5107ee7911fef000000/Shapes-Fit-For-Purpose.pdf" target="_blank" rel="noopener noreferrer">Shapes Fit For Purpose.</a><br>
-      <small>Anupriya Balikai, Paul L Rosin, Yi-Zhe Song, Peter M Hall</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #009688; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">ICIP 2007</span><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/4276077/" target="_blank" rel="noopener noreferrer">RTcams: A new perspective on nonphotorealistic rendering from photographs</a><br>
-      <small>Peter M Hall, John P Collomosse, Yi-Zhe Song, Peiyi Shen, Chuan Li</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #009688; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">BMVC 2007</span><br>
-      <a href="https://scholar.google.com/scholar?cluster=3987824411733545783&hl=en&oi=scholarr" target="_blank" rel="noopener noreferrer">Learning Object Classes from Structure.</a><br>
-      <small>Xiao Bai, Yi-Zhe Song, Peter M Hall</small>
-    </li>
-<li style="margin-bottom: 1em;">
-      <span style="display: inline-block; background: #607d8b; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">VVG 2005</span><br>
-      <a href="https://diglib.eg.org/bitstreams/bd37c179-e25c-4076-ac93-6a9b0ccadfe6/download" target="_blank" rel="noopener noreferrer">Visual Recognition of Man-made Materials and Structures in an Office Environment.</a><br>
-      <small>Yi-Zhe Song, Christopher P Town</small>
-    </li>
-
-  </ol>
 </div>
 
 <!-- Section: Awards -->
