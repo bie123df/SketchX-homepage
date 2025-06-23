@@ -13,7 +13,7 @@ redirect_from:
 <style>
   body {
     font-family: 'Open Sans', sans-serif;
-    background-color: #fdfaf6; /* 米白背景 */
+    background-color: #fdfaf6;
     color: #333;
     line-height: 1.7;
     margin: 0;
@@ -28,9 +28,9 @@ redirect_from:
 
   .section h2 {
     font-family: 'Playfair Display', serif;
-    font-size: 1.8em;
+    font-size: 2em;
     margin-bottom: 1em;
-    border-left: 6px solid #bfa97a; /* 柔和的灰褐色 */
+    border-left: 6px solid #bfa97a;
     padding-left: 12px;
     color: #5a4c3c;
   }
@@ -39,40 +39,48 @@ redirect_from:
     margin-bottom: 1em;
   }
 
-  /* 人物卡片样式 */
-  .profile-card {
-    display: flex;
-    gap: 30px;
-    align-items: flex-start;
-    background: #ffffff;
-    padding: 24px;
-    border-radius: 16px;
-    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.05);
-    margin-top: 2em;
+  /* 首字母放大效果 */
+  .dropcap::first-letter {
+    float: left;
+    font-size: 3em;
+    line-height: 1;
+    padding-right: 8px;
+    color: #8b6b3f;
+    font-family: 'Playfair Display', serif;
   }
 
-  .profile-card img {
-    width: 180px;
+  /* 欧洲风布局：图左文右 */
+  .bio-layout {
+    display: grid;
+    grid-template-columns: 220px 1fr;
+    gap: 30px;
+    align-items: flex-start;
+    background: #f9f6f1;
+    padding: 24px;
     border-radius: 12px;
+    border-left: 4px solid #c1ab80;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.04);
+  }
+
+  .bio-layout img {
+    width: 100%;
+    border-radius: 10px;
     border: 2px solid #d8cfc0;
   }
 
-  .profile-card h3 {
+  .bio-layout .bio-text h3 {
     font-family: 'Playfair Display', serif;
-    font-size: 1.3em;
+    font-size: 1.4em;
     margin-top: 0;
     color: #5a4c3c;
   }
 
-  .profile-card .name {
-    text-align: center;
-    font-weight: bold;
-    font-size: 1em;
-    margin-top: 0.6em;
-    color: #555;
+  .bio-layout .bio-text p {
+    text-align: justify;
+    margin-bottom: 1em;
   }
 
-  /* 团队成员区块 */
+  /* 团队成员卡片 */
   #team-members-section .team-box {
     background: #ffffff;
     padding: 24px;
@@ -99,32 +107,39 @@ redirect_from:
 <div class="section" id="about-section">
   <h2>🌟 Welcome to SketchX</h2>
 
-  <p>
-    The ultimate vision for <strong>SketchX</strong> is to understand how seeing can be
-    explained by drawing. In other words, how a better understanding of human sketch data
-    can be translated into insights on how human visual systems operate — and in turn, how
-    such insights can benefit computer vision and cognitive science at large.
-  </p>
-  <p>
-    SketchX has been actively investigating all aspects of sketch research since 2012. The problems we study range from conventional tasks such as sketch recognition and sketch synthesis, to those we have pioneered, such as fine-grained sketch-based image retrieval and memory-aware forensic sketch analysis.
+  <p class="dropcap">
+    The ultimate vision for <strong>SketchX</strong> is to understand how seeing can be explained by drawing.
+    In other words, how a better understanding of human sketch data can be translated into insights
+    on how human visual systems operate — and in turn, how such insights can benefit computer vision and cognitive science at large.
   </p>
 
-  <!-- 人物介绍卡片 -->
-  <div class="profile-card">
-    <div>
-      <img src="{{ '/images/song.jpg' | relative_url }}" alt="Professor Yi-Zhe Song">
-      <div class="name">Prof. Yi-Zhe Song</div>
-    </div>
+  <p>
+    SketchX has been actively investigating all aspects of sketch research since 2012.
+    The problems we study range from conventional tasks such as sketch recognition and sketch synthesis,
+    to those we have pioneered, such as fine-grained sketch-based image retrieval and memory-aware forensic sketch analysis.
+  </p>
 
-    <div>
-      <h3>👨‍🏫 About Professor Yi-Zhe Song</h3>
-      <p>Yi-Zhe Song is a Professor of Computer Vision and Machine Learning at the Centre for Vision Speech and Signal Processing (CVSSP), one of the UK's oldest and largest research centres on Artificial Intelligence.</p>
-      <p>He leads the SketchX Lab within CVSSP — a large research group of 3 academics, 2 postdocs, and 14 full-time PhD students. His vision for SketchX is understanding how seeing can be explained by drawing.</p>
-      <p>He is an Associate Editor of the IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), and a Programme Chair for BMVC 2021. He also served as Area Chair for ECCV’22, CVPR’22, and ICCV’21.</p>
-      <p>SketchX publishes in top-tier venues such as CVPR, ICCV, ECCV, SIGGRAPH Asia, and ICML, including a Best Paper Award at BMVC 2015.</p>
-      <p>He founded the MSc in AI programme at Surrey, and previously did the same at Queen Mary University of London.</p>
-      <p>He received his PhD from the University of Bath (2008), MSc from Cambridge (2004, Best Dissertation Award), and BSc from Bath (First Class Honours).</p>
-      <p>He is a Senior Member of IEEE, a Fellow of the HEA, and a full EPSRC review college member. He also reviews for international bodies like the Czech Science Foundation and São Paulo Research Foundation.</p>
+  <!-- 人物介绍：欧洲风格布局 -->
+  <div class="bio-layout" style="margin-top: 3em;">
+    <img src="{{ '/images/song.jpg' | relative_url }}" alt="Professor Yi-Zhe Song">
+    <div class="bio-text">
+      <h3>👨‍🏫 Professor Yi-Zhe Song</h3>
+      <p class="dropcap">
+        Yi-Zhe Song is a Professor of Computer Vision and Machine Learning at the Centre for Vision Speech and Signal Processing (CVSSP),
+        one of the UK's oldest and largest research centres on Artificial Intelligence.
+      </p>
+      <p>
+        He leads the SketchX Lab within CVSSP — a large research group of 3 academics, 2 postdocs, and 14 full-time PhD students.
+        His vision for SketchX is understanding how seeing can be explained by drawing.
+      </p>
+      <p>
+        He is an Associate Editor of IEEE TPAMI, a Programme Chair for BMVC 2021, and Area Chair for ECCV’22, CVPR’22, and ICCV’21.
+        He received a Best Paper Award at BMVC 2015 and publishes regularly at CVPR, ECCV, ICCV, ICML, and SIGGRAPH Asia.
+      </p>
+      <p>
+        Professor Song holds a PhD from University of Bath (2008), MSc from Cambridge (2004, Best Dissertation Award), and BSc from Bath.
+        He is a Senior Member of IEEE and a Fellow of HEA.
+      </p>
     </div>
   </div>
 </div>
@@ -132,12 +147,12 @@ redirect_from:
 <!-- Section: Team Members -->
 <div class="section" id="team-members-section">
   <h2>👥 Team Members</h2>
-
   <div class="team-box">
     <img src="{{ '/images/team_member.png' | relative_url }}" alt="Team Member">
     <p>Team structure overview</p>
   </div>
 </div>
+
 
 
 
