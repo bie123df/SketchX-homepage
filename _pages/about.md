@@ -26,23 +26,24 @@ redirect_from:
     padding: 3em 2em;
   }
 
-  .section h2 {
-    font-family: 'Playfair Display', serif;
-    font-size: 2.2em;
-    color: #4d3f2b;
-    margin-bottom: 1em;
-    position: relative;
-  }
+.section h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.2em;
+  color: #4d3f2b;
+  margin-bottom: 0.6em; /* 原为 1em，减小下边距 */
+  margin-top: 0; /* 可选：若父容器上方有内边距，这里设为0更紧凑 */
+  position: relative;
+}
 
-  .section h2::after {
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: -8px;
-    width: 60px;
-    height: 3px;
-    background-color: #b89b72;
-  }
+.section h2::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px; /* 原为 -8px，调小下划线与标题文字的距离 */
+  width: 50px;   /* 原为 60px，使下划线稍微更短 */
+  height: 2px;   /* 原为 3px，更细一点 */
+  background-color: #b89b72;
+}
 
   .section p {
     font-size: 1.05em;
