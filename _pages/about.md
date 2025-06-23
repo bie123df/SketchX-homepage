@@ -168,7 +168,7 @@ redirect_from:
 <h3>📚 2025</h3>
 <ol style="padding-left: 1.2em;">
   
-  <li style="margin-bottom: 0.3em; line-height: 1.3;">
+  <li style="margin-bottom: 0.4em; line-height: 1.4;">
     <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32240" target="_blank" rel="noopener noreferrer">
       <strong>VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis</strong>
     </a>
