@@ -170,14 +170,14 @@ redirect_from:
   <li style="margin-bottom: 1em; line-height: 1.6;">
     <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32894" target="_blank" rel="noopener noreferrer">
       <strong>VA-AR: Learning Velocity-Aware Action Representations with Mixture of Window Attention</strong>
-    </a><br>
+    </a>
     Jiangning Wei, Lixiong Qin, Bo Yu, Tianjian Zou, Chuhan Yan, Dandan Xiao, Yang Yu, Lan Yang, Ke Li, Jun Liu — <em>AAAI 2025</em>
   </li>
   
   <li style="margin-bottom: 1em; line-height: 1.6;">
     <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32240" target="_blank" rel="noopener noreferrer">
       <strong>VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis</strong>
-    </a><br>
+    </a>
     Zhipeng Chen, Lan Yang, Yonggang Qi, Honggang Zhang, Kaiyue Pang, Ke Li, Yi-Zhe Song — <em>AAAI 2025</em>
   </li>
 </ol>
