@@ -183,6 +183,14 @@ redirect_from:
   margin-top: 0.5em;
   font-size: 1em;
 }
+
+#downloads-section h3 {
+  font-size: 1.6em;
+  font-weight: 600;
+  margin-top: 1.8em;
+  margin-bottom: 0.6em;
+  color: #ff6600;
+}
   
 </style>
 
