@@ -30,8 +30,8 @@ redirect_from:
   font-family: 'Playfair Display', serif;
   font-size: 2.2em;
   color: #4d3f2b;
-  margin-bottom: 0.6em; /* 原为 1em，减小下边距 */
-  margin-top: 0; /* 可选：若父容器上方有内边距，这里设为0更紧凑 */
+  margin-bottom: 0.6em; 
+  margin-top: 0;
   position: relative;
 }
 
@@ -39,9 +39,9 @@ redirect_from:
   content: "";
   position: absolute;
   left: 0;
-  bottom: -4px; /* 原为 -8px，调小下划线与标题文字的距离 */
-  width: 50px;   /* 原为 60px，使下划线稍微更短 */
-  height: 2px;   /* 原为 3px，更细一点 */
+  bottom: -4px; 
+  width: 50px;  
+  height: 2px;   
   background-color: #b89b72;
 }
 
@@ -205,6 +205,12 @@ redirect_from:
     text-align: center;
   }
 
+#team-members-section h3 {
+  font-size: 2em;
+  font-weight: bold; 
+  margin-bottom: 0.5em;
+}
+  
 
 </style>
 
