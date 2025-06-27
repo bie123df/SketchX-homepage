@@ -171,16 +171,16 @@ redirect_from:
   <section id="slider-banner">
     <div class="bx-slider">
       <div class="slides">
-        <img alt="SIGGRAPH Asia paper accepted!" src="https://sketchx.eecs.qmul.ac.uk/wp-content/uploads/2020/10/1.jpg">
+        <img alt="SIGGRAPH Asia paper accepted!" src="/images/1.jpg">
       </div>
       <div class="slides">
-        <img alt="Two Sketch papers in CVPR’20!" src="https://sketchx.eecs.qmul.ac.uk/wp-content/uploads/2020/10/2.jpg">
+        <img alt="Two Sketch papers in CVPR’20!" src="/images/2.jpg">
       </div>
       <div class="slides">
-        <img alt="One paper in ECCV’20!" src="https://sketchx.eecs.qmul.ac.uk/wp-content/uploads/2020/10/3.jpg">
+        <img alt="One paper in ECCV’20!" src="/images/3.jpg">
       </div>
       <div class="slides">
-        <img alt="Two papers in ICCV’19!" src="https://sketchx.eecs.qmul.ac.uk/wp-content/uploads/2020/10/4.jpg">
+        <img alt="Two papers in ICCV’19!" src="/images/4.jpg">
       </div>
     </div>
     <span id="slider-prev">&#10094;</span>
