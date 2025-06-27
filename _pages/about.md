@@ -116,11 +116,76 @@ redirect_from:
     color: #777;
     margin-top: 1em;
   }
+
+  #slider-banner {
+    position: relative;
+    max-width: 800px;
+    margin: 40px auto;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  }
+
+  .bx-slider {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+
+  .slides {
+    min-width: 100%;
+    box-sizing: border-box;
+  }
+
+  .slides img {
+    width: 100%;
+    display: block;
+    border-radius: 10px;
+  }
+
+  #slider-prev, #slider-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 2em;
+    color: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    user-select: none;
+    padding: 0 10px;
+    z-index: 1;
+  }
+
+  #slider-prev { left: 0; }
+  #slider-next { right: 0; }
+
+  #slider-prev:hover, #slider-next:hover {
+    color: #000;
+  }
+  
 </style>
 
 <!-- Section: About -->
 <div class="section" id="about-section">
   <h2>🌟 Welcome to SketchX</h2>
+
+    <!-- Image Slider Banner (新增部分) -->
+  <section id="slider-banner">
+    <div class="bx-slider">
+      <div class="slides">
+        <img alt="SIGGRAPH Asia paper accepted!" src="https://sketchx.eecs.qmul.ac.uk/wp-content/uploads/2020/10/1.jpg">
+      </div>
+      <div class="slides">
+        <img alt="Two Sketch papers in CVPR’20!" src="https://sketchx.eecs.qmul.ac.uk/wp-content/uploads/2020/10/2.jpg">
+      </div>
+      <div class="slides">
+        <img alt="One paper in ECCV’20!" src="https://sketchx.eecs.qmul.ac.uk/wp-content/uploads/2020/10/3.jpg">
+      </div>
+      <div class="slides">
+        <img alt="Two papers in ICCV’19!" src="https://sketchx.eecs.qmul.ac.uk/wp-content/uploads/2020/10/4.jpg">
+      </div>
+    </div>
+    <span id="slider-prev">&#10094;</span>
+    <span id="slider-next">&#10095;</span>
+  </section>
 
   <p class="dropcap">
     The ultimate vision for <strong>SketchX</strong> is to understand how seeing can be explained by drawing. In other words, how a better understanding of human sketch data can be translated into insights on how human visual systems operate — and in turn, how such insights can benefit computer vision and cognitive science at large.
@@ -2873,6 +2938,34 @@ redirect_from:
     const sectionId = hash + "-section";
     showSection(sectionId);
   });
+
+  const slider = document.querySelector('.bx-slider');
+  const slides = document.querySelectorAll('.slides');
+  const prev = document.getElementById('slider-prev');
+  const next = document.getElementById('slider-next');
+
+  let currentIndex = 0;
+
+  function showSlide(index) {
+    const offset = -index * 100;
+    slider.style.transform = `translateX(${offset}%)`;
+  }
+
+  prev.addEventListener('click', () => {
+    currentIndex = (currentIndex - 1 + slides.length) % slides.length;
+    showSlide(currentIndex);
+  });
+
+  next.addEventListener('click', () => {
+    currentIndex = (currentIndex + 1) % slides.length;
+    showSlide(currentIndex);
+  });
+
+  // Optional: auto-play every 5 seconds
+  setInterval(() => {
+    currentIndex = (currentIndex + 1) % slides.length;
+    showSlide(currentIndex);
+  }, 5000);
 </script>
 
 
