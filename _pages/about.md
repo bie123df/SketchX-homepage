@@ -272,7 +272,7 @@ redirect_from:
 <div class="figure-row">
 <figure id="attachment_888" aria-describedby="caption-attachment-888" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.co.uk/citations?user=irZFP_AAAAAJ&amp;hl=en">
-        <img decoding="async" class="wp-image-888" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2020/10/3-1-225x300.jpg" alt="" width="150" height="200">
+        <img decoding="async" class="wp-image-888" src="{{ '/images/3-1-225x300.jpg' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-888" class="wp-caption-text">
         <a href="https://scholar.google.co.uk/citations?user=irZFP_AAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Yi-Zhe Song</a>
@@ -284,7 +284,7 @@ redirect_from:
 <div class="figure-row">
 <figure id="attachment_884" aria-describedby="caption-attachment-884" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.co.uk/citations?user=nHhtvqkAAAAJ&amp;hl=en">
-        <img decoding="async" class="wp-image-884" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2020/10/19-224x300.png" alt="" width="150" height="200">
+        <img decoding="async" class="wp-image-884" src="{{ '/images/19-224x300.png' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-884" class="wp-caption-text">
         <a href="https://scholar.google.co.uk/citations?user=nHhtvqkAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Timothy Hospedales</a>
@@ -292,7 +292,7 @@ redirect_from:
 </figure>
 <figure id="attachment_883" aria-describedby="caption-attachment-883" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.co.uk/citations?user=MeS5d4gAAAAJ&amp;hl=en">
-        <img decoding="async" class="wp-image-883" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2020/10/18-225x300.png" alt="" width="150" height="200">
+        <img decoding="async" class="wp-image-883" src="{{ '/images/18-225x300.png' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-883" class="wp-caption-text">
         <a href="https://scholar.google.co.uk/citations?user=MeS5d4gAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Tao (Tony) Xiang</a>
@@ -300,7 +300,7 @@ redirect_from:
 </figure>
 <figure id="attachment_868" aria-describedby="caption-attachment-868" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.de/citations?user=cBB96b4AAAAJ&amp;hl=en">
-        <img loading="lazy" decoding="async" class="wp-image-868" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2022/07/7fbee80a49088009cdcbaedb272af8f9.jpg" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-868" src="{{ '/images/7fbee80a49088009cdcbaedb272af8f9.jpg' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-868" class="wp-caption-text">
         <a href="https://scholar.google.de/citations?user=cBB96b4AAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Yulia Gryaditskaya</a>
@@ -312,7 +312,7 @@ redirect_from:
 <div class="figure-row">
 <figure id="attachment_867" aria-describedby="caption-attachment-867" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.com/citations?user=kR3zzeUAAAAJ&amp;hl=en">
-        <img loading="lazy" decoding="async" class="wp-image-868" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2022/07/Kaiyue_Jul2022-e1657365223297.jpeg" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-868" src="{{ '/images/Kaiyue_Jul2022-e1657365223297.jpeg' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-867" class="wp-caption-text">
         <a href="https://scholar.google.com/citations?user=kR3zzeUAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Kaiyue Pang</a>
@@ -324,7 +324,7 @@ redirect_from:
 <div class="figure-row">
 <figure id="attachment_869" aria-describedby="caption-attachment-869" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.co.uk/citations?user=F7PtrL8AAAAJ&amp;hl=en">
-        <img loading="lazy" decoding="async" class="wp-image-869" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2016/04/Yongxin-e1657364073846.jpg" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-869" src="{{ '/images/Yongxin-e1657364073846.jpg' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-869" class="wp-caption-text">
         <a href="https://scholar.google.co.uk/citations?user=F7PtrL8AAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Yongxin Yang</a>
@@ -332,7 +332,7 @@ redirect_from:
 </figure>
 <figure id="attachment_881" aria-describedby="caption-attachment-881" style="width: 150px" class="wp-caption alignleft">
     <a href="https://qugank.github.io">
-        <img loading="lazy" decoding="async" class="wp-image-881" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2022/07/yonggang-43.jpg" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-881" src="{{ '/images/yonggang-43.jpg' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-881" class="wp-caption-text">
         <a href="https://scholar.google.com.hk/citations?user=pQNpf7cAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener noreferrer">Yonggang Qi</a>
@@ -340,7 +340,7 @@ redirect_from:
 </figure>
 <figure id="attachment_879" aria-describedby="caption-attachment-879" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.com/citations?user=KZOFaz4AAAAJ&amp;hl=en">
-        <img loading="lazy" decoding="async" class="wp-image-879" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2022/07/WechatIMG17563.jpeg" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-879" src="{{ '/images/WechatIMG17563.jpeg' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-879" class="wp-caption-text">
         <a href="https://scholar.google.com/citations?user=KZOFaz4AAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Ke Li</a>
@@ -351,22 +351,22 @@ redirect_from:
 <h3>Current PhD Students:</h3>
 <div class="figure-row">
 <figure id="attachment_872" aria-describedby="caption-attachment-872" style="width: 150px" class="wp-caption alignleft">
-    <img loading="lazy" decoding="async" class="wp-image-872" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2020/10/7-225x300.png" alt="" width="150" height="200">
+    <img loading="lazy" decoding="async" class="wp-image-872" src="{{ '/images/7-225x300.png' | relative_url }}" alt="" width="150" height="200">
     <figcaption id="caption-attachment-872" class="wp-caption-text">
         <a href="http://www.letitbrain.it/letitbrain/" target="_blank" rel="noopener noreferrer">Antonio Daniele</a>
     </figcaption>
 </figure>
 <figure id="attachment_871" aria-describedby="caption-attachment-871" style="width: 150px" class="wp-caption alignleft">
-    <img loading="lazy" decoding="async" class="wp-image-871" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2020/10/6-225x300.png" alt="" width="150" height="200">
+    <img loading="lazy" decoding="async" class="wp-image-871" src="{{ '/images/6-225x300.png' | relative_url }}" alt="" width="150" height="200">
     <figcaption id="caption-attachment-871" class="wp-caption-text">Yue Zhong</figcaption>
 </figure>
 <figure id="attachment_1004" aria-describedby="caption-attachment-1004" style="width: 150px" class="wp-caption alignleft">
-    <img loading="lazy" decoding="async" class="wp-image-1004" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2021/11/IMG_2892.jpg" alt="" width="150" height="200">
+    <img loading="lazy" decoding="async" class="wp-image-1004" src="{{ '/images/IMG_2892.jpg' | relative_url }}" alt="" width="150" height="200">
     <figcaption id="caption-attachment-1004" class="wp-caption-text">Lan Yang</figcaption>
 </figure>
 <figure id="attachment_905" aria-describedby="caption-attachment-905" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.com/citations?user=tIf50PgAAAAJ&amp;hl=en">
-        <img loading="lazy" decoding="async" class="wp-image-905" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2022/07/Dongliang-e1657361508702.png" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-905" src="{{ '/images/Dongliang-e1657361508702.png' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-905" class="wp-caption-text">
         <a href="https://scholar.google.com/citations?user=tIf50PgAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Dongliang Chang</a>
@@ -374,7 +374,7 @@ redirect_from:
 </figure>
 <figure id="attachment_908" aria-describedby="caption-attachment-908" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.co.in/citations?user=gjslbzsAAAAJ&amp;hl=en">
-        <img loading="lazy" decoding="async" class="wp-image-908 size-full" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2022/07/85c2d7efffcb4849de402f1929796bb4.jpg" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-908 size-full" src="{{ '/images/85c2d7efffcb4849de402f1929796bb4.jpg' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-908" class="wp-caption-text">
         <a href="https://scholar.google.co.in/citations?user=gjslbzsAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Ayan Kumar Bhunia</a>
@@ -382,7 +382,7 @@ redirect_from:
 </figure>
 <figure id="attachment_906" aria-describedby="caption-attachment-906" style="width: 150px" class="wp-caption alignleft">
     <a href="https://rowl1ng.com">
-        <img loading="lazy" decoding="async" class="wp-image-906" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2022/07/0b4b78d024da3b6046badb8759e0ce5c.jpg" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-906" src="{{ '/images/0b4b78d024da3b6046badb8759e0ce5c.jpg' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-906" class="wp-caption-text">
         <a href="https://rowl1ng.com" target="_blank" rel="noopener noreferrer">Ling Luo</a>
@@ -390,7 +390,7 @@ redirect_from:
 </figure>
 <figure id="attachment_907" aria-describedby="caption-attachment-907" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.com/citations?user=x-WI_EgAAAAJ&amp;hl=en">
-        <img loading="lazy" decoding="async" class="wp-image-907" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2020/10/lori-hoy.png" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-907" src="{{ '/images/lori-hoy.png' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-907" class="wp-caption-text">
         <a href="https://scholar.google.com/citations?user=x-WI_EgAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Ayan Das</a>
@@ -398,35 +398,35 @@ redirect_from:
 </figure>
 <figure id="attachment_904" aria-describedby="caption-attachment-904" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.com/citations?user=_QWFBvoAAAAJ&amp;hl=en">
-        <img loading="lazy" decoding="async" class="wp-image-904" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2022/07/8a3814d35e046cda138f04bfebe203c1.jpg" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-904" src="{{ '/images/8a3814d35e046cda138f04bfebe203c1.jpg' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-904" class="wp-caption-text">
         <a href="https://scholar.google.com/citations?user=_QWFBvoAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Aneeshan Sain</a>
     </figcaption>
 </figure>
 <figure id="attachment_1003" aria-describedby="caption-attachment-1003" style="width: 150px" class="wp-caption alignleft">
-    <img loading="lazy" decoding="async" class="wp-image-1003" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2022/07/f15a56e40cdad561f1b57188b9664369.jpg" alt="" width="150" height="200">
+    <img loading="lazy" decoding="async" class="wp-image-1003" src="{{ '/images/f15a56e40cdad561f1b57188b9664369.jpg' | relative_url }}" alt="" width="150" height="200">
     <figcaption id="caption-attachment-1003" class="wp-caption-text">Zhiyu Qu</figcaption>
 </figure>
 <figure id="attachment_904" aria-describedby="caption-attachment-904" style="width: 150px" class="wp-caption alignleft">
     <a href="http://pinakinathc.me">
-        <img loading="lazy" decoding="async" class="wp-image-904" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2022/07/IMG_00631.jpg" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-904" src="{{ '/images/IMG_00631.jpg' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-904" class="wp-caption-text">
         <a href="http://pinakinathc.me" target="_blank" rel="noopener noreferrer">Pinaki Chowdhury</a>
     </figcaption>
 </figure>
 <figure id="attachment_1003" aria-describedby="caption-attachment-1003" style="width: 150px" class="wp-caption alignleft">
-    <img loading="lazy" decoding="async" class="wp-image-1003" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2020/10/self-photo-225x300.jpg" alt="" width="150" height="200">
+    <img loading="lazy" decoding="async" class="wp-image-1003" src="{{ '/images/self-photo-225x300.jpg' | relative_url }}" alt="" width="150" height="200">
     <figcaption id="caption-attachment-1003" class="wp-caption-text">Yixiao Zheng</figcaption>
 </figure>
 <figure id="attachment_1002" aria-describedby="caption-attachment-1002" style="width: 150px" class="wp-caption alignleft">
-    <img loading="lazy" decoding="async" class="wp-image-1002" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2021/04/mmexport1619692839658_mh1619693201290.jpg" alt="" width="150" height="200">
+    <img loading="lazy" decoding="async" class="wp-image-1002" src="{{ '/images/mmexport1619692839658_mh1619693201290.jpg' | relative_url }}" alt="" width="150" height="200">
     <figcaption id="caption-attachment-1002" class="wp-caption-text">Ruolin Yang</figcaption>
 </figure>
 <figure id="attachment_904" aria-describedby="caption-attachment-904" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.com/citations?user=-mOrpz8AAAAJ">
-        <img loading="lazy" decoding="async" class="wp-image-904" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2022/04/sk02100.jpg" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-904" src="{{ '/images/sk02100.jpg' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-904" class="wp-caption-text">
         <a href="https://scholar.google.com/citations?user=-mOrpz8AAAAJ" target="_blank" rel="noopener noreferrer">Subhadeep Koley</a>
@@ -434,19 +434,19 @@ redirect_from:
 </figure>
 <figure id="attachment_904" aria-describedby="caption-attachment-904" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.co.in/citations?hl=en&amp;user=aBturOYAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">
-        <img loading="lazy" decoding="async" class="wp-image-904" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2022/07/IMG_20220710_021548.jpg" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-904" src="{{ '/images/IMG_20220710_021548.jpg' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-904" class="wp-caption-text">
         <a href="https://scholar.google.co.in/citations?hl=en&amp;user=aBturOYAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener noreferrer">Hmrishav Bandyopadhyay</a>
     </figcaption>
 </figure>
 <figure id="attachment_1003" aria-describedby="caption-attachment-1003" style="width: 150px" class="wp-caption alignleft">
-    <img loading="lazy" decoding="async" class="wp-image-1003" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2022/08/Me.jpg" alt="" width="150" height="200">
+    <img loading="lazy" decoding="async" class="wp-image-1003" src="{{ '/images/Me.jpg' | relative_url }}" alt="" width="150" height="200">
     <figcaption id="caption-attachment-1003" class="wp-caption-text">Alexander Ashcroft</figcaption>
 </figure>
 <figure id="attachment_904" aria-describedby="caption-attachment-904" style="width: 150px" class="wp-caption alignleft">
     <a href="https://ruoyidu.github.io">
-        <img loading="lazy" decoding="async" class="wp-image-904" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2022/08/RuoyiDu.jpg" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-904" src="{{ '/images/RuoyiDu.jpg' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-904" class="wp-caption-text">
         <a href="https://ruoyidu.github.io" target="_blank" rel="noopener noreferrer">Ruoyi Du</a>
@@ -458,7 +458,7 @@ redirect_from:
 <div class="figure-row">
 <figure id="attachment_874" aria-describedby="caption-attachment-874" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.com/citations?user=1D4xX8MAAAAJ&amp;hl=en">
-        <img loading="lazy" decoding="async" class="wp-image-874" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2022/07/68b794403df3fd57f5f87670afed023f.jpg" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-874" src="{{ '/images/68b794403df3fd57f5f87670afed023f.jpg' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-874" class="wp-caption-text">
         <a href="https://anranqi.github.io/" target="_blank" rel="noopener noreferrer">Anran Qi</a>
@@ -467,7 +467,7 @@ redirect_from:
 </figure>
 <figure id="attachment_874" aria-describedby="caption-attachment-874" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.com/citations?user=1D4xX8MAAAAJ&amp;hl=en">
-        <img loading="lazy" decoding="async" class="wp-image-874" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2020/10/11-225x300.png" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-874" src="{{ '/images/11-225x300.png' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-874" class="wp-caption-text">
         <a href="https://scholar.google.com/citations?user=1D4xX8MAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Conghui Hu</a>
@@ -476,7 +476,7 @@ redirect_from:
 </figure>
 <figure id="attachment_874" aria-describedby="caption-attachment-874" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.co.uk/citations?user=aRBLzfEAAAAJ&amp;hl=en">
-        <img loading="lazy" decoding="async" class="wp-image-874" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2020/10/9-225x300.png" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-874" src="{{ '/images/9-225x300.png' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-874" class="wp-caption-text">
         <a href="https://scholar.google.co.uk/citations?user=aRBLzfEAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Umar Riaz Muhammad</a>
@@ -485,7 +485,7 @@ redirect_from:
 </figure>
 <figure id="attachment_877" aria-describedby="caption-attachment-877" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.com/citations?user=9a1PjCIAAAAJ&amp;hl=en">
-        <img loading="lazy" decoding="async" class="wp-image-877" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2020/10/12-225x300.png" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-877" src="{{ '/images/12-225x300.png' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-877" class="wp-caption-text">
         <a href="https://scholar.google.com/citations?user=9a1PjCIAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Jifei Song</a>
@@ -494,7 +494,7 @@ redirect_from:
 </figure>
 <figure id="attachment_875" aria-describedby="caption-attachment-875" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.com/citations?user=RPvaE3oAAAAJ&amp;hl=en">
-        <img loading="lazy" decoding="async" class="wp-image-875" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2020/10/10-225x300.png" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-875" src="{{ '/images/10-225x300.png' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-875" class="wp-caption-text">
         <a href="https://scholar.google.com/citations?user=RPvaE3oAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Da Li</a>
@@ -503,7 +503,7 @@ redirect_from:
 </figure>
 <figure id="attachment_880" aria-describedby="caption-attachment-880" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.com/citations?user=mmm90qgAAAAJ&amp;hl=en">
-        <img loading="lazy" decoding="async" class="wp-image-880" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2020/10/15-225x300.png" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-880" src="{{ '/images/15-225x300.png' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-880" class="wp-caption-text">
         <a href="https://scholar.google.com/citations?user=mmm90qgAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Qian Yu</a>
@@ -512,7 +512,7 @@ redirect_from:
 </figure>
 <figure id="attachment_881" aria-describedby="caption-attachment-881" style="width: 150px" class="wp-caption alignleft">
     <a href="https://qugank.github.io">
-        <img loading="lazy" decoding="async" class="wp-image-881" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2020/10/17-225x300.png" alt="" width="150" height="200">
+        <img loading="lazy" decoding="async" class="wp-image-881" src="{{ '/images/17-225x300.png' | relative_url }}" alt="" width="150" height="200">
     </a>
     <figcaption id="caption-attachment-881" class="wp-caption-text">
         <a href="https://scholar.google.co.uk/citations?user=SeEfMBkAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Yi Li</a>
@@ -533,6 +533,7 @@ redirect_from:
 </p>
 
 </div>
+
 
 
 </div>
