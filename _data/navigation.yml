@@ -11,10 +11,10 @@ main:
 
   - title: "Downloads"
     url: "/downloads"
-    
+    <!--
   - title: "Projects"
     url: "/projects"
-    
+    -->
   - title: "News"
     url: "/news"
 
