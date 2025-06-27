@@ -191,7 +191,21 @@ redirect_from:
   margin-bottom: 0.6em;
   color: #ff6600;
 }
-  
+
+
+  .figure-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* 图像间距 */
+    margin-bottom: 30px;
+  }
+
+  .figure-row figure {
+    margin: 0;
+    text-align: center;
+  }
+
+
 </style>
 
 <!-- Section: About -->
@@ -255,6 +269,7 @@ redirect_from:
 <div class="entry-content">
 
 <h3>Director:</h3>
+<div class="figure-row">
 <figure id="attachment_888" aria-describedby="caption-attachment-888" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.co.uk/citations?user=irZFP_AAAAAJ&amp;hl=en">
         <img decoding="async" class="wp-image-888" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2020/10/3-1-225x300.jpg" alt="" width="150" height="200">
@@ -263,8 +278,10 @@ redirect_from:
         <a href="https://scholar.google.co.uk/citations?user=irZFP_AAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Yi-Zhe Song</a>
     </figcaption>
 </figure>
+</div>
 
 <h3>Co-Directors:</h3>
+<div class="figure-row">
 <figure id="attachment_884" aria-describedby="caption-attachment-884" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.co.uk/citations?user=nHhtvqkAAAAJ&amp;hl=en">
         <img decoding="async" class="wp-image-884" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2020/10/19-224x300.png" alt="" width="150" height="200">
@@ -289,8 +306,10 @@ redirect_from:
         <a href="https://scholar.google.de/citations?user=cBB96b4AAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Yulia Gryaditskaya</a>
     </figcaption>
 </figure>
+</div>
 
 <h3>Postdocs:</h3>
+<div class="figure-row">
 <figure id="attachment_867" aria-describedby="caption-attachment-867" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.com/citations?user=kR3zzeUAAAAJ&amp;hl=en">
         <img loading="lazy" decoding="async" class="wp-image-868" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2022/07/Kaiyue_Jul2022-e1657365223297.jpeg" alt="" width="150" height="200">
@@ -299,8 +318,10 @@ redirect_from:
         <a href="https://scholar.google.com/citations?user=kR3zzeUAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Kaiyue Pang</a>
     </figcaption>
 </figure>
+</div>
 
 <h3>Affiliated Academics:</h3>
+<div class="figure-row">
 <figure id="attachment_869" aria-describedby="caption-attachment-869" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.co.uk/citations?user=F7PtrL8AAAAJ&amp;hl=en">
         <img loading="lazy" decoding="async" class="wp-image-869" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2016/04/Yongxin-e1657364073846.jpg" alt="" width="150" height="200">
@@ -325,8 +346,10 @@ redirect_from:
         <a href="https://scholar.google.com/citations?user=KZOFaz4AAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Ke Li</a>
     </figcaption>
 </figure>
+</div>
 
 <h3>Current PhD Students:</h3>
+<div class="figure-row">
 <figure id="attachment_872" aria-describedby="caption-attachment-872" style="width: 150px" class="wp-caption alignleft">
     <img loading="lazy" decoding="async" class="wp-image-872" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2020/10/7-225x300.png" alt="" width="150" height="200">
     <figcaption id="caption-attachment-872" class="wp-caption-text">
@@ -429,8 +452,10 @@ redirect_from:
         <a href="https://ruoyidu.github.io" target="_blank" rel="noopener noreferrer">Ruoyi Du</a>
     </figcaption>
 </figure>
+</div>
 
 <h3>Past PhD Students:</h3>
+<div class="figure-row">
 <figure id="attachment_874" aria-describedby="caption-attachment-874" style="width: 150px" class="wp-caption alignleft">
     <a href="https://scholar.google.com/citations?user=1D4xX8MAAAAJ&amp;hl=en">
         <img loading="lazy" decoding="async" class="wp-image-874" src="http://sketchx.eecs.qmul.ac.uk/wp-content/uploads/sites/27/2022/07/68b794403df3fd57f5f87670afed023f.jpg" alt="" width="150" height="200">
@@ -494,6 +519,7 @@ redirect_from:
         <p style="font-size: small" align="center">(now Senior Research Scientist at JD.com</p>
     </figcaption>
 </figure>
+</div>
 
 <h3>Visitors (Past & Present):</h3>
 <p>
@@ -507,6 +533,8 @@ redirect_from:
 </p>
 
 </div>
+
+
 </div>
 
 
