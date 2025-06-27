@@ -170,18 +170,19 @@ redirect_from:
     <!-- Image Slider Banner (新增部分) -->
   <section id="slider-banner">
     <div class="bx-slider">
-      <div class="slides">
-        <img alt="SIGGRAPH Asia paper accepted!" src="/images/1.jpg">
-      </div>
-      <div class="slides">
-        <img alt="Two Sketch papers in CVPR’20!" src="/images/2.jpg">
-      </div>
-      <div class="slides">
-        <img alt="One paper in ECCV’20!" src="/images/3.jpg">
-      </div>
-      <div class="slides">
-        <img alt="Two papers in ICCV’19!" src="/images/4.jpg">
-      </div>
+<div class="slides">
+  <img src="{{ '/images/1.jpg' | relative_url }}" alt="SIGGRAPH Asia paper accepted!">
+</div>
+<div class="slides">
+  <img src="{{ '/images/2.jpg' | relative_url }}" alt="Two Sketch papers in CVPR’20!">
+</div>
+<div class="slides">
+  <img src="{{ '/images/3.jpg' | relative_url }}" alt="One paper in ECCV’20!">
+</div>
+<div class="slides">
+  <img src="{{ '/images/4.jpg' | relative_url }}" alt="Two papers in ICCV’19!">
+</div>
+
     </div>
     <span id="slider-prev">&#10094;</span>
     <span id="slider-next">&#10095;</span>
