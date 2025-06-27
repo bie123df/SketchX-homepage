@@ -8,6 +8,9 @@ main:
     
   - title: "Honors"
     url: "/awards"
+
+  - title: "Downloads"
+    url: "/downloads"
     
   - title: "Projects"
     url: "/projects"
