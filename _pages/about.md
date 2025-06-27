@@ -206,7 +206,7 @@ redirect_from:
   }
 
 #team-members-section h3 {
-  font-size: 2em;
+  font-size: 1em;
   font-weight: bold; 
   margin-bottom: 0.5em;
 }
