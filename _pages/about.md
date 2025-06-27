@@ -527,7 +527,7 @@ redirect_from:
 </figure>
 </div>
 
-<h3>Visitors (Past & Present):</h3>
+<h3>Visitors (Past  &amp; Present):</h3>
 <p>
     <a href="https://scholar.google.com/citations?user=9yg80qYAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener noreferrer">Jianshu Zhang</a>, University of Science and Technology of China/iFlyTek.
 </p>
