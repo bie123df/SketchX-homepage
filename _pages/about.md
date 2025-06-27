@@ -160,6 +160,29 @@ redirect_from:
   #slider-prev:hover, #slider-next:hover {
     color: #000;
   }
+
+.dataset-gallery {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-top: 1em;
+}
+
+.dataset-item {
+  max-width: 650px;
+}
+
+.dataset-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+
+.dataset-item figcaption {
+  margin-top: 0.5em;
+  font-size: 1em;
+}
   
 </style>
 
@@ -2898,6 +2921,68 @@ redirect_from:
     <li>📄59 x CVPR, 15 x ICCV, 17 x ECCV, 7 x AAAI, 5 x ICLR, 3 x NeurIPS, 1 x ICML </li>
   </ul>
 </div>
+
+
+<!-- Section: Downloads -->
+<div class="section" id="downloads-section">
+  <h2>📦 Downloads</h2>
+
+  <h3 style="color: #ff6600; margin-top: 1.5em;">📁 Datasets</h3>
+
+  <div class="dataset-gallery">
+    <figure class="dataset-item">
+      <a href="https://drive.google.com/u/0/uc?export=download&amp;confirm=tToE&amp;id=1mWEY7vFkOw790DwUtqcTX8fHzNBP_b1J" target="_blank">
+        <img src="{{ '/images/SlowSketch.png' | relative_url }}" alt="SlowSketch Dataset">
+      </a>
+      <figcaption>
+        <a href="https://drive.google.com/u/0/uc?export=download&amp;confirm=tToE&amp;id=1mWEY7vFkOw790DwUtqcTX8fHzNBP_b1J" target="_blank">SlowSketch</a>
+        <span style="color: #ff6600;">(*NEW*)</span>
+      </figcaption>
+    </figure>
+
+    <figure class="dataset-item">
+      <a href="https://dali-dl.github.io/project_iccv2017.html" target="_blank">
+        <img src="{{ '/images/project_img1-1.png' | relative_url }}" alt="PACS Dataset">
+      </a>
+      <figcaption>
+        <a href="https://dali-dl.github.io/project_iccv2017.html" target="_blank">PACS (Deeper, Broader and Artier Domain Generalization)</a>
+      </figcaption>
+    </figure>
+
+    <figure class="dataset-item">
+      <a href="https://drive.google.com/u/0/uc?id=15s2BR-QwLgX_DObQBrYlUlZqUU90EL9G&amp;export=download" target="_blank">
+        <img src="{{ '/images/dataset2-1024x600.jpg' | relative_url }}" alt="Fine-Grained SBIR Dataset v2">
+      </a>
+      <figcaption>
+        <a href="https://drive.google.com/u/0/uc?id=15s2BR-QwLgX_DObQBrYlUlZqUU90EL9G&amp;export=download" target="_blank">Fine-Grained SBIR Datasets</a>
+        <span style="color: #ff6600;">(v2 released!!)</span>
+      </figcaption>
+    </figure>
+
+    <figure class="dataset-item">
+      <a href="https://github.com/panly099/fine-graind-SBIR" target="_blank">
+        <img src="{{ '/images/markings-1024x394.jpg' | relative_url }}" alt="Fine-Grained SBIR PASCAL VOC">
+      </a>
+      <figcaption>
+        <a href="https://github.com/panly099/fine-graind-SBIR" target="_blank">Fine-Grained SBIR Dataset (PASCAL VOC)</a>
+      </figcaption>
+    </figure>
+  </div>
+
+  <h3 style="color: #ff6600; margin-top: 2em;">💻 Code</h3>
+  <ul>
+    <li>
+      Free-hand sketch synthesis with deformable stroke models:
+      <a href="https://github.com/panly099/sketchSynthesis" target="_blank">code</a> (Matlab)
+    </li>
+    <li>
+      Fine-grained sketch-based image retrieval by matching DPM:
+      <a href="https://github.com/panly099/fine-graind-SBIR" target="_blank">code</a> (Matlab)
+    </li>
+  </ul>
+</div>
+
+
 
 <!-- Section: Projects -->
 <div class="section" id="projects-section" >
