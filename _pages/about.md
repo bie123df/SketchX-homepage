@@ -2999,11 +2999,56 @@ redirect_from:
 </div>
 
 <!-- Section: News -->
-<div class="section" id="news-section" >
+<div class="section" id="news-section">
   <h2>🔥 Team News</h2>
-  <a class="twitter-timeline" data-height="600" href="https://twitter.com/SketchXlab?ref_src=twsrc%5Etfw">Tweets by SketchXlab</a>
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+  <h3>1 Paper in AAAI’25 !</h3>
+  <ul style="padding-left: 1.2em;">
+    <li>
+      VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis  
+      Zhipeng Chen, Lan Yang, Yonggang Qi, Honggang Zhang, Kaiyue Pang, Ke Li, Yi-Zhe Song, AAAI 2025
+    </li>
+  </ul>
+
+  <h3>18 Papers in CVPR/ECCV/ICLR’24 ! </h3>
+  <ul style="padding-left: 1.2em;">
+    <li>Demofusion: Democratising high-resolution image generation with no $$$  
+        Ruoyi Du, Dongliang Chang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma, CVPR 2024</li>
+    <li>It's All About Your Sketch: Democratising Sketch Control in Diffusion Models  
+        Subhadeep Koley, Ayan Kumar Bhunia, Deeptanshu Sekhri, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song, CVPR 2024</li>
+    <li>How to handle sketch-abstraction in sketch-based image retrieval?  
+        Subhadeep Koley, Ayan Kumar Bhunia, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song, CVPR 2024</li>
+    <li>You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval  
+        Subhadeep Koley, Ayan Kumar Bhunia, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song, CVPR 2024</li>
+    <li>Doodle your 3d: From abstract freehand sketches to precise 3d shapes  
+        Hmrishav Bandyopadhyay, Subhadeep Koley, Ayan Das, Ayan Kumar Bhunia, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song, CVPR 2024</li>
+    <li>Sketchinr: A first look into sketches as implicit neural representations  
+        Hmrishav Bandyopadhyay, Ayan Kumar Bhunia, Pinaki Nath Chowdhury, Aneeshan Sain, Tao Xiang, Timothy Hospedales, Yi-Zhe Song, CVPR 2024</li>
+    <li>Text-to-image diffusion models are great sketch-photo matchmakers  
+        Subhadeep Koley, Ayan Kumar Bhunia, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song, CVPR 2024</li>
+    <li>Wired perspectives: Multi-view wire art embraces generative ai  
+        Zhiyu Qu, Lan Yang, Honggang Zhang, Tao Xiang, Kaiyue Pang, Yi-Zhe Song, CVPR 2024</li>
+    <li>Democaricature: Democratising caricature generation with a rough sketch  
+        Dar-Yen Chen, Ayan Kumar Bhunia, Subhadeep Koley, Aneeshan Sain, Pinaki Nath Chowdhury, Yi-Zhe Song, CVPR 2024</li>
+    <li>ConceptHash: Interpretable Fine-Grained Hashing via Concept Discovery  
+        Kam Woh Ng, Xiatian Zhu, Yi-Zhe Song, Tao Xiang, CVPR 2024</li>
+    <li>What Sketch Explainability Really Means for Downstream Tasks?  
+        Hmrishav Bandyopadhyay, Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Aneeshan Sain, Tao Xiang, Yi-Zhe Song, CVPR 2024</li>
+    <li>PartCraft: Crafting Creative Objects by Parts  
+        Kam Woh Ng, Xiatian Zhu, Yi-Zhe Song, Tao Xiang, ECCV 2024</li>
+    <li>Do Generalised Classifiers Really Work on Human Drawn Sketches?  
+        Hmrishav Bandyopadhyay, Pinaki Nath Chowdhury, Aneeshan Sain, Subhadeep Koley, Tao Xiang, Ayan Kumar Bhunia, Yi-Zhe Song, ECCV 2024</li>
+    <li>Freeview Sketching: View-Aware Fine-Grained Sketch-Based Image Retrieval  
+        Aneeshan Sain, Pinaki Nath Chowdhury, Subhadeep Koley, Ayan Kumar Bhunia, Yi-Zhe Song, ECCV 2024</li>
+    <li>Modelling complex vector drawings with stroke-clouds  
+        Alexander Ashcroft, Ayan Das, Yulia Gryaditskaya, Zhiyu Qu, Yi-Zhe Song, ICLR 2024</li>
+    <li>Ipr-nerf: Ownership verification meets neural radiance field  
+        Win Kent Ong, Kam Woh Ng, Chee Seng Chan, Yi-Zhe Song, Tao Xiang, ICLR 2024</li>
+    <li>Scale-Adaptive Diffusion Model for Complex Sketch Synthesis  
+        Jijin Hu, Ke Li, Yonggang Qi, Yi-Zhe Song, ICLR 2024</li>
+  </ul>
 </div>
+
 
 
 <!-- 页面切换脚本 -->
